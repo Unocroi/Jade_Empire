@@ -334,11 +334,11 @@ B  Cancels</string>
   <string id="1194">End Conversation</string>
   <string id="1195">Continue</string>
   <string id="1562">Use the Xbox Live to download new game content.</string>
-  <string id="1564">Start a new game.</string>
-  <string id="1567">Load a previously saved game.</string>
-  <string id="1568">Play an unlocked mini-game.</string>
-  <string id="1578">Stance History Page</string>
-  <string id="1956">AND</string>
+  <string id="1564">Começar um novo jogo.</string>
+  <string id="1567">Carregar um jogo salvo anteriormente.</string>
+  <string id="1568">Jogue um minijogo desbloqueado.</string>
+  <string id="1578">Página de Histórico de Postura</string>
+  <string id="1956">E</string>
   <string id="2077" soundid="127646">Gem is hidden behind wall. Go down path and you see. Assassins gots rockets set up. They getting ready to blow up wall with rockets.</string>
   <string id="2079" soundid="127648">Yes, yes. But rockets need dragon powder. Lotus Assassins always gots dragon powder handy. Good for blowing stuff up. Look around their camp and you find it.</string>
   <string id="2080" soundid="127649">You get dragon powder and use rockets to blow up wall. When wall is gone, you go look for gem. Gem is behind wall, somewhere. You just search around.</string>
@@ -350,8 +350,8 @@ B  Cancels</string>
   <string id="2090">OR</string>
   <string id="2091">TEMP: I am a Waypoint.</string>
   <string id="2092">TEMP: I am also a waypoint, too, as well.</string>
-  <string id="2101">View the gallery.</string>
-  <string id="2102">View audio, video, and gameplay options.</string>
+  <string id="2101">Olhar galeria.</string>
+  <string id="2102">Ver opções de audio, video e jogabilidade.</string>
   <string id="2335">Balanced</string>
   <string id="2343">Available Points:</string>
   <string id="2350">Master Radiant</string>
@@ -1724,7 +1724,7 @@ Sky is a dashing rogue and a skilled thief with a tongue as sharp as the twin sa
   <string id="15649" soundid="27110">No! This cannot be! No one can defeat me! Even when your Lotus Assassin master wrested the amulet from me, he did so by foul trickery.</string>
   <string id="15650" soundid="27111">Forgive me, great one. This gem I guard is meant for you. Take it, and know that I, Chai Ka, am your loyal servant, sworn to protect you.</string>
   <string id="15683">Gem Repository</string>
-  <string id="15709">Game Credits</string>
+  <string id="15709">Créditos do jogo</string>
   <string id="15716">Creature</string>
   <string id="15734">Sailor</string>
   <string id="15735" soundid="85180">Now, wait a minute! These slaves will be house servants. I&apos;ll not have my guests served by a young woman with burns and marks on her face!</string>
@@ -2868,7 +2868,7 @@ Dawn Star&apos;s magical sensitivity gives her added insight into the world arou
   <string id="22373" soundid="126638">I didn&apos;t expect to beat you. No doubt you were focused on technique and got distracted.</string>
   <string id="22385" soundid="69718">Your defiance grows tiresome, student of Li. You must learn your place in the order of things.</string>
   <string id="22387" soundid="69719">Fools! Can you not dispose of one defiant peasant?</string>
-  <string id="22389">Exit</string>
+  <string id="22389">Sair</string>
   <string id="22392">Ai Ling</string>
   <string id="22393" soundid="142601"></string>
   <string id="22394" soundid="142602"></string>
@@ -3929,7 +3929,7 @@ Fighters skilled in Heavenly Wave learn techniques that can slow their opponents
   <string id="26358">Sometimes conflict cannot be avoided.</string>
   <string id="26361">Tell me about the Way of the Closed Fist.</string>
   <string id="26363">So what is it, if it is not &quot;evil?&quot;</string>
-  <string id="26368">Exit to desktop.</string>
+  <string id="26368">Sair para a área de trabalho.</string>
   <string id="26409">Sure. Let&apos;s fight.</string>
   <string id="26415" soundid="151659">You, for instance, Black Whirlwind. You&apos;re a nightmare. A whole department can&apos;t keep up with your antics.</string>
   <string id="26416" soundid="151660">But imagine if they failed to record his various... deeds. We would never be able to determine his eventual position on the Great Wheel.</string>
@@ -5982,7 +5982,7 @@ Debates still rage on the subject, but the evidence is there to support such cla
   <string id="33207" soundid="39160">Pirates are raiding the countryside, capturing peasants and taking them as slaves. Luckily, they have not attacked Tien&apos;s Landing... yet. </string>
   <string id="33208" soundid="39161">Now that the dam is closed, fish will soon return to Tien&apos;s Landing. I can go back to earning a living, and I have you to thank for that.</string>
   <string id="33209" soundid="39162">You don&apos;t know? The Great Dam has been opened, and now the river&apos;s level has dropped. It is too low and fast to navigate. Without the river, we are nothing.</string>
-  <string id="33212">Display the credits of Jade Empire.</string>
+  <string id="33212">Mostra os créditos de Jade Empire.</string>
   <string id="33228">These are not final credits
 
 BioWare
