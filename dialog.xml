@@ -9237,7 +9237,7 @@ Often used by magicians and charlatans, this gem gives the wielder persuasive sk
   <string id="43006">Actually, I don&apos;t feel like helping you right now.</string>
   <string id="43008">She is a doctor in the Imperial Arena.</string>
   <string id="43009">I could bring the doctor to help you.</string>
-  <string id="43017">Back</string>
+  <string id="43017">Voltar</string>
   <string id="43038">Controller Vibration</string>
   <string id="43039">Use the controller vibration feature.</string>
   <string id="43050" soundid="89541">Those pirates must be Gao the Greater&apos;s men. We know that he has holdings near here, and he has flyers. </string>
@@ -13945,7 +13945,7 @@ Chi measures your spiritual energy. You use Chi to recover Health through Chi He
   <string id="64890">Find an eligible bachelor in town and convince him to meet with Ai Ling.</string>
   <string id="64891">Yaoru&apos;s arrogance nearly earned him a kick in the head, and it ended any chance of Ai Ling considering him as a husband. But if you find someone else, she&apos;ll still pay you a suitable finder&apos;s fee.</string>
   <string id="64893">Fail 1</string>
-  <string id="64915">Accept</string>
+  <string id="64915">Aceitar</string>
   <string id="65080">You&apos;re being awfully helpful to a stranger.</string>
   <string id="65396" soundid="136157">Idiot! She&apos;s obviously a spy! Kill her!</string>
   <string id="65460">Student</string>
@@ -30007,7 +30007,7 @@ This style imbues the martial artist with the power and form of the towering Jad
   <string id="112742">Worthy or not, I&apos;m going to kill you and take the bridge of the zither.</string>
   <string id="112743">I see a channel carved deep by the water.</string>
   <string id="112744">I see a daft old ghost about to be destroyed. I need that instrument&apos;s bridge.</string>
-  <string id="112745">Exit</string>
+  <string id="112745">Sair</string>
   <string id="112748">Is that all? Am I an errand girl? I&apos;m better than that.</string>
   <string id="112749">Sailor</string>
   <string id="112752">Thug</string>
@@ -36559,9 +36559,9 @@ Little is known about the demon staff. A weak mind will not be able to control i
   <string id="130042">View map of your current area.</string>
   <string id="130043">View entire world map.</string>
   <string id="130044">Rhino Demon</string>
-  <string id="130047">Enable Reverb</string>
+  <string id="130047">Ativar Reverb</string>
   <string id="130048">Rhino Demon</string>
-  <string id="130051">Enables environmental reverb effects.</string>
+  <string id="130051">Ativa efeitos de reverb do ambiente.</string>
   <string id="130052">Move map cursor over icons to view icon description.</string>
   <string id="130053">World</string>
   <string id="130054">Area</string>
@@ -36603,9 +36603,9 @@ Little is known about the demon staff. A weak mind will not be able to control i
   <string id="130090">%u Bits Per Pixel</string>
   <string id="130091">Full Screen</string>
   <string id="130092">Windowed</string>
-  <string id="130093">Accept the current settings.</string>
-  <string id="130094">Restore the default settings.</string>
-  <string id="130095">Cancel your changes and return to previous screen.</string>
+  <string id="130093">Aceitar essas configurações.</string>
+  <string id="130094">Voltar para os valores padrões.</string>
+  <string id="130095">Cancelar as mudanças e voltar para a tela anterior.</string>
   <string id="130096">Left/Right to select which video card the game should use.</string>
   <string id="130097">Left/Right to change screen resolution.</string>
   <string id="130098">Left/Right to change color detail.</string>
@@ -36630,8 +36630,8 @@ Gamepad Control: Use the left analog stick or DPAD to highlight different styles
   <string id="130111">Select option.</string>
   <string id="130112">This screen allows change options.</string>
   <string id="130113">nothing</string>
-  <string id="130114">Accept these settings.</string>
-  <string id="130115">Reset to default values.</string>
+  <string id="130114">Aceitar essas configurações.</string>
+  <string id="130115">Voltar para os valores padrões.</string>
   <string id="130116">Use left/right arrows to change the difficulty.</string>
   <string id="130117">Default settings.</string>
   <string id="130118">Use left/right arrows to change this setting.</string>
