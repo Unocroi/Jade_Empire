@@ -29568,12 +29568,12 @@ The Long Drought stands as one of the worst periods in the Jade Empire&apos;s re
   <string id="111489">Choose a Style</string>
   <string id="111490">Powerful weapons require intense concentration to wield properly. The fatigue from their use will drain your Focus, which is measured in the yellow bar in the upper left.</string>
   <string id="111491">Easy combat</string>
-  <string id="111492">The hero conquers all. Only the toughest of foes prove deadly as the Empire speeds toward destiny.</string>
-  <string id="111493">The tale unfolds as it should: with balance in all things.</string>
-  <string id="111494">The spectre of death shrouds the hero, and every step is fraught with peril.</string>
-  <string id="111495">The skies are as welcoming arms, lending the hero strength against adversaries.</string>
-  <string id="111496">Air and Earth are in balance, and the hero takes a place between them.</string>
-  <string id="111497">Enemies close in from all sides, filling the skies with danger.</string>
+  <string id="111492">O herói conquista tudo. Apenas os inimigos mais durões se mostrarão mortais enquanto o Império acelera em direção ao destino.</string>
+  <string id="111493">A história se desenrola como deveria: Balanceado em todos os quesitos.</string>
+  <string id="111494">O espectro da morte cerca o herói, cada passo pode ser seu último.</string>
+  <string id="111495">Os céus estão de braços abertos, direcionando a força do herói contra seus adversários.</string>
+  <string id="111496">O Ar e a Terra estão equilíbrio, e o herói está entre eles.</string>
+  <string id="111497">Inimigos vem de todos os lados, enchendo os céus com perigos.</string>
   <string id="111498">Mirabelle</string>
   <string id="111499">Weapon Style
 Drains Focus
@@ -36594,7 +36594,7 @@ Little is known about the demon staff. A weak mind will not be able to control i
   <string id="130081">You must assign all of your points before you can continue.</string>
   <string id="130082">Accept these attribute changes and continue.</string>
   <string id="130083">Automatically assign points so all attribute are balanced.</string>
-  <string id="130084">Abort changes and return to the previous screen.</string>
+  <string id="130084">Cancelar as mudanças e voltar para a tela anterior.</string>
   <string id="130085">Cancel these attribute changes and return to character screen.</string>
   <string id="130086">Carregar o jogo selecionado.</string>
   <string id="130087">Deletar o jogo selecionado.</string>
@@ -36632,10 +36632,10 @@ Gamepad Control: Use the left analog stick or DPAD to highlight different styles
   <string id="130113">nothing</string>
   <string id="130114">Aceitar essas configurações.</string>
   <string id="130115">Voltar para os valores padrões.</string>
-  <string id="130116">Use left/right arrows to change the difficulty.</string>
-  <string id="130117">Default settings.</string>
-  <string id="130118">Use left/right arrows to change this setting.</string>
-  <string id="130119">Keyboard/Mouse Configuration</string>
+  <string id="130116">Use as setas esquerda/direita para mudar a dificuldade.</string>
+  <string id="130117">Configurações padrão.</string>
+  <string id="130118">Use as setas esquerda/direita para mudar a configuração.</string>
+  <string id="130119">Configurações de Teclado/Mouse</string>
   <string id="130120">No Joystick Connected! Please restart Jade Empire.</string>
   <string id="130121">Press the button you would like mapped to this action</string>
   <string id="130122">Reverse the save game order.</string>
@@ -36707,8 +36707,8 @@ Gamepad Control: Use the left analog stick or DPAD to highlight different styles
   <string id="130197">The Quest for Iron Palm</string>
   <string id="130198">The final Iron Palm scroll has been found and you have learned the Iron Palm style. The Viper scrolls have lost their power and have turned to dust.</string>
   <string id="130200">The player has found all three of the Iron Palm scrolls and learned the Iron Palm style.</string>
-  <string id="130201">Jade Master</string>
-  <string id="130202">Play through the game to unlock Jade Master level.</string>
+  <string id="130201">Mestre de Jade</string>
+  <string id="130202">Finalize o jogo para desbloquear o modo Mestre de Jade.</string>
   <string id="130203">Scroll Box</string>
   <string id="130204">Escala de Exibição</string>
   <string id="130205">Escolha entre resolução Normal ou Widrescreen.</string>
