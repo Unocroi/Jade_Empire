@@ -16347,7 +16347,7 @@ You have freed Ya Zhen from his imprisonment, and now the power of that demon is
   <string id="77524">Fine. What did you want to tell me?</string>
   <string id="77526">I want to ask you something else.</string>
   <string id="77528">Equip</string>
-  <string id="77529">All</string>
+  <string id="77529">Todas</string>
   <string id="77578">Third Brother Renshan</string>
   <string id="77581">Second Brother Yongwu</string>
   <string id="77584">Novice Han Tao</string>
@@ -36741,7 +36741,7 @@ Removes negative effects (such as slow or paralysis)
 Drains Chi
 
 Rhino demons are some of the most powerful demons out there, but they are limited by their slower movement due to their large size. A warrior using this style takes the grand form of a walking Rhino demon, complete with the demon&apos;s rhino horn and huge arms. The Rhino demon has a very effective area clear attack. This form also makes the martial artist immune to all Support styles, just like the Rhino demon itself. </string>
-  <string id="130248">Are you sure you want to quit?</string>
+  <string id="130248">Você tem certeza que deseja sair?</string>
   <string id="130250">Each attack in this style consumes no Focus.</string>
   <string id="130251">Rhino Demon</string>
   <string id="130254">Load an existing character into a Jade Master campaign.</string>
