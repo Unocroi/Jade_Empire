@@ -9238,8 +9238,8 @@ Often used by magicians and charlatans, this gem gives the wielder persuasive sk
   <string id="43008">She is a doctor in the Imperial Arena.</string>
   <string id="43009">I could bring the doctor to help you.</string>
   <string id="43017">Voltar</string>
-  <string id="43038">Controller Vibration</string>
-  <string id="43039">Use the controller vibration feature.</string>
+  <string id="43038">Vibração do Controle</string>
+  <string id="43039">Habilita a vibração do controle.</string>
   <string id="43050" soundid="89541">Those pirates must be Gao the Greater&apos;s men. We know that he has holdings near here, and he has flyers. </string>
   <string id="43051" soundid="89542">The pirates are Gao the Greater&apos;s men. He has holdings near here and access to quite a lot of flyers, as you&apos;ve seen!</string>
   <string id="43052" soundid="89543">I have never heard of Gao the Greater, but pirates have terrorized this region for many weeks. Anyone wandering the wilderness knows they risk being caught by those slavers.</string>
@@ -13783,7 +13783,7 @@ Chi measures your spiritual energy. You use Chi to recover Health through Chi He
   <string id="63849">Why did Master Li do this? What&apos;s so special about me?</string>
   <string id="63850" soundid="155958">So be it. You&apos;ll learn the hard way!</string>
   <string id="63852">Restrictions. Always being held back. I&apos;m free of that now.</string>
-  <string id="63872">None</string>
+  <string id="63872">Nenhuma</string>
   <string id="63875">Spirit Monk Ghost</string>
   <string id="63881" soundid="91668">I like fancy tricks. Especially when it involves me not having to fight. But if you do this, that boy cleaning the pier is as dead as the rest of them.</string>
   <string id="63883" soundid="91670">Your friend&apos;s right about the kid, but I still think you should use the rope. Less work for you.</string>
@@ -15761,8 +15761,8 @@ The Guardian, Chai Ka, has regained control over Wild Flower from the demon Ya Z
   <string id="74559" soundid="151787">A startling revelation from Kang.</string>
   <string id="74560" soundid="123305"></string>
   <string id="74561">Never mind. I should be going.</string>
-  <string id="74562">Show Gore</string>
-  <string id="74563">Disable combat gore. Does not apply to in-game movies.</string>
+  <string id="74562">Mostrar Sangue</string>
+  <string id="74563">Desabilita o sangue nos combates. Não se aplica nos filmes.</string>
   <string id="74573" soundid="107155">I&apos;m... sorry. I&apos;m just a little upset. I... I&apos;m Jinlin. Is there something you want?</string>
   <string id="74574" soundid="107156">Thanks, but I need to find a way to kill spirits. Purveyor Shouji wants me to fetch an artifact from an emperor&apos;s tomb in the Necropolis, but it&apos;s filled with ghosts.</string>
   <string id="74575" soundid="107157">The purveyor is... he threatened to sell my mom to slave traders if I don&apos;t get this artifact. I don&apos;t know what to do... I can&apos;t fight ghosts.</string>
@@ -36257,13 +36257,13 @@ This blade is surprisingly keen and well balanced considering its humble origins
   <string id="129147" soundid="197706"></string>
   <string id="129148" soundid="197707"></string>
   <string id="129152">Unequip</string>
-  <string id="129153">No Movies</string>
-  <string id="129154">Dialog Only</string>
-  <string id="129155">None</string>
-  <string id="129156">Display all subtitles.</string>
-  <string id="129157">Do not show subtitles during movies.</string>
-  <string id="129158">Do not show subtitles for movies or non-interactive dialog.</string>
-  <string id="129159">Do not show subtitles for spoken text (Tho Fan will always have subtitles).</string>
+  <string id="129153">Tudo Menos Filmes</string>
+  <string id="129154">Apenas Diálogo</string>
+  <string id="129155">Desabilitado</string>
+  <string id="129156">Mostra todas as legendas.</string>
+  <string id="129157">Não mostrar legendas durante os filmes.</string>
+  <string id="129158">Não mostrar legendas de filmes ou de diálogos não-interativos.</string>
+  <string id="129159">Não mostrar legendas para texto falado (Fan sempre terá legendas de qualquer modo).</string>
   <string id="129163">There are no free slots on your amulet.  Unequip something first.</string>
   <string id="129166">Return to Kang</string>
   <string id="129167">Bring the Inscrutable Power Source to Kang and his Marvelous Dragonfly will be fully functional.</string>
@@ -36726,7 +36726,7 @@ Gamepad Control: Use the left analog stick or DPAD to highlight different styles
   <string id="130226">The Iron Palm scrolls have lost their power and have turned to dust.</string>
   <string id="130227">The Hunt was a Failure</string>
   <string id="130230">The Viper scrolls have lost their power and have turned to dust.</string>
-  <string id="130231">Are you sure you want to cancel the changes you have made?</string>
+  <string id="130231">Você tem certeza que quer cancelar as mudanças que foram feitas?</string>
   <string id="130232">Ghost Lord</string>
   <string id="130235">Sailor</string>
   <string id="130238">Sailor</string>
