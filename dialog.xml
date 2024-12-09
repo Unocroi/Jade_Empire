@@ -221,36 +221,36 @@ B  Cancelar</string>
   <string id="272">Mente:</string>
   <string id="273">Corpo:</string>
   <string id="274">Espirito:</string>
-  <string id="275">Furious &lt;CUSTOM0&gt;</string>
-  <string id="276">Boxer &lt;CUSTOM0&gt;</string>
-  <string id="277">Tiger &lt;CUSTOM0&gt;</string>
-  <string id="278">Panther &lt;CUSTOM0&gt;</string>
-  <string id="279">Monk &lt;CUSTOM0&gt;</string>
-  <string id="280">Scholar &lt;CUSTOM0&gt;</string>
-  <string id="281">&lt;CUSTOM0&gt; the Prodigy</string>
-  <string id="282">&lt;CUSTOM0&gt; the Lotus Blossom</string>
+  <string id="275">Furioso &lt;CUSTOM0&gt;</string>
+  <string id="276">Pugilista &lt;CUSTOM0&gt;</string>
+  <string id="277">Tigre &lt;CUSTOM0&gt;</string>
+  <string id="278">Pantera &lt;CUSTOM0&gt;</string>
+  <string id="279">Monge &lt;CUSTOM0&gt;</string>
+  <string id="280">Acadêmico &lt;CUSTOM0&gt;</string>
+  <string id="281">&lt;CUSTOM0&gt; O Prodígio</string>
+  <string id="282">&lt;CUSTOM0&gt; A Flór de Lotus</string>
   <string id="283">Zhu</string>
   <string id="284">Mai</string>
   <string id="285">Jiang</string>
   <string id="286">Gefu</string>
   <string id="287">Mi</string>
-  <string id="288">Scholar Ling</string>
+  <string id="288">Acadêmico Ling</string>
   <string id="289">H&apos;san</string>
   <string id="290">Zhiang</string>
-  <string id="291">100-Pip Fist</string>
-  <string id="292">Leaping Tiger Style</string>
-  <string id="293">Willow</string>
-  <string id="294">Balanced</string>
-  <string id="295">Random</string>
-  <string id="296">Shift</string>
-  <string id="297">Symbols</string>
-  <string id="298">Symbols</string>
-  <string id="299">Done</string>
-  <string id="300">Cancel</string>
-  <string id="301">Enter your name:</string>
-  <string id="302">Backspace</string>
-  <string id="303">Delete</string>
-  <string id="306">Pillar</string>
+  <string id="291">Punho dos 100 pontos</string>
+  <string id="292">Estilo Tigre Saltador</string>
+  <string id="293">Salgueiro</string>
+  <string id="294">Equilibrado</string>
+  <string id="295">Aleatório</string>
+  <string id="296">Deslocação</string>
+  <string id="297">Símbolos</string>
+  <string id="298">Símbolos</string>
+  <string id="299">Feito</string>
+  <string id="300">Cancelar</string>
+  <string id="301">Introduza o seu nome:</string>
+  <string id="302">Apagar</string>
+  <string id="303">Deletar</string>
+  <string id="306">Coluna</string>
   <string id="308" soundid="184165">Don&apos;t act like it&apos;s a surprise. Lots of people speak it, although I suppose it is concentrated mostly in the Prosperous East.</string>
   <string id="312">Tiger Shen</string>
   <string id="313">Yun</string>
@@ -847,7 +847,7 @@ Before his departure to the unknown, the Celestial Dragon crafted the first true
   <string id="7673">Travel to %s?</string>
   <string id="7674">Show Interface Hints</string>
   <string id="7710">Display hints the first time a particular menu screen is shown.</string>
-  <string id="7738">Dragonfly Mini-game</string>
+  <string id="7738">Minijogo da Libélula</string>
   <string id="7758" soundid="8611">Well, you see, there&apos;s been a mix-up. No, an error. Oh, who am I kidding? Some.. bastard has changed my play.</string>
   <string id="7759" soundid="8612">I am Incisive Chorus the Playwright. I&apos;m sure you&apos;ve heard of me, and if not, you have... er, now, I suppose.</string>
   <string id="7760" soundid="8613">One of my productions has been touring the countryside and catching people&apos;s attention. We were asked to bring it into the city and perform here in the Golden Way.</string>
@@ -10947,7 +10947,7 @@ Often used by magicians and charlatans, this gem gives the wielder persuasive sk
   <string id="49241" soundid="59358">I know a little about Soldier, if you want to hear my take on him. We could also talk about Khana if you&apos;re curious about her.</string>
   <string id="49242">**TEMP** Level up description for Shooting Star Level 4 Choice 3</string>
   <string id="49243">**TEMP** Level up description for Shooting Star Level 5 Choice 1</string>
-  <string id="49245">Locked</string>
+  <string id="49245">Bloqueado</string>
   <string id="49246">**TEMP** Level up description for Shooting Star Level 5 Choice 2</string>
   <string id="49251">My concern at the palace is Master Li.</string>
   <string id="49252">There is more. Zu told me about Master Li&apos;s murdered family. The child is alive.</string>
@@ -30199,7 +30199,7 @@ This style imbues the martial artist with the power and form of the towering Jad
   <string id="113172" soundid="171713"></string>
   <string id="113182">Sign</string>
   <string id="113183" soundid="171724">There are so many people here! Such a big town! But... they all seem unhappy for some reason.</string>
-  <string id="113184">Unlock this mission by completing quests in Jade Empire.</string>
+  <string id="113184">Desbloqueie esse desafio completando missões no Jade Empire.</string>
   <string id="113185">Sign</string>
   <string id="113186">Ghost</string>
   <string id="113187">Sign</string>
@@ -31236,7 +31236,7 @@ What do you see? Is it what you think? Or is that just what you want to think? I
   <string id="115549">I&apos;ve been poisoned!</string>
   <string id="115550">That&apos;ll show you!</string>
   <string id="115553">Dismembered Ghost</string>
-  <string id="115556">Loading</string>
+  <string id="115556">Carregando</string>
   <string id="115557">After seeing your skill against the novices of the school, First Brother Kai has asked you to join the Black Leopard School. It would appear that the Black Leopard School is having some difficulties deciding which master to follow.</string>
   <string id="115558">The Black Leopard School</string>
   <string id="115559">Lost Spirit</string>
@@ -36182,7 +36182,7 @@ The heavens smile upon those who pursue knowledge, but the battle also favors he
   <string id="128737">Bumblebee!</string>
   <string id="128738">Buzzzzzzzzz</string>
   <string id="128739">Defeat all enemies</string>
-  <string id="128769">High Score</string>
+  <string id="128769">Maior Pontuação</string>
   <string id="128791">Kai Lan&apos;s Stash</string>
   <string id="128792">Kai Lan&apos;s Stash</string>
   <string id="128797">Focus Shrine</string>
@@ -36206,7 +36206,7 @@ The heavens smile upon those who pursue knowledge, but the battle also favors he
   <string id="128973">Blessing Board</string>
   <string id="128975">Gao&apos;s Mercenary</string>
   <string id="128978">Gao&apos;s Mercenary</string>
-  <string id="128981">Missions</string>
+  <string id="128981">Desafios</string>
   <string id="128982" soundid="195232">Dawn Star is Li&apos;s child.</string>
   <string id="128983" soundid="195233">Dawn Star isn&apos;t Li&apos;s child.</string>
   <string id="128984">Set Dawn Star&apos;s status as Li&apos;s child.</string>
@@ -36578,8 +36578,8 @@ Little is known about the demon staff. A weak mind will not be able to control i
   <string id="130065">Press ENTER to assign the selected style to this quick slot.</string>
   <string id="130066">Press ENTER to map a style to this quick slot.</string>
   <string id="130067">Unassigned</string>
-  <string id="130068">Exit current screen.</string>
-  <string id="130069">Launch game.</string>
+  <string id="130068">Sair desta tela.</string>
+  <string id="130069">Iniciar jogo.</string>
   <string id="130070">Hear the message.</string>
   <string id="130071">Return to previous menu.</string>
   <string id="130072">This screen allows you to load a saved game.</string>
@@ -36596,9 +36596,9 @@ Little is known about the demon staff. A weak mind will not be able to control i
   <string id="130083">Automatically assign points so all attribute are balanced.</string>
   <string id="130084">Abort changes and return to the previous screen.</string>
   <string id="130085">Cancel these attribute changes and return to character screen.</string>
-  <string id="130086">Load the selected game.</string>
-  <string id="130087">Delete the selected game.</string>
-  <string id="130088">Return to the main menu.</string>
+  <string id="130086">Carregar o jogo selecionado.</string>
+  <string id="130087">Deletar o jogo selecionado.</string>
+  <string id="130088">Retornar para o menu inicial.</string>
   <string id="130089">640 x 480</string>
   <string id="130090">%u Bits Per Pixel</string>
   <string id="130091">Full Screen</string>
@@ -36662,7 +36662,7 @@ Gamepad Control: Use the left analog stick or DPAD to highlight different styles
   <string id="130143">Custom</string>
   <string id="130144">Double Tap</string>
   <string id="130145">Help</string>
-  <string id="130146">Launch</string>
+  <string id="130146">Iniciar</string>
   <string id="130147">Invert Mouse Y</string>
   <string id="130148">Mouse Sensitivity X</string>
   <string id="130149">Mouse Sensitivity Y</string>
@@ -37160,11 +37160,11 @@ Gamepad Control: Use the left stick or DPAD to navigate the buttons and cycle ch
 When an attribute is selected this box will display a description of that attribute.</string>
   <string id="130660">This is a Jade Master only save. To load the game in Jade Master mode select New Game from the main menu and click the Master button.</string>
   <string id="130661">ESC to skip</string>
-  <string id="130662">Are you sure you wish to begin a Jade Master campaign with this character?</string>
+  <string id="130662">Tem certeza de que deseja iniciar uma campanha de Mestre de Jade com esse personagem?</string>
   <string id="130663">Horse Demon</string>
-  <string id="130666">Reverse the load game order.</string>
+  <string id="130666">Inverta a ordem de carregamento do jogo.</string>
   <string id="130667">Conscript</string>
-  <string id="130670">The selected control cannot be rebound.</string>
+  <string id="130670">O controle selecionado não pode ser desvinculado.</string>
   <string id="130671">Ghost Lord</string>
   <string id="130674">Ghost Lord</string>
   <string id="130677">Hold down a movement key while pressing the block button to evade powerful attacks. Try this now.</string>
