@@ -89,9 +89,9 @@
   <string id="87">ERROR: NO FUNCTION STARTINGCONDITIONAL() IN SCRIPT</string>
   <string id="88">ERROR: FUNCTION STARTINGCONDITIONAL() MUST HAVE AN INT RETURN VALUE</string>
   <string id="89">ERROR: FUNCTION STARTINGCONDITIONAL() MUST HAVE NO PARAMETERS</string>
-  <string id="90">ERROR:  SKIPPING DECLARATION VIA &quot;case&quot; STATEMENT DISALLOWED.</string>
-  <string id="91">ERROR:  SKIPPING DECLARATION VIA &quot;default&quot; STATEMENT DISALLOWED.</string>
-  <string id="92">ERROR:  &quot;else&quot; WITHOUT &quot;if&quot; STATEMENT.</string>
+  <string id="90">ERROR:  SKIPPING DECLARATION VIA "case" STATEMENT DISALLOWED.</string>
+  <string id="91">ERROR:  SKIPPING DECLARATION VIA "default" STATEMENT DISALLOWED.</string>
+  <string id="92">ERROR:  "else" WITHOUT "if" STATEMENT.</string>
   <string id="93">ERROR: TOO MANY INSTRUCTIONS</string>
   <string id="94">ERROR: TOO MANY LEVELS OF RECURSION</string>
   <string id="95">ERROR: FILE NOT OPENED</string>
@@ -117,13 +117,13 @@
   <string id="115">Galeria</string>
   <string id="116">Opções</string>
   <string id="117">Selecionar</string>
-  <string id="118">Cuidado: Progresso atual será perdido! Carregar jogo &quot;&lt;CUSTOM0&gt;&quot;?</string>
-  <string id="119">O progresso salvo dessa campanha será perdido.  Apagar jogo &quot;&lt;CUSTOM0&gt;&quot;?</string>
+  <string id="118">Cuidado: Progresso atual será perdido! Carregar jogo "&lt;CUSTOM0&gt;"?</string>
+  <string id="119">O progresso salvo dessa campanha será perdido.  Apagar jogo "&lt;CUSTOM0&gt;"?</string>
   <string id="120">OK</string>
   <string id="121">Cancelar</string>
-  <string id="122">Novo jogo?</string>
+  <string id="122">Novo Jogo?</string>
   <string id="124">Você não tem jogos salvos.</string>
-  <string id="125">Salvar Jogo &quot;&lt;CUSTOM0&gt;&quot;?</string>
+  <string id="125">Salvar Jogo "&lt;CUSTOM0&gt;"?</string>
   <string id="126">Espaço Vazio</string>
   <string id="127">Você tem certeza que deseja sobrescrever &lt;CUSTOM0&gt;?</string>
   <string id="128">Salvar Jogo</string>
@@ -188,8 +188,8 @@ Pressione OK para selecionar este esquema</string>
   <string id="185">Defina seu proprio esquema de controle. 
 A para modificar os controles
 X Salvar
-B  Cancelar</string>
-  <string id="186">Impossivel carregar Jogo Salvo (não consegue ler arquivo). Pressione OK para continuar..</string>
+B Cancelar</string>
+  <string id="186">Impossivel carregar Jogo Salvo (não consegue ler arquivo). Pressione OK para continuar.</string>
   <string id="187">COMBATE</string>
   <string id="188">MOVIMENTAÇÃO</string>
   <string id="189">MENU INICIAR</string>
@@ -199,7 +199,7 @@ B  Cancelar</string>
   <string id="193">NÃO ATRIBUÍDO</string>
   <string id="194">AÇÃO</string>
   <string id="195">CANCELAR/VOLTAR</string>
-  <string id="234">Minijogo</string>
+  <string id="234">Mini-jogo</string>
   <string id="235">Bloquear</string>
   <string id="236">Golpe de Chi</string>
   <string id="237">Foco</string>
@@ -224,18 +224,18 @@ B  Cancelar</string>
   <string id="275">Furioso &lt;CUSTOM0&gt;</string>
   <string id="276">Pugilista &lt;CUSTOM0&gt;</string>
   <string id="277">Tigre &lt;CUSTOM0&gt;</string>
-  <string id="278">Pantera &lt;CUSTOM0&gt;</string>
+  <string id="278">Panterra &lt;CUSTOM0&gt;</string>
   <string id="279">Monge &lt;CUSTOM0&gt;</string>
   <string id="280">Acadêmico &lt;CUSTOM0&gt;</string>
-  <string id="281">&lt;CUSTOM0&gt; O Prodígio</string>
-  <string id="282">&lt;CUSTOM0&gt; A Flór de Lotus</string>
+  <string id="281">&lt;CUSTOM0&gt; o Prodígio</string>
+  <string id="282">&lt;CUSTOM0&gt; a Flor de Lótus</string>
   <string id="283">Zhu</string>
   <string id="284">Mai</string>
   <string id="285">Jiang</string>
   <string id="286">Gefu</string>
   <string id="287">Mi</string>
   <string id="288">Acadêmico Ling</string>
-  <string id="289">H&apos;san</string>
+  <string id="289">H'san</string>
   <string id="290">Zhiang</string>
   <string id="291">Punho dos 100 pontos</string>
   <string id="292">Estilo Tigre Saltador</string>
@@ -251,395 +251,394 @@ B  Cancelar</string>
   <string id="302">Apagar</string>
   <string id="303">Deletar</string>
   <string id="306">Coluna</string>
-  <string id="308" soundid="184165">Don&apos;t act like it&apos;s a surprise. Lots of people speak it, although I suppose it is concentrated mostly in the Prosperous East.</string>
-  <string id="312">Tiger Shen</string>
+  <string id="308" soundid="184165">Não finja que é uma surpresa. Muita gente fala sobre isso, embora eu ache que a maioria dessas pessoas estão no Leste Próspero.</string>
+  <string id="312">Tigre Shen</string>
   <string id="313">Yun</string>
-  <string id="314">Furious Ming</string>
-  <string id="315">Monk Zeng</string>
+  <string id="314">Ming Furioso</string>
+  <string id="315">Monge Zeng</string>
   <string id="316">Li</string>
   <string id="317">Lu</string>
-  <string id="318">Scholar Ling</string>
+  <string id="318">Acadêmico Ling</string>
   <string id="319">Wu</string>
   <string id="320">ERROR: IF CONDITION CANNOT BE FOLLOWED BY A NULL STATEMENT</string>
   <string id="321">ERROR: INVALID TYPE FOR CONST KEYWORD</string>
   <string id="322">ERROR: CONST KEYWORD CANNOT BE USED ON NON GLOBAL VARIABLES</string>
   <string id="323">ERROR: INVALID VALUE ASSIGNED TO CONSTANT</string>
-  <string id="324">Character View</string>
-  <string id="330">Fox Spirit</string>
-  <string id="332">Given Name:</string>
-  <string id="333">Warrior Name:</string>
-  <string id="345">Character</string>
-  <string id="346">A:Change Button  B:Save &amp; Exit    Up/Down: Change Action</string>
-  <string id="347" soundid="124430">Yes... I suppose I&apos;ll have to face her eventually. And I should be safe, if you&apos;re with me. Okay, let&apos;s go.</string>
-  <string id="348">Let&apos;s go see Ai Ling and sort this out.</string>
-  <string id="355">Nervous Dun Ding</string>
-  <string id="359">Find Doctor An</string>
-  <string id="360">Get Carter</string>
-  <string id="361">Rock the World</string>
-  <string id="362">Locate Elvis impersonator Carter Syphin and Return him to the king.</string>
-  <string id="363">Get the Air Guitar of Power and use it to defend the castle from the boy bands.</string>
-  <string id="364">Locate and Kill the mofo Carter</string>
-  <string id="365">Use the Air Guitar of Power to smash open the heads of Ozzy&apos;s Family.</string>
-  <string id="366">Locate Carter</string>
-  <string id="367">Locate Air Guitar</string>
-  <string id="368">Give Shibbled Quintsey to Dolfernad</string>
-  <string id="369">Attack Fionians.</string>
-  <string id="370">LT:Prev - D-pad:Move Cursor - B:Cancel - RT:Next</string>
-  <string id="371">Primary Quests</string>
-  <string id="372">Side Quests</string>
-  <string id="373">Description</string>
-  <string id="374">Tasks</string>
-  <string id="375">TEMP: I am a very very long string of epic and galactic proportions. Once I was short but then on my birthday I grew really long and now I am the longest string in this String Table. My sole purpose in life is to test the Chapter Screen and I can be removed and/or changed to something else later because I am essentially useless except for being really really long. This one time at Band Camp I killed a hooker but she wasnt really dead and now she haunts my mind like a ghost of some sort. In fact just the other night she was in my room while I was asleep and took pictures of me and put them on the internet and I was afraid and I may never sleep again ever ever.</string>
-  <string id="376">Continue</string>
-  <string id="378">Chi Heal</string>
-  <string id="379">Please reconnect the controller and press START to continue.</string>
-  <string id="381" soundid="141533">What is there to say? She tells me that she is feeling much better. If you wish to face her, I will allow it.</string>
-  <string id="391" soundid="575">Ah, there you are, my student. I watched your bout against Jing Woo with great pride. You have gained almost all you can from the practice arena.</string>
-  <string id="426">Fisherman</string>
-  <string id="448">I&apos;m sure you will tell me what I need to know, Master.</string>
-  <string id="449" soundid="126607">It&apos;s good to give due consideration to your choice. Once you start to use a real weapon, you get used to its particular balance very quickly.</string>
-  <string id="450">You have met the ghost of Miss Chan. She is crying for her lost baby, and she will not rest until it is found.</string>
-  <string id="451" soundid="126608">You&apos;re adept enough to pick up other weapons later, but this is your first real weapon, so I want you to have the right one.</string>
-  <string id="453" soundid="187912">[From here it&apos;s obvious that if you close the dam again, the ruins will flood fairly quickly and you would no longer be able to reach the old Tien&apos;s Landing site.]</string>
-  <string id="455">Townsquare</string>
-  <string id="457" soundid="141534">You are intrigued by the secretive prize I am offering to whoever can beat Kia Min&apos;s record, but she cannot compete while injured.</string>
-  <string id="512">Girl</string>
-  <string id="517">Peasant Woman</string>
-  <string id="522">Peasant Man</string>
-  <string id="532" soundid="669">I recall that, as a child, you fell and bruised your arm. I comforted you, saying that small pains are part of learning. But not every setback imparts wisdom. You must be careful.</string>
-  <string id="548">Boy</string>
-  <string id="573">Bearded Tongue Grass Poultice</string>
-  <string id="574">A medicinal poultice designed to accelerate the healing of wounds. This poultice is infused with extract of red silk grass, a powerful herb that hastens recovery by binding the wounded flesh together.
-</string>
-  <string id="594">Red Silk Grass Poultice</string>
-  <string id="595">A medicinal poultice designed to accelerate the healing of wounds. This poultice is infused with extract of red silk grass, a powerful herb that hastens recovery by binding the wounded flesh together.</string>
-  <string id="935">Door</string>
-  <string id="1049" soundid="1200">Ah, you are back. I hope this unfortunate matter with the bandits has not caused undue stress. Some good people were lost, but many were saved.</string>
-  <string id="1052" soundid="1203">It is done! The challenge has concluded and the winner is clear.</string>
-  <string id="1053" soundid="1204">No! I am not finished!</string>
-  <string id="1054">You need more discord in your heart to use this gem.</string>
-  <string id="1055" soundid="1206">Gao! I have made enough concessions to you today! I thought I could guide you away from your corrupted path, but you are too much the son of Gao the Greater!</string>
-  <string id="1056" soundid="1207">You are no longer welcome among my students, and your father&apos;s house shall have no more business here, despite his influence.</string>
-  <string id="1057" soundid="1208">I was not beaten! Not by this peasant!</string>
-  <string id="1059">Courtesan</string>
-  <string id="1060" soundid="71463">Life went on, but no word ever came from the Imperial city. No warning, no explanation. Did we displease the Emperor? Or were we just beneath his notice? I will never know.</string>
-  <string id="1062" soundid="71464">True, they weren&apos;t underwater for a while. For some reason the Great Dam was opened, and the lake drained. But now that the Great Dam is closed, the water is back.</string>
-  <string id="1064">Sailor</string>
-  <string id="1065" soundid="71465">You&apos;re not the first who didn&apos;t want to listen to me. I&apos;m sure you won&apos;t be the last.</string>
-  <string id="1069">Beggar</string>
-  <string id="1072">First Brother Kai</string>
-  <string id="1074">Dockworker</string>
-  <string id="1088">The discord in your heart rejects this gem.</string>
+  <string id="324">Visão de Personagem</string>
+  <string id="330">Espirito da Raposa</string>
+  <string id="332">Nome Próprio:</string>
+  <string id="333">Nome de Guerreiro:</string>
+  <string id="345">Personagem</string>
+  <string id="346">A:Mudar Botão B:Salvar *cod1* Sair   Cima/Baixo: Mudar Ação</string>
+  <string id="347" soundid="124430">Sim... Suponho que terei que enfrenta-la eventualmente. E devo estar seguro, se você estiver comigo. Ok, vamos lá.</string>
+  <string id="348">Vamos ver a Ai Ling para resolvemos isto.</string>
+  <string id="355">Dun Ding Nervoso</string>
+  <string id="359">Encontre Doutor An</string>
+  <string id="360">Pegue Carter</string>
+  <string id="361">Agite o Mundo</string>
+  <string id="362">Localize o imitador de Elvis Carter Syphin e devolva-o ao rei.</string>
+  <string id="363">Pegue o Poder da Air Guitar e use para defender o castelo das boy bands. </string>
+  <string id="364">Localizar e matar o filho da mãe Carter</string>
+  <string id="365">Use o Poder da Air Guitar para esmagar as cabeças da família de Ozzy</string>
+  <string id="366">Localize Carter</string>
+  <string id="367">Localizar Air Guitar</string>
+  <string id="368">Dê Quintsey Shibbled a Dolfernad</string>
+  <string id="369">Ataque os Fionianos</string>
+  <string id="370">LT:Ante - D-pad:Mover Cursor - B:Cancelar - RT:Prox</string>
+  <string id="371">Missões Primárias</string>
+  <string id="372">Missões Secundárias</string>
+  <string id="373">Descrição</string>
+  <string id="374">Tarefas</string>
+  <string id="375">TEMP: Sou um fio muito, muito longo, de proporções épicas e galácticas. Antes era pequeno, mas no meu aniversário fiquei muito long e agora sou o fio mais long desta tabela de fios. O meu único objetivo na vida é testar o Tela de Capítulos e posso ser removido e/ou mudado para outra coisa mais tarde, porque sou essencialmente inútil, exceto por ser mesmo muito longo. Uma vez, no acampamento da banda, matei uma prostituta, mas ela não estava realmente morta e agora ela assombra minha mente como algum tipo de fantasma. Na verdade, na outra noite ela esteve no meu quarto enquanto eu estava dormindo e tirou fotografias minhas e colocou-as na internet e eu fiquei com medo que talvez eu nunca mais poderei dormir, jamais.</string>
+  <string id="376">Continuar</string>
+  <string id="378">Cura de Chi</string>
+  <string id="379">Por favor reconecte o controle e pressione START para continuar</string>
+  <string id="381" soundid="141533">O que posso dizer? Ela me falou que está se sentindo bem melhor. Se você quiser enfrenta-la, eu permitirei.</string>
+  <string id="391" soundid="575">Ah, ai está você, meu aluno. Assisti sua luta contra Jing Woo com muito orgulho. Você aprendeu quase tudo que podia na arena de treino.</string>
+  <string id="426">Pescador</string>
+  <string id="448">Tenho certeza que o senhor irá me dizer o que preciso saber, Mestre.</string>
+  <string id="449" soundid="126607">É bom ponderar bem a sua escolha. Depois que você começa a usar uma arma real, você se acostuma muito rapidamente com seu equilíbrio específico.</string>
+  <string id="450">Você conheceu o fantasma da senhora Chan. Ela está chorando pelo seu bebê perdido, e não descansará até encontra-lo</string>
+  <string id="451" soundid="126608">Você é habil o bastante para pegar outra armas mais tarde, mas esta é a sua primeira arma real, então eu quero que você tenha a certa.</string>
+  <string id="453" soundid="187912">[Daqui é óbvio que, se voltar a fechar a barragem, as ruínas inundarão rapidamente e já não será possível chegar a parte velha da cidade de Chegada de Tien.]</string>
+  <string id="455">Praça da Cidade</string>
+  <string id="457" soundid="141534">Vocês estão intrigados com o prémio secreto que estou oferecendo a quem conseguir bater o recorde de Kia Min, mas ela não pode competir enquanto estiver lesionada.</string>
+  <string id="512">Menina</string>
+  <string id="517">Camponesa</string>
+  <string id="522">Camponês</string>
+  <string id="532" soundid="669">Lembro-me que, quando criança, você caiu e machucou o braço. Eu te consolei, dizendo que as pequenas dores fazem parte do aprendizado. Mas nem todos os contratempos transmitem sabedoria. Precisa ter cuidado.</string>
+  <string id="548">Menino</string>
+  <string id="573">Cataplasma de Erva de Língua de Barbudo</string>
+  <string id="574">Um cataplasma medicinal desenvolvida para acelerar a cicatrização das feridas. Esta cataplasma é infundida com extrato de erva de seda vermelha, uma erva poderosa que acelera a recuperação ao unir a carne ferida.*cod2*</string>
+  <string id="594">Cataplasma de Erva de Seda Vermelha</string>
+  <string id="595">Um cataplasma medicinal desenvolvida para acelerar a cicatrização das feridas. Esta cataplasma é infundida com extrato de erva de seda vermelha, uma erva poderosa que acelera a recuperação ao unir a carne ferida.</string>
+  <string id="935">Porta</string>
+  <string id="1049" soundid="1200">Ah, você voltou. Espero que esse assunto infeliz com os bandidos não tenha causado muito estresse. Algumas boas pessoas foram perdidas, mas muitas outras foram salvas.</string>
+  <string id="1052" soundid="1203">Acabou! O desafio foi concluído e está claro quem é o vencedor.</string>
+  <string id="1053" soundid="1204">Não! Eu ainda não acabei!</string>
+  <string id="1054">Você precisa de mais discórdia no seu coração para usar essa jóia.</string>
+  <string id="1055" soundid="1206">Gao! Eu já cedi demais por hoje! Eu pensei que pudesse te guiar para longe desse seu caminho corrompido, mas você é realmente filho de Gao, o Grande!</string>
+  <string id="1056" soundid="1207">Você não é mais bem-vindo entre meus alunos, e a casa de seu pai não terá mais negócios aqui, mesmo com sua influência.</string>
+  <string id="1057" soundid="1208">Eu não apanhei! Não pra esse plebeu!</string>
+  <string id="1059">Cortesã</string>
+  <string id="1060" soundid="71463">A vida continuou, mas nunca mais chegaram notícias da Cidade Imperial. Sem aviso, sem explicação. Será que desagradamos o Imperador? Ou ele apenas não prestava atenção em nós? Nunca vamos saber.</string>
+  <string id="1062" soundid="71464">Verdade, eles não estiveram submergidos o tempo todo. Por alguma razão a Grande Barragem foi aberta, e o lago foi drenado. Mas agora que a Grande Barragem está fechada, a água voltou.</string>
+  <string id="1064">Marinheiro</string>
+  <string id="1065" soundid="71465">Você não é o primeiro que não quis me ouvir. E tenho certeza que não será o último.</string>
+  <string id="1069">Mendigo</string>
+  <string id="1072">1º Irmão Kai</string>
+  <string id="1074">Trabalhador das Docas</string>
+  <string id="1088">A discórdia em seu coração rejeita essa jóia.</string>
   <string id="1092">Urchin</string>
-  <string id="1194">End Conversation</string>
-  <string id="1195">Continue</string>
-  <string id="1562">Use the Xbox Live to download new game content.</string>
+  <string id="1194">Encerrar Conversa.</string>
+  <string id="1195">Continuar</string>
+  <string id="1562">Use o Xbox Live para baixar novos complementos.</string>
   <string id="1564">Começar um novo jogo.</string>
   <string id="1567">Carregar um jogo salvo anteriormente.</string>
   <string id="1568">Jogue um minijogo desbloqueado.</string>
   <string id="1578">Página de Histórico de Postura</string>
   <string id="1956">E</string>
-  <string id="2077" soundid="127646">Gem is hidden behind wall. Go down path and you see. Assassins gots rockets set up. They getting ready to blow up wall with rockets.</string>
-  <string id="2079" soundid="127648">Yes, yes. But rockets need dragon powder. Lotus Assassins always gots dragon powder handy. Good for blowing stuff up. Look around their camp and you find it.</string>
-  <string id="2080" soundid="127649">You get dragon powder and use rockets to blow up wall. When wall is gone, you go look for gem. Gem is behind wall, somewhere. You just search around.</string>
-  <string id="2081" soundid="127650">Better question: Why should demon trust you? But you listen good now. Rat demon knows lots of things.</string>
-  <string id="2082">Lost Spirit</string>
-  <string id="2084">Go on, get out of here.</string>
-  <string id="2085">You&apos;re an evil demon. I must destroy you.</string>
-  <string id="2086">I think I&apos;ll kill you anyway.</string>
-  <string id="2090">OR</string>
-  <string id="2091">TEMP: I am a Waypoint.</string>
-  <string id="2092">TEMP: I am also a waypoint, too, as well.</string>
+  <string id="2077" soundid="127646">Jóia tá escondida atrás de parede. Desça o caminho e vai ver. Assassinos tem foguetes montados. Estão se preparando para explodir paredes com foguetes.</string>
+  <string id="2079" soundid="127648">Sim, sim. Mas foguetes precisam pó de dragão. Assassinos do Lótus sempre tem pó. Bom para explodir coisas. Olhe no acampamento deles e você vai achar.</string>
+  <string id="2080" soundid="127649">Você pega pó de dragão e usa foguetes para explodir parede. Quando parede sumir, você procura jóia. Jóia está atrás da parede, escondida. Precisa procurar ao redor.</string>
+  <string id="2081" soundid="127650">Melhor pergunta: Por que o demônio deveria confiar em tu? Mas tu ouvindo melhor. O demônio rato sabe muitas coisas.</string>
+  <string id="2082">Espiríto Perdido</string>
+  <string id="2084">Vai logo, dá o fora daqui.</string>
+  <string id="2085">Você é um demônio maligno. Devo acabar com você.</string>
+  <string id="2086">Acho que vou te matar de qualquer forma.</string>
+  <string id="2090">OU</string>
+  <string id="2091">TEMP: Sou um Ponto de Referência.</string>
+  <string id="2092">TEMP: Também sou um Ponto de Referência.</string>
   <string id="2101">Olhar galeria.</string>
-  <string id="2102">Ver opções de audio, video e jogabilidade.</string>
-  <string id="2335">Balanced</string>
-  <string id="2343">Available Points:</string>
-  <string id="2350">Master Radiant</string>
-  <string id="2417" soundid="143430">A rat always flashes his fangs when backed into a corner.</string>
+  <string id="2102">Ver opções de audio, video e jogabilidade</string>
+  <string id="2335">Balanceado</string>
+  <string id="2343">Pontos Disponiveis:</string>
+  <string id="2350">Mestre Radiante</string>
+  <string id="2417" soundid="143430">Um rato sempre mostra suas garras quanto ta cercado.</string>
   <string id="2420" soundid="142480"></string>
-  <string id="2421">Spirit Realm</string>
-  <string id="2422">Scholar Kongyu</string>
-  <string id="2474">Heaven</string>
-  <string id="2475">Red Lion Figurine</string>
-  <string id="2477" soundid="20805">Ah, I see the glint of intelligence, nobility, wisdom, consideration, and piety in your eye! A fine day to you! What can I sell you?</string>
-  <string id="2478">So I should use the rockets to blow up the wall?</string>
-  <string id="2480">Sounds like a trap. I better kill just kill you.</string>
-  <string id="2487">Yellow Lion Figurine</string>
-  <string id="2488" soundid="20806">Well, I make my living by knowing people. I can clearly see that you are of the finest sort. That is to say, the sort with silver ready in hand.</string>
-  <string id="2489" soundid="20807">Can I interest you in some seed? What about a pitchfork? I have hay, as well.</string>
-  <string id="2511" soundid="126210">Good, I have better things to do than to stand around here.</string>
-  <string id="2512">Commoner</string>
-  <string id="2513">Abomination</string>
-  <string id="2518" soundid="135266">No! I mean, there is safety of a sort here. We have had refuge here so far, and the paths below are far from safe.</string>
-  <string id="2519" soundid="135267">It is best that we stay here. Surely you will find a way to destroy the murderous fox.</string>
-  <string id="2520">Is there any way we could lead these people to safety?</string>
+  <string id="2421" soundid="142480">Reino dos Espíritos</string>
+  <string id="2422">Acadêmico Kongyu</string>
+  <string id="2474">Céu</string>
+  <string id="2475">Estatueta do Leão Vermelho</string>
+  <string id="2477" soundid="20805">Ah, eu vejo o brilho de inteligência, nobreza, sabedoria, consideração e piedade em seus olhos! Um ótimo dia para você! O que eu posso te vender?</string>
+  <string id="2478">Então tenho que usar os foguetes para explodir a parede?</string>
+  <string id="2480">Parece uma armadilha. Acho melhor simplesmente te matar.</string>
+  <string id="2487">Estatueta do Leão Amarelo</string>
+  <string id="2488" soundid="20806">Bem, eu ganho a vida conhecendo pessoas. Posso ver claramente que você é do melhor tipo. Quer dizer, do tipo que tem prata na mão.</string>
+  <string id="2489" soundid="20807">Você teria interesse em algumas sementes? E que tal um forcado? Também tenho feno.</string>
+  <string id="2511" soundid="126210">Bom, eu tenho coisas melhores para fazer do que ficar em pé por aqui.</string>
+  <string id="2512">Plebeu</string>
+  <string id="2513">Abominação</string>
+  <string id="2518" soundid="135266">Não! Quer dizer, tem um tipo de segurança por aqui. Nós nos refugiamos aqui até agora, e os caminhos abaixos estão longe de serem seguros</string>
+  <string id="2519" soundid="135267">Ficar aqui é o melhor para nós. Tenho certeza que você achará um modo de detruir a raposa sanguinária.</string>
+  <string id="2520">Teria algum outro modo de levar essas pessoas até algum lugar seguro?</string>
   <string id="2523">Warp</string>
-  <string id="2525" soundid="135272">Your concept of honor is outdated too. Finish a dog when he&apos;s down.</string>
+  <string id="2525" soundid="135272">Fora que seu conceito de honra está atrasado. Acabe com um cão quando ele já está derrotado.</string>
   <string id="2529" soundid="191419"></string>
-  <string id="2530">Mister Ren at Rest</string>
-  <string id="2598" soundid="2898">You are my best pupil, though you came to me an orphan. I have tried to prepare you for the responsibility your skills will bring. Have you given thought to your future?</string>
-  <string id="2599" soundid="2899">Your lessons are complete. Remember these basic skills and keep them at heart, but also remember that classes are not a true measure of ability. Always be ready to learn.</string>
-  <string id="2601" soundid="2901">There will be a time for that later. I have kept you hungry for information, but you must trust that my reasons are valid. It is for your benefit that I do this.</string>
-  <string id="2606">I want to ask some questions.</string>
-  <string id="2723" soundid="152296">Your words mean nothing! You are a murderer, a killer! Gao was everything to me, and now he is gone!</string>
-  <string id="2724" soundid="141535">I will only allow such a contest when her wounds are healed. Kia Min has always been handy with herbs, maybe she knows some way you could help her.</string>
-  <string id="2749" soundid="141537">Yes, and the students are on edge from the bandit attack. It would do them good to work some of that out.</string>
-  <string id="2750">Lion head token</string>
-  <string id="2751" soundid="3051">You were defeated by your own foolish ambition and predictable temper. I will speak with you in my chambers about your expulsion. Go now!</string>
+  <string id="2530">Senhor Ren no Descanço</string>
+  <string id="2598" soundid="2898">Você é meu melhor pupilo, mesmo que tenha vindo até mim como um órfão. Eu tentei te preparar para a responsabilidade que suas habilidades trarão. Você já parou para pensar em seu futuro? </string>
+  <string id="2599" soundid="2899">Suas lições estão completas. Lembre-se dessas habilidades básicas e mantenha elas em seu coração, mas lembre-se que aulas não são uma métrica real de habilidade. Sempre se prepare para aprender.</string>
+  <string id="2601" soundid="2901">Terá um tempo para isso depois. Eu te manti querendo informações, mas você deve confiar que meus motivos são válidos. Faço isso pelo seu bem.</string>
+  <string id="2606">Quero perguntar umas coisas.</string>
+  <string id="2723" soundid="152296">Suas palavras não importam! Você é um monstro! Gao era tudo para mim, e agora não está mais aqui!</string>
+  <string id="2724" soundid="141535">Só permitirei tal competição quando suas feridas estiverem curadas. Kia Min sempre foi hábil com ervas, talvez ela saiba alguma maneira de você poder ajudá-la.</string>
+  <string id="2749" soundid="141537">Sim, e os estudantes estão nervosos com o ataque dos bandidos. Seria bom para eles resolver um pouco disso.</string>
+  <string id="2750">Símbolo com cabeça de leão</string>
+  <string id="2751" soundid="3051">Você foi derrotado por sua própria ambição tola e temperamento previsível. Falarei com você em meus aposentos sobre sua expulsão. Vá agora!</string>
   <string id="2752" soundid="3052"></string>
-  <string id="2757" soundid="141538">It is a shame about Kia Min. She holds the record for the most opponents defeated in my little training challenge. No one can challenge her record while she is injured.</string>
-  <string id="2767" soundid="141539">You could match it, but with Kia Min injured, there aren&apos;t enough students free to beat it. You will have to wait until she is healed to challenge the record.</string>
-  <string id="2785">A Mournful Ghost</string>
-  <string id="2787" soundid="132488">This is the realm of the Forest Shadow, my mistress. It is her piece of heaven.</string>
-  <string id="2893" soundid="3199">Everyone! This challenge is concluded. I&apos;m sure the victor would appreciate your congratulations. They are well earned.</string>
-  <string id="3256" soundid="26314">Ah, there you are. Have you finished all your business with your fellow students? I expect our next conversation to change a great many things. You should be ready.</string>
-  <string id="3257" soundid="3771">Who let you back here? It&apos;s bad enough I must work with incompetents. I don&apos;t need you walking through my kitchen!</string>
-  <string id="3258" soundid="3772">You really shouldn&apos;t be here. Mister Teh does not like others to observe him working.</string>
-  <string id="3405" soundid="3922">Unless, eh, pretty lady, you have come to take me from this existence of pain with your considerable charms.</string>
-  <string id="3406" soundid="3923">Yeah, me too. Okay, Mister Teh?</string>
-  <string id="3407" soundid="3924">Step back, Mister Wong. You just... step back.</string>
-  <string id="3408" soundid="3925">Do thugs like you think you can just walk back here for food anytime? If I wanted *human* interaction, I&apos;d have a kiosk in the square! Or maybe a trough.</string>
-  <string id="3409" soundid="3926">Why a trough? We don&apos;t feed the animals, Mister Teh. That&apos;s handled by the farmers.</string>
-  <string id="3410" soundid="3927">Oh, again you are here. What is it now? Maybe you need directions? I have a few for you, that&apos;s for sure.</string>
-  <string id="3411" soundid="3928">Don&apos;t trust him. His directions usually start out friendly but end up with a spatula in someone&apos;s nose. Why would anyone want to know how to do that?</string>
-  <string id="3412" soundid="3929">Thank you, Mister Wong. Thank you for over-explaining the intricacies of my wit. Implied threats are ever so much more effective when they are no longer implied!</string>
-  <string id="3413" soundid="3930">What is this, the third time you&apos;ve bothered me? Go tell the customers in the teahouse their food will be late because of someone&apos;s nosy tour.</string>
-  <string id="3414" soundid="3931">He doesn&apos;t really mean that. I mean, if everyone showed up in town, sure, there would be some delay, but most people eat at home, you know?</string>
-  <string id="3415" soundid="3932">Mister Wong... you are an imbecile.</string>
-  <string id="3416" soundid="3933">You again? I really don&apos;t have time for you. How about you come back in a week. Maybe a season would be good.</string>
-  <string id="3417" soundid="3934">We can talk while we cut the vegetables, Mister Teh. We can make time if they need something.</string>
-  <string id="3418" soundid="3935">Mister Wong... I hate you.</string>
-  <string id="3419" soundid="3936">Oh, more interruptions. Look, I don&apos;t have any work, I don&apos;t need anything fetched, and I don&apos;t have any lost relatives for you to rescue!</string>
-  <string id="3420" soundid="3937">You said your nephew was lost. You don&apos;t want help finding him?</string>
-  <string id="3421" soundid="3938">Lost cause, Mister Wong, I said he was a lost cause. The boy was spoiled by my sister and.... Why am I telling you this? Just... go away.</string>
-  <string id="3422" soundid="3939">Did I not just speak with you? I have no patience for this. I am not here to amuse you.</string>
-  <string id="3423" soundid="3940">And yet you are so often funny. Thank you for your levity, Mister Teh.</string>
-  <string id="3424" soundid="3941">Shut up, Mister Wong.</string>
-  <string id="3425" soundid="3942">Ah, another fine joke. I love them all.</string>
-  <string id="3432">She won&apos;t bother him anymore. She&apos;s dead.</string>
-  <string id="3433" soundid="127042">It ain&apos;t easy being a dock worker. We don&apos;t get paid much, but we sure earn it!</string>
-  <string id="3434" soundid="127043">We oughta form a guild. Everyone else has them, why not us?</string>
-  <string id="3435" soundid="127044">Now that the pirates are gone, things are getting back to normal.</string>
-  <string id="3436" soundid="127045">Ain&apos;t been no work down here on the dock since the dam opened.</string>
-  <string id="3437" soundid="127046">Sure, the dam is closed. But with them pirates out there, we still got no work.</string>
+  <string id="2757" soundid="141538">É uma pena o que aconteceu com Kia Min. Ela detém o recorde de maior número de oponentes derrotados no meu pequeno desafio de treinamento. Ninguém pode contestar seu recorde enquanto ela estiver ferida.</string>
+  <string id="2767" soundid="141539">Você poderia igualar, mas com Kia Min lesionada, não há alunos livres suficientes para desafiar. Você terá que esperar até que ela esteja curada para tentar bater o recorde.</string>
+  <string id="2785">Um Fantasma Triste</string>
+  <string id="2787" soundid="132488">Este é o reino da Floresta Sombria, minha senhora. É o seu pedaço do céu.</string>
+  <string id="2893" soundid="3199">Atenção, todos! Este desafio está concluído. Tenho certeza que o vencedor apreciaria seus aplausos. Eles são bem merecidos.</string>
+  <string id="3256" soundid="26314">Ah, aí está você. Você terminou todos os seus assuntos com seus colegas? Espero que nossa próxima conversa mude muitas coisas. Você deveria se preparar.</string>
+  <string id="3257" soundid="3771">Quem deixou você voltar aqui? Já é ruim o bastante ter que trabalhar com incompetentes. Não quero você andando pela minha cozinha!</string>
+  <string id="3258" soundid="3772">Você realmente não deveria estar aqui. O senhor Teh não gosta de ser observado trabalhando.</string>
+  <string id="3405" soundid="3922">A menos que, um... linda senhora, você tenha vindo para me tirar desta existência de dor com seus consideráveis ​​encantos.</string>
+  <string id="3406" soundid="3923">É! eu também. Certo, senhor Teh?</string>
+  <string id="3407" soundid="3924">Para trás, senhor Wong. Apenas vá... para trás.</string>
+  <string id="3408" soundid="3925">Bandidos como você acham que podem voltar aqui para comer a qualquer hora? Se eu quisesse interação *humana*, teria um quiosque na praça! Ou talvez um cocho.</string>
+  <string id="3409" soundid="3926">Por que um cocho? Não alimentamos os animais, senhor Teh. Isso é trabalho dos agricultores.</string>
+  <string id="3410" soundid="3927">Ah, você de novo. O que foi agora? Talvez precise de instruções? Tenho algumas para você, com toda certeza.</string>
+  <string id="3411" soundid="3928">Não confie nele. Suas instruções começam aparentemente amigaveis, mas no final sempre acaba com uma espatula na cara de alguem. Por quê alguem vai querer aprender a fazer isso?</string>
+  <string id="3412" soundid="3929">Obrigado, senhor Wong. Obrigado por explicar demais as complexidades da minha inteligência. As ameaças implícitas são ainda mais eficazes quando não estão mais implícitas!</string>
+  <string id="3413" soundid="3930">Mas o que!? Terceira vez que você vem me importunar? Vá falar com os cliêntes da casa de chá que a comida deles vai atrasar por causa da visita intrometida de alguem.</string>
+  <string id="3414" soundid="3931">Ele realmente não quis dizer isso. Quer dizer, se todo mundo aparecesse na cidade, claro, haveria algum atraso, mas a maioria das pessoas come em casa, sabe?</string>
+  <string id="3415" soundid="3932">Senhor Wong... você é um imbecil.</string>
+  <string id="3416" soundid="3933">Você novamente? Eu realmente não tenho tempo para você. Que tal você voltar em uma semana? Talvez uma temporada fosse boa.</string>
+  <string id="3417" soundid="3934">Podemos conversar enquanto cortamos os legumes, senhor Teh. Podemos fazer uma pausa se eles precisarem de alguma coisa.</string>
+  <string id="3418" soundid="3935">Senhor Wong... Eu te odeio</string>
+  <string id="3419" soundid="3936">Ah, mais interrupções. Olha, eu não tenho trabalho, não preciso buscar nada e não tenho nenhum parente perdido para você resgatar!</string>
+  <string id="3420" soundid="3937">Você disse que seu sobrinho estava perdido. Você não quer ajuda para encontrá-lo?</string>
+  <string id="3421" soundid="3938">Causo perdido, senhor Wong. Eu disse que ele era um caso perdido. O garoto foi mimado pela minha irmã e... Porque estou falando isso pra você? Só... vai embora</string>
+  <string id="3422" soundid="3939">Eu não acabei de falar com você? Não tenho paciência para isso. Não estou aqui para entreter você.</string>
+  <string id="3423" soundid="3940">E ainda assim você costuma ser engraçado. Obrigado pela sua falta de seriedade, senhor Teh.</string>
+  <string id="3424" soundid="3941">Cala boca, Senhor Wong.</string>
+  <string id="3425" soundid="3942">Ah, outra bela piada. Eu adoro cada uma dessas.</string>
+  <string id="3432">Ela não vai mais incomoda-lo. Ela está morta.</string>
+  <string id="3433" soundid="127042">Não é fácil trabalhar nas docas. Não ganhamos muito, mas com certeza merecemos cada centavo!</string>
+  <string id="3434" soundid="127043">Deviamos formar uma guilda. Todo mundo tem uma, por que nós não?</string>
+  <string id="3435" soundid="127044">Agora que os piratas já eram, as coisas estão voltando ao normal.</string>
+  <string id="3436" soundid="127045">Nenhum trabalho tá sendo feito aqui nas docas desde que a barragem foi aberta.</string>
+  <string id="3437" soundid="127046">Claro, a barragem está fechada. Mas com os piratas por aí, ainda não temos trabalho.</string>
   <string id="3439">Kang</string>
-  <string id="3442">Silk Fox</string>
-  <string id="3446" soundid="108212">I wish that I had another dozen fighters who could rise through the ranks with your alacricity!</string>
-  <string id="3447" soundid="108213">I will not dishonor you with a pairing to those who cannot match your skill. In time someone will come along, but I suspect your equal will not be manifestering any time soon.</string>
-  <string id="3450" soundid="170232">You meditate and restore your Focus.</string>
-  <string id="3470">Silk Fox</string>
+  <string id="3442">Raposa de Seda</string>
+  <string id="3446" soundid="108212">Eu gostaria de ter mais uma dúzia de lutadores que pudessem subir na hierarquia com seu entusiasmo!</string>
+  <string id="3447" soundid="108213">Não vou desonrá-lo botando para lutar com aqueles que não conseguem lhe igualar em habilidade. Com o tempo, alguém aparecerá, mas suspeito que ele não se manifestará tão cedo.</string>
+  <string id="3450" soundid="170232">Você medita e restaura seu foco.</string>
+  <string id="3470">Raposa de Seda</string>
   <string id="3473">Kang</string>
   <string id="3476">Hou</string>
   <string id="3479">Sky</string>
   <string id="3482">Dawn Star</string>
   <string id="3485">Chai Ka</string>
-  <string id="3523">TEST - Louie&apos;s Magic Thumbscrews</string>
-  <string id="3525">TEST - Louie&apos;s Magic Thumbscrews</string>
-  <string id="3526">TEST - Louie&apos;s Magic Thumbscrews</string>
-  <string id="3527">TEST - Louie&apos;s Magic Thumbscrews</string>
-  <string id="3537" soundid="4054">A polite response from one of you strangers? Go on, don&apos;t waste your respect on me. I&apos;m no high minister, I just cook.</string>
-  <string id="3538" soundid="4055">Me? There is nothing to know about me. I cook for ungrateful people who do not understand what good food is.</string>
-  <string id="3539" soundid="4056">Your palate is very sophisticated, Mister Teh. Some say your dishes are... er... acquired tastes.</string>
-  <string id="3540" soundid="4057">No. No, I am quite certain that the problem is with the customers. If you wish to keep your position, Mister Wong, you will smile and nod.</string>
-  <string id="3541" soundid="4058">Mister Wong is here to cut the vegetables and heft the rice bags. His job does not include criticizing the menu. I am the head chef. He is nothing.</string>
-  <string id="3542" soundid="4059">But I am learning. I will train hard to become the best chef I can.</string>
-  <string id="3543" soundid="4060">There is a small chance he could become slightly more than nothing, but I have seen no sign of it as yet. Some people are heroes; some merely clap as heroes walk by.</string>
-  <string id="3544" soundid="4061">Good. I need to concentrate on the menu. You want to eat, you&apos;ll leave me alone.</string>
-  <string id="3545" soundid="4062">Then go walk around it. I do not waste my time collecting rumors. Everybody eats. That is all I need to know.</string>
-  <string id="3546" soundid="4063">The spirit world? You are talking about stories for children. I believe what I see. If I see it, it is real. Very simple.</string>
-  <string id="3547" soundid="4064">If you want some deeper discussion than that, go to a temple. Me, I will stay here and cook for the living.</string>
-  <string id="3548" soundid="4065">I hear stories just like everyone else, but they are always told by some scared farmer who wouldn&apos;t know the wind from a howl. I believe what I see. That&apos;s enough.</string>
+  <string id="3523">TEST - Parafusos mágicos do Louie</string>
+  <string id="3525">TEST - Parafusos mágicos do Louie</string>
+  <string id="3526">TEST - Parafusos mágicos do Louie</string>
+  <string id="3527">TEST - Parafusos mágicos do Louie</string>
+  <string id="3537" soundid="4054">Uma resposta educada de um de vocês, estranhos? Vá em frente, não desperdice seu respeito comigo. Não sou um alto ministro, apenas cozinho.</string>
+  <string id="3538" soundid="4055">Eu? Não há nada para saber sobre mim. Eu cozinho para pessoas ingratas que não entendem o que é uma boa comida.</string>
+  <string id="3539" soundid="4056">Seu paladar é muito sofisticado, Sr. Teh. Alguns dizem que seus pratos tem... er... gostos inimaginaveis.</string>
+  <string id="3540" soundid="4057">Não. Não, tenho certeza de que o problema é com os clientes. Se quiser manter sua posição, Sr. Wong, sorria e acene.</string>
+  <string id="3541" soundid="4058">O senhor Wong está aqui para cortar os legumes e levantar os sacos de arroz. Seu trabalho não inclui criticar o cardápio. Eu sou o chef principal. Ele não é nada.</string>
+  <string id="3542" soundid="4059">Mas estou aprendendo. Vou treinar muito para me tornar o melhor chef que puder.</string>
+  <string id="3543" soundid="4060">Há uma pequena chance de que ele possa se tornar um pouco mais do que nada, mas ainda não vi nenhum sinal disso. Algumas pessoas são heróis; outras simplesmente batem palmas quando os heróis passam.</string>
+  <string id="3544" soundid="4061">Bom. Preciso me concentrar no cardápio. Se quiser comer, vai me deixar em paz.</string>
+  <string id="3545" soundid="4062">Então, caminhe pelo local. Não perco meu tempo coletando rumores. Todo mundo come. Isso é tudo o que preciso saber.</string>
+  <string id="3546" soundid="4063">O mundo espiritual? Você está falando de histórias para crianças. Eu acredito no que vejo. Se eu vejo, é real. Muito simples.</string>
+  <string id="3547" soundid="4064">Se quiser uma discussão mais profunda do que isso, vá a um templo. Eu, ficarei aqui e cozinharei para os vivos.</string>
+  <string id="3548" soundid="4065">Eu ouço histórias como todo mundo, mas elas são sempre contadas por algum fazendeiro assustado que não distingue o vento de um uivo. Acredito no que eu vejo. Isso é o suficiente.</string>
   <string id="3550">Yazhen</string>
-  <string id="3552" soundid="4069">Perhaps not, but I have little patience for the rules of so-called polite society. They only increase the time I must spend away from my work.</string>
-  <string id="3553" soundid="4070">You see, Mister Wong? That is how we are regarded, dogs to be brushed aside. Talk like that will not get you a meal at the best of times.</string>
-  <string id="3557" soundid="172543">This place is... strange. The Guardian says not to worry, but... I hear things here. I don&apos;t know what they are.</string>
-  <string id="3559" soundid="172544">This place... there are spirits. The Guardian can hear them, and I can too, but there is something else... like the sound of the ocean. Voices.</string>
-  <string id="3561" soundid="172545">The mists here hold voices... coming from below. They&apos;re too quiet though... Old. In the stones and the mist.</string>
-  <string id="3564" soundid="172546">No, it&apos;s... it&apos;s different. It&apos;s like listening to the wind while people are yelling at you. The Guardian says... he says not to ask.</string>
-  <string id="3565">I did not mean to disturb you.</string>
-  <string id="3566">I want to ask something about you.</string>
-  <string id="3569">You are very harsh with your assistant.</string>
-  <string id="3572">I&apos;m leaving now.</string>
-  <string id="3573">I need information about Tien&apos;s Landing.</string>
-  <string id="3574">What do you know about the spirit world?</string>
-  <string id="3576">You don&apos;t believe in spirits?</string>
-  <string id="3577" soundid="172547">He says it doesn&apos;t matter who they are... who they were. He says &quot;They are not under Heaven.&quot; He doesn&apos;t want to say anything more.</string>
-  <string id="3578">That is not an appropriate greeting, cook.</string>
-  <string id="3579">You will show me the proper respect, dog!</string>
-  <string id="3587" soundid="108259">Go ask them yourselves, if you want to know more. Hapless Han&apos;s faced more than a few of them too, if you want his perspicacions.</string>
+  <string id="3552" soundid="4069">Talvez não, mas tenho pouca paciência para as regras da chamada *cod6*Sociedade Educada *cod6*. Elas só aumentam o tempo que preciso passar longe do meu trabalho.</string>
+  <string id="3553" soundid="4070">Está vendo, Sr. Wong? É assim que somos vistos, cães que devem ser deixados de lado. Uma conversa como essa, na melhor das hipóteses, não lhe renderá sequer uma refeição.</string>
+  <string id="3557" soundid="172543">Este lugar é... estranho. O Guardião diz para não nos preocuparmos, mas... Eu ouço coisas aqui. Não sei o que são.</string>
+  <string id="3559" soundid="172544">Este lugar... tem espíritos. O Guardião pode ouvi-los, e eu também, mas há algo mais... como o som do oceano. Vozes.</string>
+  <string id="3561" soundid="172545">As névoas aqui contêm vozes... vindas de baixo. Elas são muito quietas porém... antigas. Nas pedras e na névoa.</string>
+  <string id="3564" soundid="172546">Não, é... é diferente. É como ouvir o vento enquanto as pessoas estão gritando com você. O Guardião diz... ele diz para não perguntar.</string>
+  <string id="3565">Eu não queria incomodá-lo.</string>
+  <string id="3566">Quero perguntar algo sobre você.</string>
+  <string id="3569">Você é muito severo com seu assistente.</string>
+  <string id="3572">Estou indo embora agora.</string>
+  <string id="3573">Preciso de informações sobre a Cidade de Tien</string>
+  <string id="3574">O que você sabe sobre o mundo espiritual?</string>
+  <string id="3576">Você não acredita em espíritos?</string>
+  <string id="3577" soundid="172547">Ele diz que não importa quem eles são... quem eles foram. Ele diz "Eles não estão sob o Céu." Ele não quer dizer mais nada.</string>
+  <string id="3578">Essa não é uma saudação apropriada, cozinheiro.</string>
+  <string id="3579">Você vai me mostrar o devido respeito, cachorro!</string>
+  <string id="3587" soundid="108259">Pergunte a eles você mesmo, se quiser saber mais. O Infeliz Han também enfrentou mais do que alguns deles, se você quiser saber a opinião dele.</string>
   <string id="3589" soundid="108261"></string>
   <string id="3590" soundid="108262"></string>
-  <string id="3591" soundid="4108">I can&apos;t speak with you. Mister Teh is very strict with his apprentices.</string>
-  <string id="3592" soundid="4109">Everyone gets used to Mister Teh&apos;s dishes eventually. They are very... complex.</string>
-  <string id="3593" soundid="4110">Mister Teh keeps the kitchen well-stocked with... exotic ingredients. I&apos;m sure they are all delicacies somewhere.</string>
+  <string id="3591" soundid="4108">Não posso falar com você. O Sr. Teh é muito rigoroso com seus aprendizes.</string>
+  <string id="3592" soundid="4109">Todos acabam se acostumando com os pratos do Sr. Teh. Eles são muito... complexos.</string>
+  <string id="3593" soundid="4110">O senhor Teh mantém a cozinha bem abastecida com... ingredientes exóticos. Tenho certeza de que todos eles são iguarias em algum lugar.</string>
   <string id="3594" soundid="108263"></string>
-  <string id="3595" soundid="108264">Wait. Before we go any further, I think we need to talk about a few things.</string>
-  <string id="3596" soundid="108265">I agree!</string>
+  <string id="3595" soundid="108264">Espere. Antes de prosseguirmos, acho que precisamos conversar sobre algumas coisas.</string>
+  <string id="3596" soundid="108265">Concordo!</string>
   <string id="3597" soundid="161664"></string>
-  <string id="3598" soundid="108267">What is that child doing here? Can she not spare us a moment&apos;s peace from her prattle?</string>
+  <string id="3598" soundid="108267">O que essa criança está fazendo aqui? Será que ela não pode nos dar um momento de paz de sua tagarelice?</string>
   <string id="3601" soundid="108270"></string>
-  <string id="3602" soundid="108271">So this is the lair of the enemy? We are really going inside... wait. I should say something. If only....</string>
-  <string id="3603" soundid="108272">Wait!</string>
-  <string id="3605" soundid="108274">Ah, she *would* find her way here. Is there anywhere free of her influence?</string>
-  <string id="3857">Do you want to buy &lt;CUSTOM0&gt;?</string>
-  <string id="3858">Pilgrim&apos;s Rest Inn</string>
-  <string id="3873" soundid="106247">She&apos;s even got a standing offer to pass the secrets of her blade mastery on to the first fighter to defeat her. So far, no one has managed that feat.</string>
-  <string id="3877" soundid="106250">Is there something you actually need from me?</string>
+  <string id="3602" soundid="108271">Então este é o covil do inimigo? Estamos realmente entrando... espere. Eu deveria dizer algo. Se ao menos....</string>
+  <string id="3603" soundid="108272">Espere!</string>
+  <string id="3605" soundid="108274">Ah, ela *encontraria* seu caminho até aqui. Existe algum lugar livre de sua influência?</string>
+  <string id="3857">Deseja comprar &lt;CUSTOM0&gt;?</string>
+  <string id="3858">Pousada Descando do Peregrino</string>
+  <string id="3873" soundid="106247">Ela até se ofereceu para passar os segredos de seu domínio da lâmina para o primeiro lutador que a derrotar. Até agora, ninguém conseguiu essa façanha.</string>
+  <string id="3877" soundid="106250">Há algo que você realmente precisa de mim?</string>
   <string id="3883" soundid="4456"></string>
-  <string id="3884">Guard</string>
-  <string id="3887">Merchant Kia Jong</string>
-  <string id="3896">Peasant</string>
-  <string id="3907">Slowed</string>
-  <string id="3908" soundid="127040">Business sure has dropped with those sailors gone.</string>
-  <string id="3913" soundid="23046">I&apos;m not a rich man. But my reputation, my ship, and my men are worth everything I can give. Close the dam and free us, and I&apos;ll give you all the silver I have.</string>
-  <string id="3920" soundid="23053">The Great Dam is open, and the lake that feeds into the river is gone. My ship, the Lucky Night, is stranded here like a lame water buffalo.</string>
-  <string id="3922" soundid="23055">They&apos;re good men, but we&apos;re all a bit mad right now. The Great Dam is open, and the lake that feeds into the river is gone. My ship is stranded here like a lame water buffalo.</string>
-  <string id="3923" soundid="23105">I offered you an enormous amount of silver to perform a simple task. Instead, you chose to close the Great Dam and ruin my business.</string>
-  <string id="3924" soundid="23057">If you&apos;ve come to complain about my men, I don&apos;t want to hear it. When Minister Sheng gets the Great Dam closed, we&apos;ll be happy to leave. Until then, we&apos;re stuck here.</string>
-  <string id="3930" soundid="23063">If I leave the ship, my men will have Tien&apos;s Landing in flames. The locals think the dam is haunted, and Minister Sheng can&apos;t find anyone brave enough to risk closing it.</string>
-  <string id="3931">Demon</string>
-  <string id="3932">I&apos;ll help you.</string>
-  <string id="3933">I&apos;ll think about it.</string>
-  <string id="3934">I have more important things to do.</string>
-  <string id="3938" soundid="154747">In other words, accepting your place in the world and using your skills accordingly is the optimal way of following the path of harmony.</string>
-  <string id="3940">If the river is too low and fast, why don&apos;t you go close the dam?</string>
-  <string id="3949">Master Smiling Hawk</string>
-  <string id="3953" soundid="26644">The way is clear to the Imperial City. You need only speak to our mad friend, Kang, and he will prepare the flyer.</string>
-  <string id="3954">Imperial Soldier</string>
-  <string id="3958" soundid="125460">I... I will do my best. But I don&apos;t know anything. The Lotus Assassins just told us to guard the gate while they searched the ruins. That&apos;s all. I swear.</string>
-  <string id="3959">Wu the Lotus Blossom</string>
-  <string id="3960" soundid="145324">Unless you need me, I will stay here at this new camp. It seems safe enough, and it may as well serve as a base for us.</string>
-  <string id="3961">Player</string>
-  <string id="3967" soundid="145325">I will stay here at this new camp unless you need me. It seems like a good enough place to base ourselves out of.</string>
-  <string id="3971">Silk Fox</string>
-  <string id="3972">Old Master</string>
-  <string id="3975" soundid="31107">I have been thinking since our match. I came to this place seeking honor, but I feel that my many victories have all been hollow.</string>
-  <string id="3976" soundid="31108">We did not speak before our match, but I see you are not like the rabble that fills this place. I think.... Yes, it is time for me to leave again and seek other challenges.</string>
-  <string id="3977" soundid="31109">I think.... Yes, it is time for me to leave again and seek other challenges.</string>
-  <string id="3980" soundid="145337">You dogs are pathetic. I&apos;ll take care of this myself!</string>
-  <string id="3983" soundid="160300">[The machine is inactive. You corrupted it with Zeng Sai&apos;s corpse and obtained the Spirit Shard.]</string>
-  <string id="3985">Your men don&apos;t respect you very much, do they?</string>
-  <string id="3986">I&apos;ll leave you alone, then.</string>
-  <string id="3987">You&apos;re stuck here?</string>
-  <string id="3993">Do you want to sell &lt;CUSTOM0&gt;?</string>
-  <string id="3997" soundid="125461">They are evil. Pure evil! They forced me to serve them. They would have killed me if I disobeyed. I had no choice but to guard this door while they searched the ruins.</string>
-  <string id="3998" soundid="31110">Judge it as you wish; I simply tire of this place. More specifically, I tire of dealing with the machinations of the Guild.</string>
-  <string id="4000" soundid="31111">I think I shall return to the Prosperous East and continue my studies. But first, I am sworn to teach the secrets of my style to any who can best me. Let me instruct you.</string>
-  <string id="4002" soundid="31112">Since you told me the Serpent&apos;s plan, I will teach you a more advanced technique. The key is balance and form. Your motion must be swift but precise.</string>
-  <string id="4003">Death&apos;s Hand</string>
-  <string id="4004">Lieutenant</string>
-  <string id="4006" soundid="31116">What I sensed was some opening in your guard. I cannot name it and could not find it leading me to believe that it was a brilliant gambit.</string>
-  <string id="4007" soundid="31117">Could it be a gambit you are barely aware of?</string>
-  <string id="4012" soundid="105586">A few scruffy bandits and their mysterious leader show up, and suddenly everyone&apos;s pestering me about the village, like it&apos;s important.</string>
-  <string id="4013" soundid="105587">Cursed bandits. Let their spirits lay troubled for all they have done. Some good people fell here, but thanks to you, not as many as might have.</string>
-  <string id="4014" soundid="105588">And my statue... it&apos;s a good thing they didn&apos;t touch it. Disgracing such a tribute would be like disgracing the Emperor himself.</string>
+  <string id="3884">Guarda</string>
+  <string id="3887">Comerciante Kia Jong</string>
+  <string id="3896">Camponês</string>
+  <string id="3907">Lento</string>
+  <string id="3908" soundid="127040">Os negócios certamente caíram com a saída desses marinheiros.</string>
+  <string id="3913" soundid="23046">Não sou um homem rico. Mas minha reputação, meu navio e meus homens valem tudo o que posso dar. Feche a barragem e nos liberte, e eu lhe darei toda a prata que tenho.</string>
+  <string id="3920" soundid="23053">A Grande Barragem está aberta, e o lago que alimenta o rio desapareceu. Meu navio, Lucky Night, está encalhado aqui como um búfalo manco.</string>
+  <string id="3922" soundid="23055">Eles são bons homens, mas estamos todos um pouco loucos no momento. A Grande Barragem está aberta, e o lago que alimenta o rio desapareceu. Meu navio está encalhado aqui, como um búfalo manco.</string>
+  <string id="3923" soundid="23105">Eu lhe ofereci uma enorme quantidade de prata para realizar uma tarefa simples. Em vez disso, você preferiu fechar a Grande Barragem e arruinar meus negócios.</string>
+  <string id="3924" soundid="23057">Se veio reclamar de meus homens, não quero ouvir. Quando o Ministro Sheng conseguir fechar a Grande Barragem, ficaremos felizes em partir. Até lá, estamos presos aqui.</string>
+  <string id="3930" soundid="23063">Se eu deixar o navio, meus homens deixarão a Cidade de Tien em chamas. Os habitantes locais acham que a represa é assombrada, e o Ministro Sheng não consegue encontrar ninguém corajoso o suficiente para arriscar fechá-la.</string>
+  <string id="3931">Demônio</string>
+  <string id="3932">Eu o ajudarei.</string>
+  <string id="3933">Vou pensar sobre isso.</string>
+  <string id="3934">Tenho coisas mais importantes para fazer.</string>
+  <string id="3938" soundid="154747">Em outras palavras, aceitar seu lugar no mundo e usar suas habilidades de acordo com ele é a melhor maneira de seguir o caminho da harmonia.</string>
+  <string id="3940">Se o rio está muito baixo e rápido, por que você não fecha a barragem?</string>
+  <string id="3949">Mestre Falcão Sorridente</string>
+  <string id="3953" soundid="26644">O caminho está livre para a Cidade Imperial. Você só precisa falar com nosso amigo louco, Kang, e ele preparará o folheto.</string>
+  <string id="3954">Soldado Imperial</string>
+  <string id="3958" soundid="125460">Eu... Farei o meu melhor. Mas não sei de nada. Os Assassinos do Lótus apenas nos disseram para guardar o portão enquanto vasculhavam as ruínas. Isso é tudo. Eu juro.</string>
+  <string id="3959">Wu, a Flor de Lótus</string>
+  <string id="3960" soundid="145324">A menos que você precise de mim, ficarei aqui neste novo acampamento. Parece seguro o suficiente e pode servir como base para nós.</string>
+  <string id="3961">Jogador</string>
+  <string id="3967" soundid="145325">Ficarei aqui no novo acampamento, a menos que você precise de mim. Parece ser um lugar bom o suficiente para chamarmos de base.</string>
+  <string id="3971">Raposa de Seda</string>
+  <string id="3972">Antigo Mestre</string>
+  <string id="3975" soundid="31107">Estive pensando desde a nossa partida. Vim para este lugar em busca de honra, mas sinto que minhas muitas vitórias foram todas vazias.</string>
+  <string id="3976" soundid="31108">Não nos falamos antes da partida, mas vejo que você não é como a ralé que lota este lugar. Acho que.... Sim, está na hora de eu sair novamente e buscar outros desafios.</string>
+  <string id="3977" soundid="31109">Acho que.... Sim, está na hora de eu sair novamente e buscar outros desafios.</string>
+  <string id="3980" soundid="145337">Vocês, cães, são patéticos. Eu mesmo cuidarei disso!</string>
+  <string id="3983" soundid="160300">[A máquina está inativa. Você a corrompeu com o cadáver de Zeng Sai e obteve o Fragmento de Espírito].</string>
+  <string id="3985">Seus homens não o respeitam muito, não é mesmo?</string>
+  <string id="3986">Então, vou deixá-lo em paz.</string>
+  <string id="3987">Você está preso aqui?</string>
+  <string id="3993">Deseja vender &lt;CUSTOM0&gt;?</string>
+  <string id="3997" soundid="125461">Eles são malignos. Pura maldade! Eles me forçaram a servi-los. Teriam me matado se eu desobedecesse. Não tive escolha a não ser guardar esta porta enquanto eles vasculhavam as ruínas.</string>
+  <string id="3998" soundid="31110">Julgue como quiser; eu simplesmente me cansei deste lugar. Mais especificamente, cansei de lidar com as maquinações da Guilda.</string>
+  <string id="4000" soundid="31111">Acho que voltarei ao Próspero Oriente e continuarei meus estudos. Mas, primeiro, jurei ensinar os segredos de meu estilo a qualquer um que me superasse. Deixe-me instruí-lo.</string>
+  <string id="4002" soundid="31112">Já que você me contou o plano da Serpente, vou lhe ensinar uma técnica mais avançada. O segredo é o equilíbrio e a forma. Seu movimento deve ser rápido, mas preciso.</string>
+  <string id="4003">Mão da Morte</string>
+  <string id="4004">Tenente</string>
+  <string id="4006" soundid="31116">O que senti foi uma abertura em sua guarda. Não consigo nomeá-la e não consegui encontrá-la, o que me leva a crer que foi uma jogada brilhante.</string>
+  <string id="4007" soundid="31117">Poderia ser uma jogada da qual você mal tem conhecimento?</string>
+  <string id="4012" soundid="105586">Alguns bandidos esfarrapados e seu misterioso líder aparecem e, de repente, todos estão me importunando sobre a vila, como se isso fosse importante.</string>
+  <string id="4013" soundid="105587">Malditos bandidos. Que seus espíritos fiquem atormentados por tudo o que fizeram. Perdemos muitas pessoas boas, mas, graças a você, menos do que imaginamos.</string>
+  <string id="4014" soundid="105588">E a minha estátua... ainda bem que não tocaram nela. Desonrar tal tributo seria como desonrar o próprio imperador.</string>
   <string id="4015" soundid="142484"></string>
-  <string id="4016" soundid="142485">Never bargain with a man who makes deals for a living. You&apos;ll always lose.</string>
-  <string id="4044" soundid="23095">I&apos;m grateful you agreed to close the dam for me, but I see the water is still low. The longer you wait, the more difficult it becomes to control my men.</string>
-  <string id="4049" soundid="23100">I&apos;m Captain Ing. This is my ship, the Lucky Night. She&apos;s a fine vessel... or was. But now that the Great Dam is open, the Lucky Night is stranded here, along with me and my men. </string>
-  <string id="4051">Who are you?</string>
-  <string id="4054" soundid="23106">It was a pleasure doing business with you earlier, my friend. The best deals are those where all parties profit. As you can see, business is still quite brisk for me.</string>
-  <string id="4055" soundid="23107">I think you know. Minister Sheng has asked you to go out to the Great Dam. He must have given you the key to the ruins.</string>
-  <string id="4056" soundid="127286">I have seen his kind in the city. He thinks his family&apos;s wealth is a substitute for nobility and is angered when others still see him for what he is: a crass and spoiled bully.</string>
-  <string id="4059" soundid="23111">No need to rush to a decision. Just keep it in mind. If you destroy the controls, bring me some proof, and I will happily honor my word.</string>
-  <string id="4063">You found:</string>
-  <string id="4064">A:Continue</string>
-  <string id="4065">Saving game. Please don&apos;t shut down Jade Empire.</string>
-  <string id="4147">Prerequisites not met.</string>
-  <string id="4148">Disallowed</string>
-  <string id="4149">Already Purchased</string>
+  <string id="4016" soundid="142485">Nunca pechinche com um homem que faz negócios para viver. Você sempre perderá.</string>
+  <string id="4044" soundid="23095">Agradeço por ter concordado em fechar a barragem para mim, mas vejo que a água ainda está baixa. Quanto mais você esperar, mais difícil será controlar meus homens.</string>
+  <string id="4049" soundid="23100">Eu sou o Capitão Ing. Este é o meu navio, o Lucky Night. Ele é um bom navio... ou era. Mas agora que a Grande Barragem está aberta, o Lucky Night está encalhado aqui, junto comigo e meus homens.\n</string>
+  <string id="4051">Quem é você?</string>
+  <string id="4054" soundid="23106">Foi um prazer fazer negócios com você antes, meu amigo. Os melhores negócios são aqueles em que todas as partes lucram. Como você pode ver, os negócios ainda estão bastante movimentados para mim.</string>
+  <string id="4055" soundid="23107">Acho que você sabe. O Ministro Sheng pediu que você fosse até a Grande Barragem. Ele deve ter lhe dado a chave das ruínas.</string>
+  <string id="4056" soundid="127286">Já vi pessoas como ele na cidade. Ele acha que a riqueza de sua família é um substituto para a nobreza e fica irritado quando os outros ainda o veem pelo que ele é: um valentão grosseiro e mimado.</string>
+  <string id="4059" soundid="23111">Não há necessidade de se apressar em tomar uma decisão. Apenas tenha isso em mente. Se você destruir os controles, traga-me alguma prova, e terei prazer em honrar minha palavra.</string>
+  <string id="4063">Você encontrou:</string>
+  <string id="4064">A:Continuar</string>
+  <string id="4065">Salvando o jogo. Por favor, não feche o Jade Empire.</string>
+  <string id="4147">Pré-requisitos não atendidos.</string>
+  <string id="4148">Não permitido</string>
+  <string id="4149">Já comprado</string>
   <string id="4190">&lt;CUSTOM0&gt;+&lt;CUSTOM1&gt;</string>
   <string id="4191">&lt;CUSTOM0&gt;, &lt;CUSTOM1&gt;</string>
-  <string id="4241">Replace existing mapped style?</string>
-  <string id="4264">Bandit Captain</string>
-  <string id="4267">Sheng Guard</string>
-  <string id="4309">Imperial City - Market District</string>
-  <string id="4636">Mister Ren&apos;s ghost lies peacefully and won&apos;t rise again.</string>
-  <string id="4637">I am &lt;FullName&gt;, and you are about to be humbled.</string>
-  <string id="4638">Mister Ren&apos;s ghost lies peacefully and won&apos;t rise again.</string>
-  <string id="4639">Black Whirlwind</string>
-  <string id="4644">Butcher</string>
-  <string id="4649">Crash Site</string>
-  <string id="4650">Cannibal</string>
-  <string id="4655">Cannibal</string>
-  <string id="4755">Inquisitor Lim</string>
-  <string id="4760">Boat</string>
+  <string id="4241">Substituir o estilo mapeado existente?</string>
+  <string id="4264">Bandido Capitão</string>
+  <string id="4267">Guarda Sheng</string>
+  <string id="4309">Cidade Imperial - Distrito do Mercado</string>
+  <string id="4636">O fantasma do Sr. Ren jaz pacificamente e não se levantará novamente.</string>
+  <string id="4637">Eu sou &lt;FullName&gt;, e você está prestes a ser humilhado.</string>
+  <string id="4638">O fantasma do Sr. Ren jaz pacificamente e não se levantará novamente.</string>
+  <string id="4639">Redemoinho Preto</string>
+  <string id="4644">Açougueiro</string>
+  <string id="4649">Local do acidente</string>
+  <string id="4650">Canibal</string>
+  <string id="4655">Canibal</string>
+  <string id="4755">Inquisidor Lim</string>
+  <string id="4760">Barco</string>
   <string id="4761">Turnkey Shiji</string>
-  <string id="4766">Convict Ghost</string>
-  <string id="4771">Strangler Jizu</string>
-  <string id="4780" soundid="21543">No lake, no fish. How&apos;ll I feed my family?</string>
-  <string id="4781" soundid="21544">With the dam closed I can fish and feed my family again!</string>
-  <string id="4786">Dire Flame</string>
-  <string id="4787">Dire Flame</string>
-  <string id="4867">Proud Shanli</string>
-  <string id="4876">Judge Fang</string>
-  <string id="4881">Fang Guard</string>
-  <string id="4886">Cannibal</string>
+  <string id="4766">Fantasma Condenado</string>
+  <string id="4771">Estrangulador Jizu</string>
+  <string id="4780" soundid="21543">Sem lago, sem peixes. Como vou alimentar minha família?</string>
+  <string id="4781" soundid="21544">Com a barragem fechada, posso pescar e alimentar minha família novamente!</string>
+  <string id="4786">Chama Terrível</string>
+  <string id="4787">Chama Terrível</string>
+  <string id="4867">Orgulho de Shanli</string>
+  <string id="4876">Juiz Fang</string>
+  <string id="4881">Guarda Fang</string>
+  <string id="4886">Canibal</string>
   <string id="4897">Jinlin</string>
-  <string id="4902">Bodyguard Binggong</string>
-  <string id="4910">Transition</string>
+  <string id="4902">Guarda-costas Binggong</string>
+  <string id="4910">Transição</string>
   <string id="4915">Biyu</string>
   <string id="4921">Biyu</string>
-  <string id="4922">Character Record</string>
-  <string id="4923">Ability Scores</string>
-  <string id="4924">Health:</string>
-  <string id="4925">Focus:</string>
+  <string id="4922">Registro de Personagem</string>
+  <string id="4923">Pontuação de Habilidades</string>
+  <string id="4924">Saúde:</string>
+  <string id="4925">Foco:</string>
   <string id="4926">Chi:</string>
-  <string id="4927">Level:</string>
-  <string id="5093" soundid="5728">You go away! Sung Bu very busy thinking right now.</string>
-  <string id="5094" soundid="5729">If you must pester one of us, then make it my brother Sung Bo.</string>
-  <string id="5095" soundid="14420">No, no, we can&apos;t allow that to happen. It would be too much to bear.</string>
-  <string id="5097" soundid="14422">My daughter, Wen Si Wei, has fallen ill, and nothing in my previous training could help me with what ails her.</string>
-  <string id="5098" soundid="14423">Her liver has been rotted from within, corrupted by some energy I have never encountered before.</string>
-  <string id="5099" soundid="14424">I don&apos;t know what it is, but it has prevented her liver from functioning. Now, her body no longer responds. I fear she is dying.</string>
-  <string id="5100" soundid="14425">That is what I fear. Her liver has been corrupted, and now her body no longer responds well. Without my efforts, she would be dead already.</string>
-  <string id="5101" soundid="14426">No! No! No! It... Oh... you!</string>
-  <string id="5103" soundid="14428">Have... have you managed to find some way to help me?</string>
-  <string id="5104" soundid="14429">Please, if you can find something to help my daughter, you would have my eternal gratitude.</string>
-  <string id="5105" soundid="14430">It can&apos;t be done! It can! Why not?!</string>
-  <string id="5107" soundid="14432">It&apos;s a perfectly reasonable assumption. There&apos;s no reason why it shouldn&apos;t.</string>
-  <string id="5108" soundid="14433">No! It has to work... It has to!</string>
-  <string id="5111" soundid="14436">You!</string>
-  <string id="5112" soundid="145504">A man in need of a doctor? Why haven&apos;t you brought him here?</string>
-  <string id="5117" soundid="14442">But this poor wretch isn&apos;t much good either, No, not at all... But what else is there? What else is there?</string>
-  <string id="5118" soundid="14443">Work, damn you! Work!</string>
+  <string id="4927">Nível:</string>
+  <string id="5093" soundid="5728">Vai embora! Sung Bu tá muito ocupado pensando agora.</string>
+  <string id="5094" soundid="5729">Se você precisa importunar um de nós, que seja meu irmão Sung Bo.</string>
+  <string id="5095" soundid="14420">Não, não, não podemos permitir que isso aconteça. Seria demais para suportar.</string>
+  <string id="5097" soundid="14422">Minha filha, Wen Si Wei, adoeceu, e nada em meu treinamento anterior poderia me ajudar com o que a aflige.</string>
+  <string id="5098" soundid="14423">Seu fígado foi apodrecido por dentro, corrompido por uma energia que nunca encontrei antes.</string>
+  <string id="5099" soundid="14424">Não sei o que é, mas isso impediu o funcionamento do fígado dela. Agora, seu corpo não responde mais. Temo que ela esteja morrendo.</string>
+  <string id="5100" soundid="14425">É isso que eu temo. Seu fígado foi corrompido, e agora seu corpo não responde mais corretamente. Sem meus esforços, ela já estaria morta.</string>
+  <string id="5101" soundid="14426">Não! Não! Não! Isso... Ah... você!</string>
+  <string id="5103" soundid="14428">Você... conseguiu encontrar alguma maneira de me ajudar?</string>
+  <string id="5104" soundid="14429">Por favor, se puderem encontrar algo para ajudar minha filha, terão minha eterna gratidão.</string>
+  <string id="5105" soundid="14430">Isso não pode ser feito! Pode! Por que não?!</string>
+  <string id="5107" soundid="14432">É uma suposição perfeitamente razoável. Não há razão para que não seja.</string>
+  <string id="5108" soundid="14433">Não! Tem que funcionar... Tem que funcionar!</string>
+  <string id="5111" soundid="14436">Você!</string>
+  <string id="5112" soundid="145504">Um homem que precisa de um médico? Por que você não o trouxe aqui?</string>
+  <string id="5117" soundid="14442">Mas esse pobre coitado também não é muito bom. Não, de jeito nenhum... Mas o que mais existe? O que mais existe?</string>
+  <string id="5118" soundid="14443">Trabalhe, droga! Trabalhem!</string>
   <string id="5123">%d/%d</string>
-  <string id="5126" soundid="14448">Wha... What do you want? You... you can&apos;t have me, corpse! Not yet!</string>
-  <string id="5128" soundid="14450">You... you&apos;re not dead!</string>
-  <string id="5130" soundid="14452">I&apos;m sorry, I just... I just panicked. I thought you were some spirit, here for revenge.</string>
-  <string id="5131" soundid="14453">Well... my incense didn&apos;t drive you away... but mostly, it&apos;s because I can&apos;t see through you.</string>
-  <string id="5132" soundid="14454">My research has shown that virtually all spirits, especially those whose bodies can no longer support themselves, return as incorporeal beings.</string>
-  <string id="5133" soundid="14455">It means you can see through them.</string>
-  <string id="5134" soundid="14456">Ah, well... my work, you see, while very important--*very important*--may upset some of those spirits not fully at peace.</string>
-  <string id="5135" soundid="14457">My name is Wen Zhi, but the few who come here call me mad. Mad Wen, they say. But I am not mad!</string>
-  <string id="5136" soundid="14458">I am desperate, it is true, but I know what I&apos;m doing. The vengeful spirits of this place will not hold me!</string>
-  <string id="5137" soundid="14459">I... I am conducting my research.</string>
-  <string id="5138" soundid="14460">I am a doctor by trade, studying the internals of the body and the energies that drive it. But lately, I have come on hard, hard times.</string>
-  <string id="5139" soundid="145505">His daughter? Well, then something must be done immediately. If need be, I&apos;m sure I could steal away from this noisy place for a few hours.</string>
-  <string id="5143" soundid="145506">A new liver? That&apos;s... that&apos;s impossible! He would have to be mad to try that! Acupuncture can do wondrous things, but it cannot restore an organ that has failed.</string>
-  <string id="5149">Some energy?</string>
-  <string id="5150">She is dying then?</string>
-  <string id="5151">What did you do?</string>
-  <string id="5152">Is there anything I can do to help?</string>
-  <string id="5153" soundid="190658">To the Golden Way.</string>
-  <string id="5154">I am a spirit, here for revenge!</string>
-  <string id="5157">I have a preserved liver.</string>
-  <string id="5158">I don&apos;t have anything yet.</string>
-  <string id="5159">Tell me about your work.</string>
-  <string id="5160">Tell me about your daughter again.</string>
-  <string id="5161">I have to go now.</string>
-  <string id="5182">I&apos;m &lt;FullName&gt;, and I&apos;m not dead.</string>
-  <string id="5183" soundid="145817">I am tired of seeing our carefully laid plans fall to your thuggish fists. The operations in the ruins and Gao&apos;s factory were my responsibility. Their destruction is my shame.</string>
-  <string id="5184">Who are you?</string>
-  <string id="5187">Revenge for what?</string>
-  <string id="5188">How do you know I&apos;m not a spirit?</string>
-  <string id="5191">What would a spirit want revenge for?</string>
-  <string id="5192">Who are you?</string>
-  <string id="5194">What are you doing here?</string>
-  <string id="5198" soundid="5833">No woman can resist the alluring gaze of Lustful Lao! I can say &quot;good morning&quot; in seven dialects, which would you prefer I use tomorrow?</string>
-  <string id="5199" soundid="5834">How dare you interrupt me!?</string>
-  <string id="5200" soundid="5835">Oh, I knew you&apos;d be back. No woman alive can resist the call of Lustful Lao&apos;s powerful yang!</string>
-  <string id="5201" soundid="5836">You return once again to interrupt Lustful Lao, master of the eye of beckoning, lord of the billowing sheets!</string>
+  <string id="5126" soundid="14448">O que... O que você quer? Você... você não pode me ter, cadáver! Ainda não!</string>
+  <string id="5128" soundid="14450">Você...você não está morto!</string>
+  <string id="5130" soundid="14452">Desculpe-me, eu só... Entrei em pânico. Pensei que você fosse um espírito, que estava aqui para se vingar.</string>
+  <string id="5131" soundid="14453">Bem... meu incenso não o afastou... mas, principalmente, é porque não consigo ver através de você.</string>
+  <string id="5132" soundid="14454">Minha pesquisa mostrou que praticamente todos os espíritos, especialmente aqueles cujos corpos não conseguem mais se sustentar, retornam como seres incorpóreos.</string>
+  <string id="5133" soundid="14455">Isso significa que você pode ver através deles.</string>
+  <string id="5134" soundid="14456">Ah, bem... meu trabalho, sabe, embora seja muito importante - *muito importante* - pode perturbar alguns desses espíritos que não estão totalmente em paz.</string>
+  <string id="5135" soundid="14457">Meu nome é Wen Zhi, mas os poucos que vêm aqui me chamam de doido. Doido Wen, eles dizem. Mas eu não sou louco!</string>
+  <string id="5136" soundid="14458">Estou desesperado, é verdade, mas sei o que estou fazendo. Os espíritos vingativos deste lugar não me deterão!</string>
+  <string id="5137" soundid="14459">Eu... Estou conduzindo minha pesquisa.</string>
+  <string id="5138" soundid="14460">Sou médico por profissão, estudando as partes internas do corpo e as energias que os impulsionam. Mas, ultimamente, tenho passado por momentos muito, muito difíceis.</string>
+  <string id="5139" soundid="145505">Sua filha? Bem, então algo deve ser feito imediatamente. Se necessário, tenho certeza de que posso me afastar deste lugar barulhento por algumas horas.</string>
+  <string id="5143" soundid="145506">Um fígado novo? Isso é... isso é impossível! Ele teria que ser louco para tentar isso! A acupuntura pode fazer coisas maravilhosas, mas não pode restaurar um órgão que parou de funcionar.</string>
+  <string id="5149">Alguma energia?</string>
+  <string id="5150">Então ela está morrendo?</string>
+  <string id="5151">O que você fez?</string>
+  <string id="5152">Há algo que eu possa fazer para ajudar?</string>
+  <string id="5153" soundid="190658">Para o Caminho Dourado.</string>
+  <string id="5154">Sou um espírito, estou aqui para me vingar!</string>
+  <string id="5157">Tenho um fígado preservado.</string>
+  <string id="5158">Ainda não tenho nada.</string>
+  <string id="5159">Fale-me sobre seu trabalho.</string>
+  <string id="5160">Fale-me novamente sobre sua filha.</string>
+  <string id="5161">Tenho que ir agora.</string>
+  <string id="5182">Eu sou &lt;FullName&gt;, e não estou morto.</string>
+  <string id="5183" soundid="145817">Estou cansado de ver nossos planos cuidadosamente elaborados caírem nas mãos de seus bandidos. As operações nas ruínas e na fábrica de Gao eram de minha responsabilidade. A destruição deles é minha vergonha.</string>
+  <string id="5184">Quem é você?</string>
+  <string id="5187">Vingança de quê?</string>
+  <string id="5188">Como você sabe que não sou um espírito?</string>
+  <string id="5191">Por que um espírito iria querer se vingar?</string>
+  <string id="5192">Quem é você?</string>
+  <string id="5194">O que está fazendo aqui?</string>
+  <string id="5198" soundid="5833">Nenhuma mulher resiste ao olhar sedutor de Lao Pegador! Posso dizer "good morning" em sete dialetos, qual você prefere que eu use amanhã?</string>
+  <string id="5199" soundid="5834">Como ousa me interromper?</string>
+  <string id="5200" soundid="5835">Oh, eu sabia que você voltaria. Nenhuma mulher viva pode resistir ao chamado do poderoso Lao Pegador!</string>
+  <string id="5201" soundid="5836">Você retorna mais uma vez para interromper Lao Pegador, mestre do aceno com olhar, senhor dos lençóis ondulantes!</string>
   <string id="5202" soundid="5837">I see your true question dancing in your marvelous eyes. &quot;Yes, I *can* lift a two person rickshaw without my hands.&quot; Would you like a demonstration?</string>
   <string id="5203" soundid="5838">Not half as impressive as when I lean forward at forty five degrees and yet stand perfectly stable! Now, what are you really here to ask of Lustful Lao?</string>
   <string id="5204" soundid="5839">The only way to find out would be to spend an eternity of evenings with me, wouldn&apos;t it?</string>
