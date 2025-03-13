@@ -21,4 +21,6 @@
 
 EULA.txt
 stutter_fix_readme.txt
-package.json
+package-lock.json
+
+node_modules

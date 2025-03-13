@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tlk language="0">
+  <string id="120360">Dire Flame</string>
+  <string id="120361">VengefulThorn</string>
+  <string id="120362">JadeImmortal</string>
+  <string id="120363">Quicksilver</string>
+  <string id="120364">FangVenom</string>
+  <string id="120365">DemonRain</string>
+  <string id="120366">EdgesDestiny</string>
+  <string id="120367">TiensJustice</string>
+  <string id="120368">SpiritThunder</string>
+  <string id="120369">Staff</string>
+  <string id="120370">Spear</string>
+  <string id="120371">SilverMoon</string>
+  <string id="120372">SevenThunders</string>
+  <string id="120373">Tempest</string>
+  <string id="120374">Stone Immortal</string>
+  <string id="120375">DoubleSwords</string>
+  <string id="120376">MonkStaff</string>
+  <string id="120377">Horse Demon Form</string>
+  <string id="120378">OgreForm</string>
+  <string id="120379">Red Minister Form</string>
+  <string id="120380">Golem Form</string>
+  <string id="120381">Toad Demon Form</string>
+  <string id="120382">CreatureForm</string>
+  <string id="120383">SpiritForm</string>
+  <string id="120384">Mirabelle</string>
+  <string id="120385">Musket</string>
+  <string id="120386">I&apos;ll improvise!</string>
+  <string id="120387">This will be useful!</string>
+  <string id="120388">Whatever it takes!</string>
+  <string id="120389">Legendary Strike</string>
+  <string id="120390">CloudThunder</string>
+  <string id="120391">ButterflySwords</string>
+  <string id="120392">CrescentBlades</string>
+  <string id="120393">CrimsonTears</string>
+  <string id="120394">DarkStar</string>
+  <string id="120395">DivineVoid</string>
+  <string id="120396">DoubleHammers</string>
+  <string id="120397">Double Sabers</string>
+  <string id="120398">DragonSword</string>
+  <string id="120399">DragonEyes</string>
+  <string id="120400">Drunken Master</string>
+  <string id="120401">Flawless</string>
+  <string id="120402">Heavenly Wave</string>
+  <string id="120403">HeavensFlame</string>
+  <string id="120404">Hidden Fist</string>
+  <string id="120405">Ice Shard</string>
+  <string id="120406">Leaping Tiger</string>
+  <string id="120407">Lightning</string>
+  <string id="120408">BlackMantis</string>
+  <string id="120409">MonkeysPaw</string>
+  <string id="120410">Rings</string>
+  <string id="120411">Saber</string>
+  <string id="120412">ShiftingSand</string>
+  <string id="120413">ShiningDeath</string>
+  <string id="120414">ShootingStar</string>
+  <string id="120415">SunMoon</string>
+  <string id="120416">ThiefSouls</string>
+  <string id="120417">TiensJustice</string>
+  <string id="120418">Viper</string>
+  <string id="120419">White Demon</string>
+  <string id="120420">Willow</string>
+  <string id="120421">ZaosWrath</string>
+  <string id="120422">Double Axes</string>
+  <string id="120423">DemonForm</string>
+  <string id="120424">IronPalm</string>
+  <string id="120425">LegendFist</string>
+  <string id="120426">Long sword</string>
+  <string id="120427">Paralyzing Palm</string>
+  <string id="120428">Storm Dragon</string>
+  <string id="120429">StormSaber</string>
+  <string id="120430">Thousand Cuts</string>
+  <string id="120431">Spirit Thief</string>
+  <string id="120432">Dire Flame</string>
+  <string id="120433">VengefulThorn</string>
+  <string id="120434">JadeImmortal</string>
+  <string id="120435">Quicksilver</string>
+  <string id="120436">FangVenom</string>
+  <string id="120437">DemonRain</string>
+  <string id="120438">EdgesDestiny</string>
+  <string id="120439">TiensJustice</string>
+  <string id="120440">SpiritThunder</string>
+  <string id="120441">Staff</string>
+  <string id="120442">Spear</string>
+  <string id="120443">SilverMoon</string>
+  <string id="120444">SevenThunders</string>
+  <string id="120445">Tempest</string>
+  <string id="120446">Stone Immortal</string>
+  <string id="120447">DoubleSwords</string>
+  <string id="120448">MonkStaff</string>
+  <string id="120449">Horse Demon Form</string>
+  <string id="120450">OgreForm</string>
+  <string id="120451">Red Minister Form</string>
+  <string id="120452">Golem Form</string>
+  <string id="120453">Toad Demon Form</string>
+  <string id="120454">CreatureForm</string>
+  <string id="120455">SpiritForm</string>
+  <string id="120456">Mirabelle</string>
+  <string id="120457">Musket</string>
+  <string id="120458">I&apos;ll improvise!</string>
+  <string id="120459">This will be useful!</string>
+  <string id="120460">Whatever it takes!</string>
+  <string id="120461">Legendary Strike</string>
+  <string id="120462">CloudThunder</string>
+  <string id="120463">ButterflySwords</string>
+  <string id="120464">CrescentBlades</string>
+  <string id="120465">CrimsonTears</string>
+  <string id="120466">DarkStar</string>
+  <string id="120467">DivineVoid</string>
+  <string id="120468">DoubleHammers</string>
+  <string id="120469">Double Sabers</string>
+  <string id="120470">DragonSword</string>
+  <string id="120471">DragonEyes</string>
+  <string id="120472">Drunken Master</string>
+  <string id="120473">Flawless</string>
+  <string id="120474">Heavenly Wave</string>
+  <string id="120475">HeavensFlame</string>
+  <string id="120476">Hidden Fist</string>
+  <string id="120477">Ice Shard</string>
+  <string id="120478">Leaping Tiger</string>
+  <string id="120479">Lightning</string>
+  <string id="120480">BlackMantis</string>
+  <string id="120481">MonkeysPaw</string>
+  <string id="120482">Rings</string>
+  <string id="120483">Saber</string>
+  <string id="120484">ShiftingSand</string>
+  <string id="120485">ShiningDeath</string>
+  <string id="120486">ShootingStar</string>
+  <string id="120487">SunMoon</string>
+  <string id="120488">ThiefSouls</string>
+  <string id="120489">TiensJustice</string>
+  <string id="120490">Viper</string>
+  <string id="120491">White Demon</string>
+  <string id="120492">Willow</string>
+  <string id="120493">ZaosWrath</string>
+  <string id="120494">Double Axes</string>
+  <string id="120495">DemonForm</string>
+  <string id="120496">IronPalm</string>
+  <string id="120497">LegendFist</string>
+  <string id="120498">Long sword</string>
+  <string id="120499">Paralyzing Palm</string>
+  <string id="120500">Storm Dragon</string>
+  <string id="120501">StormSaber</string>
+  <string id="120502">Thousand Cuts</string>
+  <string id="120503">Spirit Thief</string>
+  <string id="120504">Dire Flame</string>
+  <string id="120505">VengefulThorn</string>
+  <string id="120506">JadeImmortal</string>
+  <string id="120507">Quicksilver</string>
+  <string id="120508">FangVenom</string>
+  <string id="120509">DemonRain</string>
+  <string id="120510">EdgesDestiny</string>
+  <string id="120511">TiensJustice</string>
+  <string id="120512">SpiritThunder</string>
+  <string id="120513">Staff</string>
+  <string id="120514">Spear</string>
+  <string id="120515">SilverMoon</string>
+  <string id="120516">SevenThunders</string>
+  <string id="120517">Tempest</string>
+  <string id="120518">Stone Immortal</string>
+  <string id="120519">DoubleSwords</string>
+  <string id="120520">MonkStaff</string>
+  <string id="120521">Horse Demon Form</string>
+  <string id="120522">OgreForm</string>
+  <string id="120523">Red Minister Form</string>
+  <string id="120524">Golem Form</string>
+  <string id="120525">Toad Demon Form</string>
+  <string id="120526">CreatureForm</string>
+  <string id="120527">SpiritForm</string>
+  <string id="120528">Mirabelle</string>
+  <string id="120529">Musket</string>
+  <string id="120530">I&apos;ll improvise!</string>
+  <string id="120531">This will be useful!</string>
+  <string id="120532">Whatever it takes!</string>
+  <string id="120533">Legendary Strike</string>
+  <string id="120535" soundid="195359"></string>
+  <string id="120536">I... must... continue!</string>
+  <string id="120537">Fear takes me!</string>
+  <string id="120538">I can&apos;t face them!</string>
+  <string id="120539">Fear holds me.</string>
+  <string id="120540">I... I can&apos;t do this!</string>
+  <string id="120541">This is not a pleasure to be a part of!</string>
+  <string id="120542">Such horror!</string>
+  <string id="120543" soundid="181150">Be serious. This worries me. The world seems to be filling up with wayward spirits. That it affected the Forest Shadow is very disturbing.</string>
+  <string id="120544" soundid="181151">That is very sweet of you to say. We should get back to what we need to do. Is there anything else you need?</string>
+  <string id="120545">Don&apos;t feel bad for being special. In my eyes, you have no choice.</string>
+  <string id="120546">You let that slip to interest me. Tell me about it.</string>
+  <string id="120547">You know you can ask me for anything as long as I have your company.</string>
+  <string id="120548">Tell me about that. How... sensitive are you?</string>
+  <string id="120550">You stand out. I prefer that. I know the feeling.</string>
+  <string id="120551">I&apos;ve always been interested in you. Tell me what you remember.</string>
+  <string id="120552">And I value you a great deal as well. What did you want to talk about?</string>
+  <string id="120553">We can put things right if we stay together.</string>
+  <string id="120554">If you depend on me, I consider that a privilege, not a burden.</string>
+  <string id="120555">I welcome that admission. What is on your mind?</string>
+  <string id="120578" soundid="181193">It would seem that my past is catching up to me, and you are destined to be swept along. You have faced your first spirit opponents far sooner than I intended.</string>
+  <string id="120579" soundid="181194">Dawn Star can explain the nature of such creatures. I must go and make sure everything is in place. I thought I had more time, but perhaps you are ready.</string>
+  <string id="120581" soundid="181196">Do not be so quick to thank me. My influence caused this attack. You were not meant to see this yet, but now there is no choice. I will explain at the school.</string>
+  <string id="120582" soundid="181197">You have done well, but more than this awaits you. See to your fellow villagers and students and return to me at the school. We have... a great deal to discuss.</string>
+  <string id="120583" soundid="181198">You would have fought, and you would have died. You are not ready, but you soon will be. There is no choice left to us. I will explain at the school.</string>
+  <string id="120587">Thank you for your assistance, Master Li.</string>
+  <string id="120590">Why did you step in? I could have fought him.</string>
+  <string id="120597" soundid="187931">Ah, you&apos;re one of them, are you? Follower of the Way of the Closed Fist? Whatever your motives, I think we both understand the language of silver.</string>
+  <string id="120598" soundid="187932">Ha. You know, I honestly didn&apos;t think you&apos;d do it.</string>
+  <string id="120601" soundid="187933">You make an interesting point. These people complained when the old town was flooded, and now they complain about just the opposite.</string>
+  <string id="120602" soundid="187934">A businessman with plenty of silver to spare might be able to restore the old town, and control most of the land around here.</string>
+  <string id="120603" soundid="187935">Yes, I think Tien&apos;s Landing would do quite well under my... guidance. The next few years will be interesting times.</string>
+  <string id="120604" soundid="187936">A philosopher with a head for business. Will wonders never cease?</string>
+  <string id="120605" soundid="187937">Yes, of course. I will remember your help. I have a feeling crossing you would be the act of an idiot.</string>
+  <string id="120606">I prefer something useful. Your weapon, for example.</string>
+  <string id="120607">Physical strength is the quality I am interested in.</string>
+  <string id="120608">I am interested in improving my mind.</string>
+  <string id="120609">I am concerned with spiritual matters.</string>
+  <string id="120610">Have you encountered any interesting gems?</string>
+  <string id="120611" soundid="181269">I&apos;m eager to try another attempt at this map. The route is rough, but there is something about it that inspires me. I need to see the whole thing for it to make sense.</string>
+  <string id="120612" soundid="181270">Ready for another attempt at the map we found in the Furnace? I&apos;m sure completing it will jog my memory even more.</string>
+  <string id="120613" soundid="181271">Yes, I&apos;m glad you want to make another attempt. This is very serious. We could rescue the greatest inventor the Empire has ever known. More or less.</string>
+  <string id="120614" soundid="181272">Well, that was a bit bumpy. Still, I can tighten up a bolt or two and we&apos;ll be ready to try again! We really should try again, you know?</string>
+  <string id="120805" soundid="181463">Lead on. I will follow. What choice do I have?</string>
+  <string id="120806" soundid="181464"></string>
+  <string id="120807" soundid="181465">Direct me where you wish. I have no say in the matter. That is what you wanted, isn&apos;t it? Unquestioning, meaningless obedience?</string>
+  <string id="120808" soundid="181466">I follow as directed. I am capable of nothing else. You sustain me now.</string>
+  <string id="120809" soundid="181467">I am thoroughly surprised that I even considered entering this place without being bound to your will. What was I thinking?</string>
+  <string id="120810" soundid="181468"></string>
+  <string id="120811" soundid="181469">Ya Zhen: What is it now? Hurry with your preparations so we can move on to more... interesting things.</string>
+  <string id="120812" soundid="181470">Chai Ka: You are progressing as only you are able. The fate of the Empire is yours to decide.</string>
+  <string id="120813" soundid="181471"></string>
+  <string id="120816" soundid="181474">Direct me as you must, but do not expect me to like it. I am just a tool to you.</string>
+  <string id="120817" soundid="181475">We have to find Master Li and stop him. We can&apos;t let this continue.</string>
+  <string id="120818" soundid="181476"></string>
+  <string id="120839">To Tien&apos;s Landing</string>
+  <string id="120871">Try again</string>
+  <string id="120897">Bridge</string>
+  <string id="120898">Belltower</string>
+  <string id="120899">Gate</string>
+  <string id="120902">Dirge Fountain</string>
+  <string id="121009">Ghost Trouble</string>
+  <string id="121010">Merchant Kia Jong</string>
+  <string id="121024">Exit to Necropolis</string>
+  <string id="121035">Door</string>
+  <string id="121036">Door</string>
+  <string id="121037">Door</string>
+  <string id="121038">Door</string>
+  <string id="121103" soundid="190707"></string>
+  <string id="121117">First Gate</string>
+  <string id="121118">Second Gate</string>
+  <string id="121119">Portal</string>
+  <string id="121120">From the school</string>
+  <string id="121125">Gate</string>
+  <string id="121132">Door</string>
+  <string id="121133">Door</string>
+  <string id="121183" soundid="181865"></string>
+  <string id="121185" soundid="181869">It is here, in my home. I kept it hidden by never acknowledging its importance. It is not hard to hide something. You need only master keeping the secret.</string>
+  <string id="121186">Does this tunnel lead to the cave somehow? The entrance couldn&apos;t be here, could it?</string>
+  <string id="121195">Area Attack</string>
+  <string id="121196">Move</string>
+  <string id="121197">Evade</string>
+  <string id="121202" soundid="181931">We have to stop Li. We can&apos;t let his crimes go unpunished.</string>
+  <string id="121203" soundid="181932">Don&apos;t keep Li waiting. The power he holds will soon be yours.</string>
+  <string id="121204" soundid="181933">Whatever you command. I don&apos;t appear to have much of a choice.</string>
+  <string id="121206">Conscript</string>
+  <string id="121209">Conscript</string>
+  <string id="121212">Conscript</string>
+  <string id="121215">L  R</string>
+  <string id="121217" soundid="181948">It&apos;s time. We must go face Master Li in the throne room.</string>
+  <string id="121218" soundid="181949">Our trial is not over. Your former Master will be in the throne room... waiting.</string>
+  <string id="121219" soundid="181950">Well... as if this weren&apos;t enough, your former Master is in the throne room.</string>
+  <string id="121220" soundid="181951">This act only confirms what we must do next. Sun Li awaits you in the throne room.</string>
+  <string id="121221" soundid="181952">Now that this is over with, your old Master waits for a beating in the throne room.</string>
+  <string id="121223" soundid="181954">Chai Ka: Your task is nearly complete. Sun Li awaits you in the throne room.</string>
+  <string id="121224" soundid="181955"></string>
+  <string id="121225" soundid="181956"></string>
+  <string id="121226" soundid="181957"></string>
+  <string id="121227" soundid="181958"></string>
+  <string id="121228" soundid="181959"></string>
+  <string id="121229" soundid="181960"></string>
+  <string id="121230" soundid="181961"></string>
+  <string id="121231" soundid="181962"></string>
+  <string id="121232" soundid="181963"></string>
+  <string id="121233" soundid="181964"></string>
+  <string id="121234" soundid="181965"></string>
+  <string id="121235" soundid="181966"></string>
+  <string id="121236" soundid="181967"></string>
+  <string id="121237" soundid="181968"></string>
+  <string id="121238" soundid="181969"></string>
+  <string id="121239" soundid="181970"></string>
+  <string id="121240" soundid="181971"></string>
+  <string id="121241" soundid="181972"></string>
+  <string id="121242" soundid="181973"></string>
+  <string id="121243" soundid="181974"></string>
+  <string id="121244" soundid="181975"></string>
+  <string id="121245" soundid="181976"></string>
+  <string id="121246" soundid="181977"></string>
+  <string id="121247" soundid="181978"></string>
+  <string id="121248" soundid="181979"></string>
+  <string id="121249" soundid="181980"></string>
+  <string id="121250" soundid="181981"></string>
+  <string id="121251" soundid="181982"></string>
+  <string id="121252" soundid="181983"></string>
+  <string id="121253" soundid="181984"></string>
+  <string id="121254" soundid="181985"></string>
+  <string id="121255" soundid="181986"></string>
+  <string id="121256" soundid="181987"></string>
+  <string id="121257" soundid="181988"></string>
+  <string id="121258">You do not have any unequipped gems.</string>
+  <string id="121259" soundid="181990"></string>
+  <string id="121260" soundid="181991"></string>
+  <string id="121261" soundid="181992"></string>
+  <string id="121262" soundid="181993"></string>
+  <string id="121304" soundid="182038">Once Sun Li is defeated you can use the power of the Water Dragon to make everything right again.</string>
+  <string id="121305" soundid="182039"></string>
+  <string id="121306" soundid="182040"></string>
+  <string id="121307" soundid="182041"></string>
+  <string id="121308" soundid="182042"></string>
+  <string id="121309" soundid="182043"></string>
+  <string id="121310" soundid="182044"></string>
+  <string id="121311" soundid="182045"></string>
+  <string id="121312" soundid="182046"></string>
+  <string id="121313" soundid="182047"></string>
+  <string id="121314" soundid="182048"></string>
+  <string id="121315" soundid="182049"></string>
+  <string id="121332" soundid="188671"></string>
+  <string id="121334">Bandit Swamp</string>
+  <string id="121361">Your offer was richer than any other. Speaking of which, you owe me.</string>
+  <string id="121390">Imperial Soldier Ghost</string>
+  <string id="121392">School Gate</string>
+  <string id="121401">Weaponmaster Gujin&apos;s Store</string>
+  <string id="121402">Two Rivers Town Gate</string>
+  <string id="121403">Merchant Fen Do</string>
+  <string id="121404">Imperial Soldier Ghost</string>
+  <string id="121408">Beach</string>
+  <string id="121422">This town will be stronger for learning to live without the dam.</string>
+  <string id="121425">Do what you wish, I don&apos;t care about these people.</string>
+  <string id="121426">Remember that strength comes from adversity. Share that lesson with these peasants.</string>
+  <string id="121428">Don&apos;t forget who got you there. I certainly won&apos;t.</string>
+  <string id="121436">Imperial Soldier Ghost</string>
+  <string id="121441" soundid="183718">To the beach.</string>
+  <string id="121442">Door</string>
+  <string id="121444" soundid="185519">Cannon fire! Look out!</string>
+  <string id="121445">Sign</string>
+  <string id="121454">Town Gate</string>
+  <string id="121455">Sign</string>
+  <string id="121456">Sign</string>
+  <string id="121458">School Gate</string>
+  <string id="121461" soundid="183719">Weapon Master Gujin.</string>
+  <string id="121464" soundid="185520">Look out!</string>
+  <string id="121471">Black Whirlwind</string>
+  <string id="121489" soundid="192487">[These meditation wheels are broken beyond your ability to fix them.]</string>
+  <string id="121490" soundid="192488">[After a moment of examining the gears, you are pretty sure you can make some repairs. There&apos;s a small risk, though, that you might damage the gearing system permanently.]</string>
+  <string id="121491" soundid="192489">[Success] [It&apos;s hard work, but you manage to find enough replacement parts to make one of the wheels spin freely.]</string>
+  <string id="121492" soundid="192490">[You can&apos;t see any easy way to make repairs without replacement parts. You might still succeed, but there&apos;s a good chance that you&apos;ll damage the gearing permanently.]</string>
+  <string id="121493" soundid="192491">[Failure] [You failed to make the repairs, and your efforts have further damaged several of the ancient gears.]</string>
+  <string id="121494" soundid="192492">[You&apos;re quite certain these wheels will never spin again.]</string>
+  <string id="121495">[Attempt the repairs.]</string>
+  <string id="121496">[Attempt the repairs.]</string>
+  <string id="121497" soundid="190724">Root Node for Zu&apos;s Making of Shots. Pick one!</string>
+  <string id="121498">GO!</string>
+  <string id="121502" soundid="192466"></string>
+  <string id="121503" soundid="192467"></string>
+  <string id="121504" soundid="192468"></string>
+  <string id="121505" soundid="192469"></string>
+  <string id="121506" soundid="192470"></string>
+  <string id="121507" soundid="192471"></string>
+  <string id="121508">The Perfected Warrior</string>
+  <string id="121509">Health +15
+Focus +15
+
+An ancient technique taught only to the finest champions in the Empire, the Perfected Warrior technique serves to focus an already razor-sharp mind and condition an already powerful body to the heights of perfection. Your undefeated rise to the rank of Imperial Champion proves that you deserve to be among the elite few who have ever learned this technique. </string>
+  <string id="121511" soundid="190738">I have a scroll for you that details a most ancient technique, once taught only to the Imperial Champion. Your perfect record in this place deserved a revival of tradition.</string>
+  <string id="121514">Bandits&apos; Loot</string>
+  <string id="121515">Bandits&apos; Loot</string>
+  <string id="121520">Hou</string>
+  <string id="121532">Temple Courtyard</string>
+  <string id="121533">The Temple of Dirge</string>
+  <string id="121534">The Great Portal</string>
+  <string id="121537">Decaying Bodies</string>
+  <string id="121538">Decaying Body</string>
+  <string id="121539">Chest</string>
+  <string id="121566">To Imperial City</string>
+  <string id="121567" soundid="189687">[These meditation wheels have seen better days. While the wheels themselves aren&apos;t damaged, it looks like there was a complicated system of gearing that connected them.]</string>
+  <string id="121601">The Great Portal</string>
+  <string id="121602">Down, peasant!</string>
+  <string id="121603">Do not resist me!</string>
+  <string id="121604">Guards! To me!</string>
+  <string id="121605">You can&apos;t escape!</string>
+  <string id="121606">This is your end!</string>
+  <string id="121612">My wounds... are healed!</string>
+  <string id="121613">My body... is failing!</string>
+  <string id="121614">Die, vermin!</string>
+  <string id="121616">Let&apos;s talk about something else.</string>
+  <string id="121642" soundid="183464"></string>
+  <string id="121643" soundid="183465">Master Li must sense that his death is coming. Make sure he suffers.</string>
+  <string id="121644" soundid="183466">Don&apos;t worry, love. You *will* win this day.</string>
+  <string id="121645" soundid="183467">Be strong, my spirit monk. You can do this, and we&apos;ll help you however we can.</string>
+  <string id="121646" soundid="183468">Don&apos;t worry. I&apos;ll be here with you, whatever happens.</string>
+  <string id="121647" soundid="183469">Let&apos;s finish this. Your master grow stronger by the minute.</string>
+  <string id="121650" soundid="183472">That should soften him up. I may not be able to fight him while I&apos;m wounded, but at least I did this. I&apos;ll go warn the rest.</string>
+  <string id="121653" soundid="183475">Some Assassins got past the bridge on flyers! You... change your skin, or whatever it is you do, and hold them off. I will go make sure the Black Whirlwind is awake.</string>
+  <string id="121654" soundid="183476">A new low for Hou, letting a little girl cover my retreat. Remember to come meet up at the temple after!</string>
+  <string id="121656" soundid="183478"></string>
+  <string id="121660">CloudThunder</string>
+  <string id="121661">ButterflySwords</string>
+  <string id="121662">CrescentBlades</string>
+  <string id="121663">CrimsonTears</string>
+  <string id="121664">DarkStar</string>
+  <string id="121665">DivineVoid</string>
+  <string id="121666">DoubleHammers</string>
+  <string id="121667">DoubleSabers</string>
+  <string id="121668">DragonSword</string>
+  <string id="121669">DragonEyes</string>
+  <string id="121670">DrunkenMaster</string>
+  <string id="121671">Flawless</string>
+  <string id="121672">HeavenlyWave</string>
+  <string id="121673">HeavensFlame</string>
+  <string id="121674">HiddenFist</string>
+  <string id="121675">IceShard</string>
+  <string id="121676">LeapingTiger</string>
+  <string id="121677">Lightning</string>
+  <string id="121678">BlackMantis</string>
+  <string id="121679">MonkeysPaw</string>
+  <string id="121680">Rings</string>
+  <string id="121681">Saber</string>
+  <string id="121682">ShiftingSand</string>
+  <string id="121683">ShiningDeath</string>
+  <string id="121684">ShootingStar</string>
+  <string id="121685">SunMoon</string>
+  <string id="121686">ThiefSouls</string>
+  <string id="121687">TiensJustice</string>
+  <string id="121688">Viper</string>
+  <string id="121689">WhiteDemon</string>
+  <string id="121690">Willow</string>
+  <string id="121691">ZaosWrath</string>
+  <string id="121692">DoubleAxes</string>
+  <string id="121693">DemonForm</string>
+  <string id="121694">IronPalm</string>
+  <string id="121695">LegendFist</string>
+  <string id="121696">Long Sword</string>
+  <string id="121697">ParalyzingPalm</string>
+  <string id="121698">StormDragon</string>
+  <string id="121699">StormSaber</string>
+  <string id="121700">ThousandCuts</string>
+  <string id="121701">SpiritThief</string>
+  <string id="121702">DireFlame</string>
+  <string id="121703">VengefulThorn</string>
+  <string id="121704">JadeImmortal</string>
+  <string id="121705">Quicksilver</string>
+  <string id="121706">FangVenom</string>
+  <string id="121707">DemonRain</string>
+  <string id="121708">EdgesDestiny</string>
+  <string id="121709">TiensJustice</string>
+  <string id="121710">SpiritThunder</string>
+  <string id="121711">Staff</string>
+  <string id="121712">Spear</string>
+  <string id="121713">SilverMoon</string>
+  <string id="121714">SevenThunders</string>
+  <string id="121715">Tempest</string>
+  <string id="121716">StoneImmortal</string>
+  <string id="121717">DoubleSwords</string>
+  <string id="121718">MonkStaff</string>
+  <string id="121719">HorseDemonForm</string>
+  <string id="121720">OgreForm</string>
+  <string id="121721">RedMinisterForm</string>
+  <string id="121722">GolemForm</string>
+  <string id="121723">ToadDemonForm</string>
+  <string id="121724">CreatureForm</string>
+  <string id="121725">SpiritForm</string>
+  <string id="121726">Mirabelle</string>
+  <string id="121727">Musket</string>
+  <string id="121728">Improvise1</string>
+  <string id="121729">Improvise2</string>
+  <string id="121730">Improvise3</string>
+  <string id="121731">LegendaryStrike</string>
+  <string id="121737">x</string>
+  <string id="121738">x</string>
+  <string id="121739">x</string>
+  <string id="121741">x</string>
+  <string id="121742">x</string>
+  <string id="121743">x</string>
+  <string id="121744">x</string>
+  <string id="121745">x</string>
+  <string id="121746">x</string>
+  <string id="121747">x</string>
+  <string id="121753">x</string>
+  <string id="121754">x</string>
+  <string id="121755">x</string>
+  <string id="121757">x</string>
+  <string id="121758">x</string>
+  <string id="121759">x</string>
+  <string id="121760">x</string>
+  <string id="121761">x</string>
+  <string id="121762">x</string>
+  <string id="121763">x</string>
+  <string id="121768">x</string>
+  <string id="121769">x</string>
+  <string id="121770">x</string>
+  <string id="121771">x</string>
+  <string id="121782" soundid="183631">Hmm, there you go again with your playful words. I never know when you&apos;re serious, or what my reaction should be.</string>
+  <string id="121783">You aren&apos;t completely unnoticed. You have *my* eye often enough.</string>
+  <string id="121785">I prefer it when you are smiling. Is there anything I can do?</string>
+  <string id="121790" soundid="183641">Typical!</string>
+  <string id="121791">Free target mode</string>
+  <string id="121792">Press the &lt;FreeTarget&gt; key to exit</string>
+  <string id="121839" soundid="183720">To the Town Square</string>
+  <string id="121840">This is easy.</string>
+  <string id="122093">Lion Statue</string>
+  <string id="122104">Secret Door</string>
+  <string id="122108">Master Li&apos;s Quarters</string>
+  <string id="122109">Altar</string>
+  <string id="122110">Door</string>
+  <string id="122111">School Gate</string>
+  <string id="122112">Tomb</string>
+  <string id="122114">Chest</string>
+  <string id="122115">School Gate</string>
+  <string id="122168">The End of the Beginning.</string>
+  <string id="122170">Thank you for playing the first half of Chapter One! We can&apos;t let you see any more without giving away critical story details, but you haven&apos;t seen the last of Master Li, Dawn Star, Gao the Lesser, or the mysterious Lotus Assassins. If you have any questions about story, gameplay, or the world of Jade Empire please ask!</string>
+  <string id="122171">Do you know of any other configurations?</string>
+  <string id="122174">You&apos;ll get what&apos;s coming...</string>
+  <string id="122175">Now you&apos;ll go!</string>
+  <string id="122176">In your place!</string>
+  <string id="122177">You aren&apos;t going anywhere!</string>
+  <string id="122178">Your pain is my gain.</string>
+  <string id="122184">Huh. I&apos;m better now.</string>
+  <string id="122199">You have died.</string>
+  <string id="122200">You have repelled the siege, and it is time to return to the palace and confront your former Master, Sun Li the Glorious Strategist. Address your followers and prepare them for this final confrontation.</string>
+  <string id="122201">A Master&apos;s Fate</string>
+  <string id="122203">Your followers have weathered the siege and await your word on what to do next.</string>
+  <string id="122206">Return to the Palace</string>
+  <string id="122207">Speak with Kang to leave for the palace.</string>
+  <string id="122208">You have repelled the siege, and it is time to return to the palace and confront your former Master, Sun Li the Glorious Strategist. He will be expecting your return. This confrontation is inevitable.</string>
+  <string id="122210">Find the Water Dragon&apos;s Body</string>
+  <string id="122211">Find the body of the Water Dragon inside the palace. The flow of power to Sun Li must be stopped.</string>
+  <string id="122212">You have returned to the palace at the heart of the Empire. To weaken Sun Li, you must find the corpse of the Water Dragon and stop the flow of power to your former Master. Only then can you defeat him.</string>
+  <string id="122214">Let the Water Dragon Rest</string>
+  <string id="122215">Destroy the machine that sustains the Water Dragon, and after Sun Li is defeated, her power will dissipate, and she will reform. The Jade Empire will be restored.</string>
+  <string id="122216">The Water Dragon is held between life and death, strung up like a grim trophy, a cruel mockery of her former glory. You must decide her fate before you can defeat Sun Li.</string>
+  <string id="122218">Poison the Water Dragon</string>
+  <string id="122219">Poison the body of the Water Dragon with the blood of your fellows, and after Sun Li is defeated, her power will remain for you to claim. You will forge a new Jade Empire.</string>
+  <string id="122220">The Water Dragon is held between life and death, strung up like a grim trophy, a cruel mockery of her former glory. You must decide her fate before you can defeat Sun Li.</string>
+  <string id="122222">Go to the Throne Room</string>
+  <string id="122223">Go to the throne room to face Sun Li.</string>
+  <string id="122224">The fate of the Water Dragon is decided. Now you must loosen Sun Li&apos;s grip on the power he has already claimed. He must answer for what he has done.</string>
+  <string id="122226">Defeat the Stone Constructs</string>
+  <string id="122227">Sun Li created demons from the very stone of the palace. Defeat them and confront your former Master!</string>
+  <string id="122230">Enemies Within</string>
+  <string id="122231">Purge Sun Li&apos;s influence from your mind.</string>
+  <string id="122232">Sun Li has used his stolen power to encase you and your followers in stone, but you are not helpless. Push him out of your mind to free yourself from his grip.</string>
+  <string id="122234">Master versus Student</string>
+  <string id="122235">Defeat Sun Li in personal combat! Match his power with your own!</string>
+  <string id="122236">Sun Li stands before you, your Master no longer. Show him you are more than a match for his carefully constructed lies.</string>
+  <string id="122238">That doesn&apos;t feel too good.</string>
+  <string id="122239">That&apos;ll shut you up!</string>
+  <string id="122240">That didn&apos;t work...</string>
+  <string id="122241">You&apos;re dead now!</string>
+  <string id="122242">You won&apos;t resist me for long!</string>
+  <string id="122243">Your chi is weak!</string>
+  <string id="122244">I will not be defeated!</string>
+  <string id="122245">The dance of battle...</string>
+  <string id="122246">My style is superior!</string>
+  <string id="122252">I&apos;m better...</string>
+  <string id="122253">You fight dirty!</string>
+  <string id="122254">Take that!</string>
+  <string id="122265">Play Crust</string>
+  <string id="122266">Give All Henchmen</string>
+  <string id="122267">Crust Down</string>
+  <string id="122268">Give All Gems</string>
+  <string id="122269">Crust Up</string>
+  <string id="122270">Give All Plot Items</string>
+  <string id="122271">Play VFX</string>
+  <string id="122272">VFX Down</string>
+  <string id="122273">VFX Up</string>
+  <string id="122307">Make Your Way into the Temple</string>
+  <string id="122308">Your victory has bought you a moment of time to look around the temple courtyard, if you wish. When the bun master&apos;s whining gets too shrill, you should make your way to the temple to make sure everything&apos;s fine.</string>
+  <string id="122309">Golems, assassins... whatever. If it&apos;s foolish enough to get close, you&apos;re foolish enough to kill it. The courtyard seems clear enough, but you never know what sort of delicious and intoxicating goodies might be stored around the place. They&apos;re monks after all....</string>
+  <string id="122311">002: DPL_Chest01</string>
+  <string id="122312">022: dpl_chair01</string>
+  <string id="122313">023: dpl_chair02</string>
+  <string id="122314">024: dpl_chair03</string>
+  <string id="122315">025: dpl_chair04</string>
+  <string id="122316">026: dpl_hamstand</string>
+  <string id="122317">027: dpl_table01</string>
+  <string id="122318">028: dpl_table02</string>
+  <string id="122319">029: dpl_table03</string>
+  <string id="122320">030: dpl_chair05</string>
+  <string id="122321">031: dpl_chair06</string>
+  <string id="122322">032: dpl_table04</string>
+  <string id="122323">033: dpl_table05</string>
+  <string id="122324">034: dpl_jar01</string>
+  <string id="122325">035: dpl_jar02</string>
+  <string id="122326">036: dpl_jar03</string>
+  <string id="122327">037: dpl_jar04</string>
+  <string id="122328">038: dpl_jar05</string>
+  <string id="122329">039: dpl_jar06</string>
+  <string id="122330">041: dpl_jar07</string>
+  <string id="122331">042: dpl_jar08</string>
+  <string id="122332">043: DPL_Phone01</string>
+  <string id="122333">044: DPL_Sign01</string>
+  <string id="122334">045: DPL_Sign02</string>
+  <string id="122335">046: DPL_Sign03</string>
+  <string id="122336">047: DPL_Vase01</string>
+  <string id="122337">048: DPL_Vase02</string>
+  <string id="122338">049: dpl_radiusfields</string>
+  <string id="122339">051: dpl_gclay_01</string>
+  <string id="122340">052: dpl_invisible</string>
+  <string id="122341">054: DPL_StFarewell</string>
+  <string id="122342">050: DPL_Dragonamulet</string>
+  <string id="122343">055: DPL_dice1up</string>
+  <string id="122344">056: DPL_dice2up</string>
+  <string id="122345">057: DPL_dice3up</string>
+  <string id="122346">058: DPL_dice4up</string>
+  <string id="122347">059: DPL_dice5up</string>
+  <string id="122348">060: DPL_dice6up</string>
+  <string id="122349">061: DPL_barrell01</string>
+  <string id="122350">062: DPL_barrell02</string>
+  <string id="122351">063: DPL_stand01</string>
+  <string id="122353">065: DPL_Invisibleuse</string>
+  <string id="122354">066: Dpl_Bells</string>
+  <string id="122355">067: DPL_Bonepile01</string>
+  <string id="122356">068: DPL_Bonsai01</string>
+  <string id="122357">069: DPL_Birdcage</string>
+  <string id="122358">070: DPL_Cabinet01</string>
+  <string id="122359">071: DPL_Campfire</string>
+  <string id="122360">072: DPL_Chairfallen</string>
+  <string id="122361">073: DPL_Chi_Fount</string>
+  <string id="122362">074: DPL_Fan</string>
+  <string id="122363">075: DPL_Fdummy01</string>
+  <string id="122364">076: DPL_Fdummy02</string>
+  <string id="122365">077: DPL_Fdummy03</string>
+  <string id="122366">078: DPL_Focus_Shrine</string>
+  <string id="122367">079: DPL_Gong</string>
+  <string id="122368">080: DPL_Grave01</string>
+  <string id="122369">081: DPL_Grave02</string>
+  <string id="122370">082: DPL_Incense01</string>
+  <string id="122371">083: DPL_Lantern01</string>
+  <string id="122372">084: DPL_Lantern02</string>
+  <string id="122373">085: DPL_MagicChest</string>
+  <string id="122374">086: </string>
+  <string id="122375">087: </string>
+  <string id="122376">088: </string>
+  <string id="122377">089: </string>
+  <string id="122378">090: </string>
+  <string id="122379">091: </string>
+  <string id="122380">092: </string>
+  <string id="122381">093: </string>
+  <string id="122382">094: </string>
+  <string id="122383">095: </string>
+  <string id="122384">096: </string>
+  <string id="122385">097: </string>
+  <string id="122386">098: </string>
+  <string id="122387">099: </string>
+  <string id="122388">100: </string>
+  <string id="122389">101: </string>
+  <string id="122390">102: </string>
+  <string id="122391">103: </string>
+  <string id="122498">Cheat Config Chest</string>
+  <string id="122502" soundid="188326"></string>
+  <string id="122503">Oh, good. I was worried something might turn out to be *simple* for once!</string>
+  <string id="122504">AN EMPEROR WHO BECAME A TYRANT</string>
+  <string id="122505">AN EXILE WHO LED A REVOLUTION</string>
+  <string id="122506">ON A QUEST FOR VENGEANCE</string>
+  <string id="122507">THE BATTLE FOR THE JADE EMPIRE</string>
+  <string id="122508">HAS JUST BEGUN</string>
+  <string id="122509">INTRODUCING AN ACTION ROLE-PLAYING GAME OF MYTHICAL PROPORTIONS</string>
+  <string id="122510">JADE EMPIRE</string>
+  <string id="122511">DEVELOPED BY BIOWARE CORP.</string>
+  <string id="122512">DEVELOPED BY BIOWARE CORP.</string>
+  <string id="122513">DEVELOPED BY BIOWARE CORP.</string>
+  <string id="122514">Disoriented</string>
+  <string id="122538" soundid="187081"></string>
+  <string id="122542">Waiting for your return from the Spirit Cave.</string>
+  <string id="122543" soundid="187086">Your course is set. The Inquisitor will be waiting at your camp. Appease him and you&apos;ll be on the road to appeasing me.</string>
+  <string id="122544">If an opponent is too difficult, you can change the combat difficulty at any time, even while fighting.</string>
+  <string id="122545">Support styles like Heavenly Wave do no damage, but can greatly reduce an opponent&apos;s effectiveness in combat.</string>
+  <string id="122546">Weapon styles have no effect on spirits. Switch to Martial styles to defeat them.</string>
+  <string id="122547">Hold the &lt;ChiHeal&gt; key to use Chi Heal and bring yourself and your follower back from the brink of death.</string>
+  <string id="122548">Shrine</string>
+  <string id="122556">Training Area</string>
+  <string id="122558">Master Radiant&apos;s Chambers</string>
+  <string id="122559">Garden</string>
+  <string id="122561">To City Core</string>
+  <string id="122564">Dining Hall</string>
+  <string id="122612">Master Smiling Hawk&apos;s Chambers</string>
+  <string id="122622">Master Smiling Hawk&apos;s Room</string>
+  <string id="122623">Door</string>
+  <string id="122624">Door</string>
+  <string id="122625">Door</string>
+  <string id="122626">Training Results</string>
+  <string id="122627">Hall</string>
+  <string id="122628">Gate</string>
+  <string id="122629">Master Radiant&apos;s Room</string>
+  <string id="122666">The Serpent&apos;s Quarters</string>
+  <string id="122667">Spirit Font</string>
+  <string id="122668">Focus Shrine</string>
+  <string id="122669">Spirit Font</string>
+  <string id="122670">Spirit Font</string>
+  <string id="122671">Focus Shrine</string>
+  <string id="122672">Spirit Font</string>
+  <string id="122673">Spirit Font</string>
+  <string id="122674">Focus Shrine</string>
+  <string id="122675">Spirit Font</string>
+  <string id="122676">Focus Shrine</string>
+  <string id="122680" soundid="187232"></string>
+  <string id="122681" soundid="187233"></string>
+  <string id="122682" soundid="187234"></string>
+  <string id="122686">Your hard drive does not have enough free space to save games. You need to free up more space to be able to save. Press OK to lose your progress and free more space or CANCEL to continue without saving.
+</string>
+  <string id="122687" soundid="187239"></string>
+  <string id="122688" soundid="187240"></string>
+  <string id="122691">Your hard drive does not have enough free space to save games. You need to free up more space to be able to save. Press OK to lose your progress and free more space or CANCEL to continue without saving.
+</string>
+  <string id="122696" soundid="198052"></string>
+  <string id="122699">Spirit Font</string>
+  <string id="122700">Focus Shrine</string>
+  <string id="122701">Spirit Font</string>
+  <string id="122703">Focus Shrine</string>
+  <string id="122704">I recovered the amulet piece from the Lotus Assassins.</string>
+  <string id="122705">It wasn&apos;t in the ruins. They took it to Gao&apos;s lair.</string>
+  <string id="122706">Sign</string>
+  <string id="122707">Sign</string>
+  <string id="122708">Sign</string>
+  <string id="122709">Sign</string>
+  <string id="122722">I&apos;m not here to pick a fight, Gao. Just drop it.</string>
+  <string id="122723">You didn&apos;t think someone who killed your master would fall for a simple ambush, did you?</string>
+  <string id="122728">Spirit Font</string>
+  <string id="122731">You ran out of focus</string>
+  <string id="122732">You ran out of chi.</string>
+  <string id="122733">Noncombatant</string>
+  <string id="122734" soundid="187302">Good. My father has much to answer for. I know he will explain everything. And if Death&apos;s Hand is there... I&apos;ll have some words for him, as well.</string>
+  <string id="122735" soundid="187303">Kang! Those flags that I gave you, the ones with the royal seals? Mount them on your pile of scrap and let&apos;s go! I don&apos;t want to waste any more time!</string>
+  <string id="122736" soundid="187304">Yes, ma&apos;am, no argument. Garish flags to stop the turrets. Just no yelling while we fly. The space is small and it echoes loudly.</string>
+  <string id="122737" soundid="187305"></string>
+  <string id="122738" soundid="187306">Er... yes, Princess. At your word.</string>
+  <string id="122739">Let&apos;s go to the palace now.</string>
+  <string id="122770">Inventory</string>
+  <string id="122771" soundid="187339">Here we go. This line has no VO.</string>
+  <string id="122772" soundid="187340">This is the Space Test VO.</string>
+  <string id="122773" soundid="187341">This is the &quot;sounds&quot; test VO</string>
+  <string id="122774" soundid="187342">This is the VO for the short and fast sounds.</string>
+  <string id="122775" soundid="187343">This is the VO for yodeling. Or yelling. Whatever floats your boat, captain.</string>
+  <string id="122776" soundid="187344">This is the chit chat VO. Note, Ben may not be the best conversationalist on the planet, but we forgive him because he&apos;s faking it.</string>
+  <string id="122777" soundid="187345">Okay!</string>
+  <string id="122778">Play me &quot;The Space Test&quot;</string>
+  <string id="122779">Play me the Phoneme test.</string>
+  <string id="122780">Play me that funky fresh short and fast sounds.</string>
+  <string id="122781">Yelling is where I NEED to be.</string>
+  <string id="122782">Here&apos;s some general chit chat coming down the pipe.</string>
+  <string id="122783">I&apos;m done.</string>
+  <string id="122784">Over a thousand years ago, Emperor Sagacious Tien united the lands that make up the Jade Empire.</string>
+  <string id="122785">Use Chi Strikes (press the &lt;ChiStrike&gt; key in combat) to add damage to your attacks.</string>
+  <string id="122786">Use Chi to heal yourself (&lt;ChiHeal&gt;), deal more damage (&lt;ChiStrike&gt;), and power magic and transformation styles.</string>
+  <string id="122787">Sometimes it is better not to pick up a power-up immediately. It may come in handy later in the battle.</string>
+  <string id="122788">When wounded and outnumbered in combat, an Area Attack (&lt;FastAttack&gt; + &lt;StrongAttack&gt;) can buy you enough time to use Chi Heal.</string>
+  <string id="122789">Demons are immune to Support styles such as Storm Dragon and Heavenly Wave.</string>
+  <string id="122790">Sometimes it is helpful to leap out of the heat of battle and regroup. Use evades (&lt;Block&gt; + &lt;Up&gt;, &lt;Left&gt;, &lt;Down&gt;, or &lt;Right&gt;) to find a better position in combat.</string>
+  <string id="122791">Use followers to supplement your preferred styles. A close quarters fighter can complement a character that uses magic at range.</string>
+  <string id="122792">A follower assigned to Support mode is ignored by enemies. You are enhanced by their meditations, but you must fight solo.</string>
+  <string id="122793">Use &lt;FightStyle1&gt;, &lt;FightStyle2&gt;, &lt;FightStyle3&gt;, or &lt;FightStyle4&gt; to quickly change styles. Press and hold &lt;FightStyle1&gt;, &lt;FightStyle2&gt;, &lt;FightStyle3&gt;, or &lt;FightStyle4&gt; to assign a style. The game will pause during selection, even in combat.</string>
+  <string id="122794">Weapon styles are powerful, but they drain your Focus and cannot damage spirits. Versatility is the key to victory.</string>
+  <string id="122795">Weapon styles like Fortune&apos;s Favorite or Golden Star are helpful when you&apos;re surrounded. </string>
+  <string id="122796">Use Support styles like Heavenly Wave to set your opponents up for devastating Martial-style attacks.</string>
+  <string id="122797">All spirits are immune to Support and Weapon styles, but vulnerable to Martial and Magic styles.</string>
+  <string id="122798">Harmonic combos are great for finishing off opponents. Read each Martial or Support style&apos;s description to learn its role in harmonic combos.</string>
+  <string id="122799">Blocking (&lt;Block&gt;) can save your life when fighting enemies who use projectile attacks.</string>
+  <string id="122800">Chi Heal (&lt;ChiHeal&gt;) can make all the difference in combat. Be sure to use it before it is too late.</string>
+  <string id="122801">Focus mode (&lt;Focus&gt;) is powerful but taxing. Use it sparingly to escape difficult situations.</string>
+  <string id="122802">Your magical weapons drain Focus (the yellow bar) as you use them. Be careful not to run out of Focus at critical moments.</string>
+  <string id="122803">Some enemies are immune to certain types of attacks, so vary your tactics in combat by switching styles.</string>
+  <string id="122804">Support styles do no damage, but they have significant effects that weaken opponents without consuming your Chi or Focus.</string>
+  <string id="122805">Raise or lower difficulty to fit the level of challenge you want. Press &lt;Menu&gt; and select Difficulty from the Options screen at any time.</string>
+  <string id="122806">Books and scrolls grant experience and valuable insight into the history of the Empire.</string>
+  <string id="122807">Techniques are training aids that permanently modify stats. Choose carefully; powerful increases may be balanced by penalties elsewhere.</string>
+  <string id="122808">The Way of the Closed Fist was originally put forth by a philosopher named Bladed Thesis, who felt that strength was the ultimate virtue. 
+</string>
+  <string id="122809">Pause the game (&lt;CombatPause&gt;) at any time to switch styles or plan your next move.</string>
+  <string id="122810">Refer to the Journal for a summary of your active quests, or to review what you have completed.</string>
+  <string id="122811">If an opponent is too challenging, adjust difficulty from the Options screen. This change may even be done during combat.</string>
+  <string id="122812">Followers in Support mode are ignored by enemies. Your abilities are enhanced but all opponents focus on you.</string>
+  <string id="122813">Meditating at Chi and Focus shrines before important battles can give you the edge you need.</string>
+  <string id="122814">Surplus essence gems can be sold to merchants for silver.</string>
+  <string id="122815">Equipping the right combination of gems can give you a significant boost in certain fights.</string>
+  <string id="122816">Violence isn&apos;t the only solution to a problem. Sometimes persuasion can get you out of a tough spot.</string>
+  <string id="122817">Explore to find gems to place into your Dragon Amulet. These gems will enhance your abilities.</string>
+  <string id="122818">Look for chests and other breakable objects that contain silver or gems. Be careful, some may be rigged with traps.</string>
+  <string id="122819">New friends and enemies can come from anywhere. Be mindful in your dealings with the people you meet.</string>
+  <string id="122820">Speak to the arena&apos;s fighters to find out more about them and the arena itself.</string>
+  <string id="122821">Some styles are difficult to grasp if you do not first understand the particular moral philosophies that make them work.</string>
+  <string id="122822">With the way to the underworld blocked, death is only the beginning.</string>
+  <string id="122823">Despite their differences, Dawn Star and Silk Fox can be quite powerful if they work together.</string>
+  <string id="122824">You are restored to life, but your task is not yet complete.</string>
+  <string id="122825">Each of your followers has a unique strength. You will need to rely on them to succeed.</string>
+  <string id="122826">Once again Dirge is the site of a major siege. This time, you and your followers are the targets.</string>
+  <string id="122827">Doubt can cripple even the most powerful warrior.</string>
+  <string id="122828">Your last visit to the palace was a violent one. This time your enemy is more powerful, but so are you.</string>
+  <string id="122829">The calm before the storm. With his army repelled, your former Master awaits you in his palace.</string>
+  <string id="122830">Your choices will dictate the fate of the Empire. Choose your actions wisely, and keep the consequences in mind.</string>
+  <string id="122831">All demons are immune to Support styles, and some are immune to Magic styles.</string>
+  <string id="122832">The Long Drought was a dark time in the Empire&apos;s history, but some whisper that darker times are yet ahead.</string>
+  <string id="122833">Phoenix Gate, the biggest city in the Prosperous East, is the center of trade in the Jade Empire.</string>
+  <string id="122834">The Wall once surrounded and protected a young Jade Empire. Now it stands as a testament to Imperial drive and ambition.</string>
+  <string id="122835">The Horselords of the Plain of Barren Hope threatened the Jade Empire&apos;s northern border until Zeng Sai, their greatest warlord, fell to the Imperial Army.</string>
+  <string id="122836">The Golden Delta is at once the source of the Empire&apos;s richest farmland and its poorest people.</string>
+  <string id="122837">The Outlanders of the Mysterious East wear suits of metal armor and speak in a strange, lilting language unknown in the Jade Empire.</string>
+  <string id="122838">The bloodlust of the mad Emperor Zian was so consuming that he sent the Imperial Army after his own subjects in an attempt to slake his murderous impulses.</string>
+  <string id="122839">The spiritual teachings of Lao Tsi serve as the basis from which much of Jade Empire society springs.</string>
+  <string id="122840">The Celestial Bureaucracy governs the heavens and assigns each spirit its station in creation.</string>
+  <string id="122841">Even the mightiest of spirits have strict roles to play. Those who act outside their station often become demons and torment mankind.</string>
+  <string id="122842">Women in the Jade Empire enjoy all of the rights of the Empire&apos;s men. Many of the Empire&apos;s finest warriors are women.</string>
+  <string id="122843">Elephant demons are viciously territorial guardians, but only for spirits or sorcerers strong enough to inspire loyalty.</string>
+  <string id="122844">Horse demons are sadistic creatures that call forth searing flames to torment their victims.</string>
+  <string id="122845">Emperor Sun Hai&apos;s withdrawal from the public eye leads some to wonder if he is truly still in control at all.</string>
+  <string id="122846">While most demons ignore their given station and enjoy tormenting mortals, some are truly honorable and want only the best for creation.</string>
+  <string id="122847">The night before a battle is always restless.</string>
+  <string id="122848">Theater in the Jade Empire is rare and entertaining, but only the most skillful of satirists can effect any real insightful message.</string>
+  <string id="122849">Magic in the Jade Empire is elemental or spiritual in nature. Anything else is usually considered superstition.</string>
+  <string id="122850">While some ogres may seem musclebound and stupid, most possess the skill to craft and use reasonably advanced arms and armor.</string>
+  <string id="122851">As hideous and dangerous as they are, ogres are not demons. They are natural creatures made warlike by their territorial nature.</string>
+  <string id="122852">The Jade Empire&apos;s use of an explosive substance called dragon powder makes opposing its military a deadly proposition.</string>
+  <string id="122853">The Jade Empire was formed when Sagacious Tien united many provinces under his rule, making for a land of diverse names, languages, and cultures.</string>
+  <string id="122854">The Lotus Assassins were once known as the Lotus Order, monks dedicated to the protection and spiritual development of the presiding emperor.</string>
+  <string id="122855">The Jade Empire prides itself on beauty. Ornate, flowing, and even revealing clothing is often a sign of personal confidence and importance.</string>
+  <string id="122856">For community forums and more information about Jade Empire, visit jade.bioware.com.</string>
+  <string id="122857">Master Li is not the first master of Two Rivers School.</string>
+  <string id="122858">Ghosts denied access to the underworld often go mad as they wander the earth.</string>
+  <string id="122859">The swamps surrounding Two Rivers are home to bandits and raiders who prey on unwary travelers.</string>
+  <string id="122860">Mechanical flyers are not uncommon in the Empire, but few people outside of the Imperial City will ever see one.</string>
+  <string id="122861">Ogres, driven out of the civilized world by people who fear their size and brutality, often take residence in moist caves and tunnels.</string>
+  <string id="122862">Toad demons don&apos;t get much respect from other demons, but their viciousness and strength place them among the deadliest creatures in the Empire.</string>
+  <string id="122863">Tho Fan, the Old Tongue, is spoken by a small percentage of the Empire&apos;s population, but almost everyone educated in the Jade Empire can understand it.</string>
+  <string id="122864">The sleepy town of Two Rivers has been your home, and its people your family, for twenty years.</string>
+  <string id="122865">Restless spirits still rule the deepest places in the ruins of the old Tien&apos;s Landing.</string>
+  <string id="122866">Gao the Greater has equipped his pirates with flyers and other strange devices. No one knows how they acquired these wonders.</string>
+  <string id="122867">Elephant demons are viciously territorial guardians, but only for spirits or sorcerers strong enough to inspire loyalty.</string>
+  <string id="122868">The best way to fight a nest of pirates is to make friends on the inside.</string>
+  <string id="122869">Tien&apos;s Landing is a small town, but it has its share of thieves, thugs, and criminals.</string>
+  <string id="122870">Wandering ghosts cannot be destroyed, but they can be dispersed. Denied access to the underworld, they will always return to earth in time.</string>
+  <string id="122871">Rat demons are the lowest caste of the demon hierarchy, but they can be deadly if cornered.</string>
+  <string id="122872">The Great Dam&apos;s opening revealed the ruins of the old Tien&apos;s Landing, flooded long ago by Imperial decree.</string>
+  <string id="122873">Not everyone escaped the flooding when the Great Dam was closed. The ruins contain many restless spirits.</string>
+  <string id="122874">There is nothing worse than a pack of drunken sailors marooned on land for an extended period of time.</string>
+  <string id="122875">Teahouses are often the social center of a small town, but they are quickly being replaced by taverns.</string>
+  <string id="122876">Not all &quot;promotions&quot; in the Empire&apos;s government are good things. Officials are often given posts far from the Imperial City to get them out of the way.</string>
+  <string id="122877">Local legend states that Tien&apos;s Landing is the birthplace of the Empire. It is not alone in claiming this origin.</string>
+  <string id="122878">Tien&apos;s Landing is plagued by problems that would cripple a larger city.</string>
+  <string id="122879">The pirates have some outstanding machinery, no doubt made possible by Gao the Greater&apos;s wealth.</string>
+  <string id="122880">The Lotus Assassins&apos; grip reaches even as far as Tien&apos;s Landing.</string>
+  <string id="122881">Some say that every natural place and object in the world has a spirit of its own. Indeed, many places have guardian spirits to watch over them.</string>
+  <string id="122882">Mad ghosts have lost touch with their humanity, their forms twisting to match the fractured state of their minds.</string>
+  <string id="122883">The Pilgrim&apos;s Path is famous as a place of meditation and reflection.</string>
+  <string id="122884">There are many heavens in the universe. Each spirit of high standing claims a heaven-realm of its own.</string>
+  <string id="122885">Fox spirits are charged with the task of using confounding tricks and riddles to teach and test humanity.</string>
+  <string id="122886">A spirit is most powerful within its own realm. To attack one in its home is folly at best.</string>
+  <string id="122887">Strange are the workings of the Celestial Bureaucracy. Exceptional mortals are sometimes granted godhood to preserve their genius forever.</string>
+  <string id="122888">A fantastic blend of magic and skill fuels the marvels of Lord Lao&apos;s Wondrous Furnace.</string>
+  <string id="122889">The cannibal creature known as the Mother is a primal demon of hunger that can twist men into degenerate beasts.</string>
+  <string id="122890">The Mother calls you to hunger... to feed....</string>
+  <string id="122891">The Pilgrim&apos;s Rest Inn is famous for offering a spot of hospitality in the middle of the Great Southern Forest.</string>
+  <string id="122892">While the Forest Shadow&apos;s attacks on people have become more frequent of late, she has never assaulted the Pilgrim&apos;s Rest directly.</string>
+  <string id="122893">Many say that Crimson Khana, the Bronze Division champion, has a chance to go all the way.</string>
+  <string id="122894">Filled with talented hopefuls, the Bronze Division is the first real division in the Imperial Arena.</string>
+  <string id="122895">The Gold Division features some of the toughest fights in all the Empire.</string>
+  <string id="122896">The notorious Ravager awaits you at the top of the Gold Division.</string>
+  <string id="122897">By even entering the Gold Division, you have set yourself apart as one of the finest fighters in the Empire.</string>
+  <string id="122898">Magical wards prevent lasting damage in the Imperial Arena.</string>
+  <string id="122899">Attacks powerful or insidious enough can break through the protective wards of the arena, but the chances of that are slim.</string>
+  <string id="122900">By participating in the Imperial Arena, you are inviting the eyes of the Empire to watch you fight.</string>
+  <string id="122901">The Imperial Arena goes through many creatures in its special events.</string>
+  <string id="122902">Ogres, cannibals, and even demons are not uncommon in arena combat.</string>
+  <string id="122903">Hapless Han, the unofficial &quot;champion&quot; of the qualifying division, is eager to learn from as many fighters as possible.</string>
+  <string id="122904">Because it is the finest arena in the land, the Imperial Arena requires all fighters to qualify before facing its toughest combatants.</string>
+  <string id="122905">Qui the Promoter sees great potential in you. Then again, he says that to just about everyone.</string>
+  <string id="122906">Iron Soldier&apos;s experience in the Imperial Army colors both his attitude and his fighting ability.</string>
+  <string id="122907">Having established yourself as a skilled combatant, you can expect powerful eyes to be upon you.</string>
+  <string id="122908">Many fighters never make it past the Silver Division. Iron Soldier makes sure of that.</string>
+  <string id="122909">The Heart of the Empire Tavern sees customers from all walks of life, from common drunks to Imperial judges.</string>
+  <string id="122917">Master Li</string>
+  <string id="122946" soundid="187529"></string>
+  <string id="122947" soundid="187530"></string>
+  <string id="122948" soundid="187531"></string>
+  <string id="122949" soundid="187532"></string>
+  <string id="122950" soundid="187533"></string>
+  <string id="122951" soundid="187534"></string>
+  <string id="122952" soundid="187535"></string>
+  <string id="122953" soundid="187536"></string>
+  <string id="122954" soundid="187537"></string>
+  <string id="122955" soundid="187538"></string>
+  <string id="122956" soundid="187539"></string>
+  <string id="122957" soundid="187540"></string>
+  <string id="122958" soundid="187541"></string>
+  <string id="122959" soundid="187542"></string>
+  <string id="122960" soundid="187543"></string>
+  <string id="122961" soundid="187544"></string>
+  <string id="122962" soundid="187545"></string>
+  <string id="123091">Close</string>
+  <string id="123113" soundid="185521">Watch yourself!</string>
+  <string id="123114" soundid="185522">Watch out!</string>
+  <string id="123115">You are skilled indeed.</string>
+  <string id="123116">This ends!</string>
+  <string id="123117">I enjoy your death!</string>
+  <string id="123118">You will fall!</string>
+  <string id="123119">Die, worm!</string>
+  <string id="123120">Death is your fate!</string>
+  <string id="123121">Your time has come!</string>
+  <string id="123127">I am healed!</string>
+  <string id="123128">Poison. An... admirable tactic.</string>
+  <string id="123129">This is your death!</string>
+  <string id="123163" soundid="185573">Quickly! Take the child and go!</string>
+  <string id="123164" soundid="185574">Come with me!</string>
+  <string id="123165" soundid="185575">No! This is *my* fight. *Go!*</string>
+  <string id="123166" soundid="185576">Shhhh.</string>
+  <string id="123167">Spirit Monk</string>
+  <string id="123172" soundid="186161"></string>
+  <string id="123191">Aspect of Rage</string>
+  <string id="123198">Aspect of Despair</string>
+  <string id="123217" soundid="196946">Something else? Or may I have your leave turn my attention back to the game at hand?</string>
+  <string id="123219" soundid="196947">You wish to understand my approach to the art of combat? Ask.</string>
+  <string id="123223" soundid="196948">Ah, yes. Harmonic combinations. Tricky things, but very powerful. They harness a resonance that can take place if you switch quickly between styles as you fight.</string>
+  <string id="123262" soundid="186283"></string>
+  <string id="123263" soundid="186284"></string>
+  <string id="123264" soundid="186285"></string>
+  <string id="123265" soundid="186286"></string>
+  <string id="123274" soundid="186295">NOT USED</string>
+  <string id="123278">Spear Catches Leaf</string>
+  <string id="123282" soundid="186309">It is said that the Water Dragon is the Shepherd of the Dead, and a symbol of life and restoration. Beyond that is philosophy, and not for a soldier to know.</string>
+  <string id="123283" soundid="186310">I don&apos;t know how the attack was made, or what blade could cut the heart from a god. But I do know that any man who would attempt such a plan is arrogant beyond imagining.</string>
+  <string id="123295">Standard Store</string>
+  <string id="123297">The Shadow in the Trees</string>
+  <string id="123298">
+Travelers in the Great Southern Forest often report strange sightings and bizarre phenomena. Aside from the hospitality of the Pilgrim&apos;s Rest Inn, the forest is nearly entirely wilderness, and the verdant canopy of the forest hides wonderful and fearsome creatures unlike any seen anywhere else in the Empire. 
+
+The strangest tales are those of a shadow among the trees that seems to follow visitors to the forest. Philosophers hoping to reflect in the peace of the forest often report feeling watched, and patrons of the Pilgrim&apos;s Rest Inn claim to have seen a strange silhouette darting among the trees. Despite the apparently otherworldly nature of this figure, those who witness it sense no aggression and attribute it to the mysteries of the forest.</string>
+  <string id="123300">The Physical Universe: A Rebuttal</string>
+  <string id="123301">
+The world that we live in is not as simplistic as Philosopher Jiang would suggest in his treatise on the physical universe. His hypotheses regarding divine regulation of weather and seasons, though interesting, is nothing more than children&apos;s tales made overly complicated. Recent research, led by Scholar Dongow, has proven that our seasons and weather are much more than the careless whims of distant celestial beings. Our universe is made up of very real, very tangible components that can be carefully quantified and qualified.</string>
+  <string id="123302">The Physical Universe: The Philosopher&apos;s Viewpoint</string>
+  <string id="123303">
+Though Scholar Shao Shiang has raised several interesting points in his rebuttal to my treatise on the physical world, his lack of respect for the divine is of greater concern than his lack of understanding of the physical world around him. I agree that there are many aspects to our world that cannot be explained by divine influence alone. We learn and continue to thrive at the mercy of the celestial beings. Without their guidance, and indeed, their blessing, we would quickly discover that research and understanding of our physical world alone are not nearly enough for us to survive.</string>
+  <string id="123304">The Physical Universe: The Scholar&apos;s Hypothesis</string>
+  <string id="123305">
+To suggest that I, of all people, do not understand the significance or the importance of the celestial beings is preposterous. I pay my tributes at the temple because I honor those who gave us our minds and our curiosity. Philosopher Jiang ignores the crux of the problem by hiding behind his arguments of divine belief. The scholars have made some recent discoveries, such as the way in which clouds are formed. But the philosophers, lead by Jiang, dismiss these theories without even hearing them out. How can we progress as a society if we refuse to accept new ideas and new concepts? The philosophers would have us cling to our traditions, even at the cost of our own prosperity.</string>
+  <string id="123307">The Physical Universe: A Final Word</string>
+  <string id="123308">
+Scholar Shao Shiang has once again missed the central point of the philosophers&apos; argument. We do not wish to stall development, nor do we seek to stop people from learning. Philosophers see the work of the divine in the physical world and oppose those who defy tradition only because they find those customs inconvenient or outdated. Learning and respect for the past need not be mutually exclusive; we seek only to learn in a way that does not dishonor the celestial beings that give us our very lives.</string>
+  <string id="123365">School Gate</string>
+  <string id="123420">Since I keep forgeting where I put everything the night before, I&apos;m writing this checklist to myself... to help get me through mornings.
+
+1. Do you have your axes? If not, you&apos;re probably dead.
+2. Do you have your clothes? Are you wearing them? If you don&apos;t see your clothes nearby, you&apos;ll probably never find them, so don&apos;t waste time looking. If you really need clothes for some reason, take what you need from the nearest dead bodies.
+3. Are you in a bed? Is there someone with you? I&apos;ve learned from past mistakes, waking up with someone usually turns out badly. Get your clothes and leave quietly.
+4. Is anyone still alive nearby? Don&apos;t be shocked. Sometimes I pass out before I start fighting. Since the people nearby probably won&apos;t be up for a fight for some time, it&apos;s best just to move on and find another place to stay for the day.</string>
+  <string id="123421">Daily Reminder</string>
+  <string id="123431">An Unlikely Ally</string>
+  <string id="123432">Lord Yun paid me well to keep an eye on this so called hunter, Spear Catches Leaf. The fighting here was the best I&apos;d seen in a while. It wouldn&apos;t have been so bad if there had been some wine in this damn forest. Anyway, I&apos;m no longer his man... now I&apos;m following this warrior who actually defeated me.</string>
+  <string id="123433">Protect Spear Catches Leaf</string>
+  <string id="123435">The Lotus Assassin Fortress</string>
+  <string id="123437">Dawn Star</string>
+  <string id="123438">It took some doing, but I was finally able to subdue every country south of the Jade Empire. That&apos;s the last time anybody from there will steal my wine!</string>
+  <string id="123439">Conquer the Southern Continent</string>
+  <string id="123441">Flight to Dirge</string>
+  <string id="123442">Defend the Bridge</string>
+  <string id="123443">Defend the bridge until Kang the Mad can destroy it.</string>
+  <string id="123444">The warrior whom your uncle had slain has returned to life! Maybe times are not as dire as you had believed. Defend the entrance to Dirge from your uncle&apos;s army until the bridge can be destroyed, sealing them out.</string>
+  <string id="123446">Keep the Farm Girl Safe</string>
+  <string id="123447">While she has been through a lot, you&apos;re certain Dawn Star still can&apos;t take care of herself. If we have time, you should talk to her after the fight.</string>
+  <string id="123448">You&apos;ve lead Dawn Star down to aid Kang at the bridge, and while she&apos;s certainly competent, you&apos;d feel bad letting one of the peasants die on your watch.</string>
+  <string id="123449">After a brief talk with Dawn Star, you&apos;ve come to the conclusion that she&apos;s made of sterner stuff than you&apos;d expected. Surprisingly, after fighting at your side she seemed less defensive than usual. Perhaps you&apos;ve been a bit hard on her, after all.</string>
+  <string id="123450">The Lotus Assassin Fortress</string>
+  <string id="123451">Find proof of Death&apos;s Hand&apos;s treachery.</string>
+  <string id="123453">Death&apos;s Hand was not the manipulator you had thought. Your father has been behind everything all along. He seeks to rise above his lofty station, and you know the heavens will not be kind to such an affront. Seek him out and speak with him to change him from this ruinous course.</string>
+  <string id="123454">An Unlikely Ally</string>
+  <string id="123455">An unlikely ally has appeared.</string>
+  <string id="123457">The warrior I met in Tien&apos;s Landing has appeared within the Imperial City. It seems my interest was not misplaced. I must find proof of Death&apos;s Hand&apos;s influence over my father, and I believe this warrior can help, so we will join forces for a time.</string>
+  <string id="123548">You met the mysterious woman known as Silk Fox in the ruins outside Tien&apos;s Landing. She did not join you on your journey, but if you reach the Imperial City, she may assist you in finding Master Li. It seems clear that Silk Fox enjoys manipulating those around her.</string>
+  <string id="123549">Silk Fox</string>
+  <string id="123550">A Woman in Black</string>
+  <string id="123557" soundid="185972">You and your followers are playthings. The rest are held just as you are. You are each too weak to match my power.</string>
+  <string id="123560" soundid="185977"></string>
+  <string id="123563" soundid="196949">They always begin with either a magical or support style. That&apos;s the key.</string>
+  <string id="123564">Sign</string>
+  <string id="123565">Birdcage</string>
+  <string id="123568" soundid="185986">I believed the words of my brother, thinking him wise beyond my understanding. Had I known what would happen, I would have fought to stop them both.</string>
+  <string id="123569" soundid="185987">I do not claim redemption, but the suffering I have endured must be enough to pay that debt! It must!</string>
+  <string id="123570">Do you deserve peace? Despite your later slavery, you helped attack Dirge.</string>
+  <string id="123571">Bah! You say that because of your fate, not because of guilt.</string>
+  <string id="123572">No, you will serve my cause until I decide that penance has been done!</string>
+  <string id="123573">And now you are too useful a tool to give up.</string>
+  <string id="123577">Defend Dirge from Sun Li&apos;s Troops</string>
+  <string id="123579">Capital Aspirations</string>
+  <string id="123581">Silk Fox</string>
+  <string id="123583">Protect Kang</string>
+  <string id="123585" soundid="186003">Please let us be done. No, he says... to the throne room. That is where we must fight next.</string>
+  <string id="123586">Jade Empire Bestiary: Vol. 3</string>
+  <string id="123587">
+To Kill a Spirit
+
+A wise monk once asked, &quot;How can you kill a thing that is already dead?&quot; The answer is simple: You cannot. You can, however, disperse a spirit. This is not the same as killing, but it has a similar effect. It is important to remember that spirits are virtually immune to man-made weapons. You must confront spirits with martial, magic, or transformation styles. Never underestimate the strength of spirits. They may appear insubstantial, but they can still be deadly to the living.</string>
+  <string id="123588">The Airing of Grievances</string>
+  <string id="123589">
+Being a collection of the indignities suffered by Minister Sheng at the hands of the backward shanty town of Tien&apos;s Landing: 
+
+His hat has been soiled.
+A parchment was stolen from him before a speech at a community gathering.
+His cat was viciously threatened.
+A chair at his table was placed backward.
+His finger was slammed in a door not once, but thrice.
+An egg was thrown at him by an unknown assailant.
+His cart was stolen, filled with soiled garments, and then returned.
+His face was ridiculed by young children.
+His prized tonberry was squashed.
+It was suggested that he perform acts of deliberate indecency upon himself.
+He was forced to suffer the interminable and petty gripes of the people.
+His hair was accused of being impermanent and false.
+The honor of his family was impugned.
+He suffered a disabling attack by a pack of bees. 
+His reputation was maligned by brigands. Brigands!
+A local dog evacuated in the Minister&apos;s shoe. 
+He was given a gift of turtle eggs by a visiting merchant.
+It was suggested that he would be able to trace his lineage to a simple courtesan.
+He was referred to as &quot;smelly.&quot;
+He slipped in mud, no doubt placed in his path by jealous townsfolk.
+Sailors burned down his office.</string>
+</tlk>

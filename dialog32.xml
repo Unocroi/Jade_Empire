@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tlk language="0">
+  <string id="116034" soundid="176015">Yes, do that.</string>
+  <string id="116035" soundid="176016">You fight well for a young man. You strike with strength, but also with purpose. You will go far in this world, and possibly....</string>
+  <string id="116036" soundid="176017">Careful.</string>
+  <string id="116037" soundid="176018">Well... that is something you will determine for yourself, isn&apos;t it?</string>
+  <string id="116038" soundid="176019">Nothing of import. Just an old man&apos;s mutterings. Don&apos;t worry yourself about them.</string>
+  <string id="116039" soundid="176020">I would say that you have. In my youth, you would not have had such an easy time of it, you understand!</string>
+  <string id="116040" soundid="176021">Indeed I did.</string>
+  <string id="116041" soundid="176022">Well? Hurry up and train the girl, Jian. She&apos;s clearly not the type who likes to be kept waiting. You wouldn&apos;t teach her if she were.</string>
+  <string id="116042" soundid="176023">Would you quit prattling and train the lad, Jian? Your best students tend to be quick to anger and unforgiving of old goats.</string>
+  <string id="116043" soundid="176024">How little you know my way, Vo. This one&apos;s too smart to kill me *before* learning my style.</string>
+  <string id="116044" soundid="176025">Here. I will teach you how to demand the obedience of the winds and the storms. The secrets of Tempest will be yours!</string>
+  <string id="116045" soundid="176026">There. You have it now.</string>
+  <string id="116046" soundid="176027">No one should call me Master. I am just Jian the Iron Fist. I stopped being a master when my best student decided my teachings were flawed.</string>
+  <string id="116047" soundid="176028">Not flawed, Jian, just misguided. You shouldn&apos;t take it so personally.</string>
+  <string id="116048" soundid="176029">No, there is still more to learn, but you can only learn it yourself.</string>
+  <string id="116049" soundid="176030">Remember to remain true to the discord in your heart. Only then will the storms serve you as you wish.</string>
+  <string id="116050" soundid="176031">I think it&apos;s time we were leaving, don&apos;t you, Jian?</string>
+  <string id="116051" soundid="176032">Indeed. Enough games for now. I will see you again next year, Vo?</string>
+  <string id="116052" soundid="176033">You think you&apos;ll live until next year, Jian? You know our paths will cross on the field of battle sooner than that.</string>
+  <string id="116053" soundid="176034">Ha! You&apos;ve said that for twenty years. Time will win a victory you cannot.</string>
+  <string id="116054" soundid="176035">Just when I was about to crush Mistress Vo&apos;s position. Ah well, Yi is a patient game. What do you want of me?</string>
+  <string id="116055" soundid="176036">Is that so? Let me see.</string>
+  <string id="116056" soundid="176037">Hmph. You think you understand the Way of the Closed Fist do you? We shall see.</string>
+  <string id="116057" soundid="176038">Face me. Show me your strength. Show me that you are a better student than Vo ever was.</string>
+  <string id="116058" soundid="176039">Be wary. This old tiger has sharp fangs and long claws. He can teach you a style rarely used in the Jade Empire, but you will have to beat it out of him.</string>
+  <string id="116063">What were you about to say there?</string>
+  <string id="116065">Have I proven myself sufficiently to you?</string>
+  <string id="116067">Enough talking. You promised to teach me if I could beat you.</string>
+  <string id="116073">An honor to learn from you, Master.</string>
+  <string id="116076">You have taught me everything?</string>
+  <string id="116082">I seek your training, Master Jian.</string>
+  <string id="116086">Do we truly need to fight? Couldn&apos;t you just train me?</string>
+  <string id="116088">I&apos;ll happily face you right now.</string>
+  <string id="116089">If you&apos;re lucky, I won&apos;t kill you.</string>
+  <string id="116090">I don&apos;t want to fight you right now.</string>
+  <string id="116097">Tell me about yourself.</string>
+  <string id="116098">What&apos;s your history with Mistress Vo?</string>
+  <string id="116103">How can you fight at your age?</string>
+  <string id="116105">That&apos;s all I wished to know about you.</string>
+  <string id="116106">Explain to me the principles of the Tempest style.</string>
+  <string id="116109">Remind me why you two are here again?</string>
+  <string id="116111">Tell me about Yi. How is it played?</string>
+  <string id="116114">How can you play a game with no pieces or board?</string>
+  <string id="116116">How long have you two been playing?</string>
+  <string id="116119">I&apos;ll leave you to your game.</string>
+  <string id="116120" soundid="176101">Well done. Very few can withstand Stone Immortal; only those who understand the world around them, in fact.</string>
+  <string id="116121" soundid="176102">You understand your place, and yet you are not afraid to use your strength when it is required. That will serve you well in this lifetime, and....</string>
+  <string id="116122" soundid="176103">Good. This will not be an easy test, but I suspect you are ready for it.</string>
+  <string id="116123" soundid="176104">You need to be ready. Find peace, and then return to me.</string>
+  <string id="116124" soundid="176105">There&apos;s no spine in children born in these wet times, Vo, none at all. You had the gumption to test yourself against me without hesitation</string>
+  <string id="116125" soundid="176106">You know as well as I that this one was born before the drought was ended, Jian.</string>
+  <string id="116126" soundid="176107">Let her be, this matter is between us, not you. Now, it is your move, I believe.</string>
+  <string id="116127" soundid="176108">Let him be, this matter does not concern you, except that it is now your move.</string>
+  <string id="116128" soundid="176109">You have some understanding of the Way of the Open Palm, but Stone Immortal is not easily taught.</string>
+  <string id="116129" soundid="176110">Return to me when you feel you understand the Way of the Open Palm. Then you will be ready.</string>
+  <string id="116130" soundid="176111">Are you so certain? If you are, then you must strive to understand the Way of the Open Palm.</string>
+  <string id="116131" soundid="176112">Perhaps you should talk to Master Jian. He reserves his respect for those who follow his philosophy.</string>
+  <string id="116132" soundid="176113">I respect your philosophy, Vo. The Way of the Open Palm encourages weakness, and weak people are easily cowed by the rest of us.</string>
+  <string id="116133" soundid="176114">You have not found me so weak, Jian. Not at all.</string>
+  <string id="116134" soundid="176115">You know my name, that&apos;s really all that&apos;s important, isn&apos;t it? Not many know of my exploits outside of the Prosperous East.</string>
+  <string id="116135" soundid="176116">I was once his student, until I decided I couldn&apos;t agree with all of his teachings. He was an excellent master, but I couldn&apos;t follow his philosophies.</string>
+  <string id="116136" soundid="176117">Twenty years have passed since we parted ways, and while we disagree on principle, I can&apos;t help but feel some affection for the old man.</string>
+  <string id="116137" soundid="176118">Old! Ha, there&apos;s more life still left in these old bones than you&apos;ve ever had.</string>
+  <string id="116138" soundid="176119">This is why we only meet once a year to play Yi. Jian the Iron Fist is best taken in... small doses.</string>
+  <string id="116139" soundid="176120">A wonderful province, and yes, one that I call home. You should visit sometime and see the wonders of Phoenix Gate.</string>
+  <string id="116140" soundid="176121">Of course, the Imperial City still stands as the greatest city, but Phoenix Gate has its own charms. Standing on the sea of glass, it is a hub of trade.</string>
+  <string id="116141" soundid="176122">Each year, Jian and I make our way here to the Seat of Heaven province to meet for a few days of Yi. It&apos;s something of a ritual.</string>
+  <string id="116142" soundid="176123">It was nice to talk for a while.</string>
+  <string id="116143" soundid="176124">Stone Immortal allows you to control the earth itself. It is not easy to master.</string>
+  <string id="116144" soundid="176125">To understand the earth, you must be aware of all things around you, and understand that they are all connected in one way or another.</string>
+  <string id="116145" soundid="176126">That is why Stone Immortal is only taught to those who follow the Way of the Open Palm. Our sense of harmony aids us in persuading the earth to serve as our ally.</string>
+  <string id="116146" soundid="176127">We come here each year to play Yi. Its mysteries are subtle, but the play of white on black, the struggle for territory, and the delicate strategy provide endless entertainment.</string>
+  <string id="116147" soundid="176128">To be fair, I&apos;m not sure if we enjoy the game or bickering more.</string>
+  <string id="116148" soundid="176129">You should ask Jian. He is the expert on this ancient game. Or so he likes to believe.</string>
+  <string id="116149" soundid="176130">When you feel that you sufficiently understand the Way of the Open Palm, return to me.</string>
+  <string id="116150" soundid="176131">I wish you well.</string>
+  <string id="116151" soundid="176132">Careful.</string>
+  <string id="116152" soundid="176133">As I said. That will serve you well.</string>
+  <string id="116153" soundid="176134">Don&apos;t mind me. I was just thinking out loud. Students of your caliber are rare.</string>
+  <string id="116154" soundid="176135">None. You walk the high path, and you are a skilled warrior. That is enough for me.</string>
+  <string id="116155" soundid="176136">If you&apos;re finished with this little charade of a test, could you please train the girl, Vo? Further coddling will only weaken her.</string>
+  <string id="116156" soundid="176137">If you two are finished praising each other&apos;s relative harmonies, would you please train the lad, Vo? My stomach won&apos;t handle more sugar.</string>
+  <string id="116157" soundid="176138">Don&apos;t mind him. Men become temperamental at his age, </string>
+  <string id="116158" soundid="176139">Here, let me teach you to coax the earth to do your bidding. Only your connection to the world and your understanding of your place will convince them.</string>
+  <string id="116159" soundid="176140">There, you have it.</string>
+  <string id="116160" soundid="176141">It was an honor to teach what I could. I am not the instructor Master Jian was, but his lessons would not have suited your temperament.</string>
+  <string id="116161" soundid="176142">I am just Jian the Iron Fist. My best pupil turned away from my instructions, after all.</string>
+  <string id="116162" soundid="176143">No, there is still more to learn, but you can only learn it yourself.</string>
+  <string id="116163" soundid="176144">Remember to remain true to the high path. The earth only serves those who know their place among all things.</string>
+  <string id="116164" soundid="176145">Enough of this. I would say our game is concluded, Vo. It is time we parted ways.</string>
+  <string id="116165" soundid="176146">Indeed. Shall we meet again next year, Jian?</string>
+  <string id="116166" soundid="176147">You won&apos;t last that long. Our paths will cross, and you&apos;ll learn that this old tiger still has all his teeth.</string>
+  <string id="116167" soundid="176148">You have made that proclamation every year for two decades. Those teeth must be frightfully long by now. How ever do you open your mouth anymore?</string>
+  <string id="116168" soundid="176149">Until next year, you old goat.</string>
+  <string id="116169" soundid="176150">Always a pleasure to talk to another warrior. My game of Yi with Jian can wait a moment. What can I do for you?</string>
+  <string id="116170" soundid="176151">Yes, I know. It is good that you have come to me. You deserve to learn to control the earth, but you must also learn that the stone can never truly be controlled.</string>
+  <string id="116171" soundid="176152">What she means to say is that if you cannot defeat her Stone Immortal style, the earth will tear you apart, or swallow you whole.</string>
+  <string id="116172" soundid="176153">It is the only way you will learn the true secrets of Stone Immortal. I will not force you into this decision.</string>
+  <string id="116173" soundid="176154">There is no need to fight at all, but if you wish to learn and to grow, you must be prepared to make sacrifices and take risks.</string>
+  <string id="116174" soundid="176155">The key is to ensure that those risks are worthwhile for all involved. I&apos;m sure you know what you must do in this case.</string>
+  <string id="116178">What were you about to say there?</string>
+  <string id="116180">Are there other tasks I must complete before you train me?</string>
+  <string id="116186">An honor to learn from you, Mistress Vo.</string>
+  <string id="116189">You have taught me everything?</string>
+  <string id="116196">I seek your training, Mistress Vo.</string>
+  <string id="116199">Do we truly need to fight? Couldn&apos;t you just train me?</string>
+  <string id="116201">I will face Stone Immortal with no fear in my heart.</string>
+  <string id="116202">I don&apos;t want to fight you right now.</string>
+  <string id="116210">Tell me about yourself.</string>
+  <string id="116211">What&apos;s the story between you and Jian?</string>
+  <string id="116215">You spend most of your time in the Prosperous East?</string>
+  <string id="116218">That&apos;s all I wished to know about you.</string>
+  <string id="116219">Explain to me the principles of the Stone Immortal style.</string>
+  <string id="116222">Remind me why you two are here again?</string>
+  <string id="116225">I&apos;ll leave you to your game.</string>
+  <string id="116226" soundid="176207">You play too conservatively, Vo. You must be bold when playing a game of Yi. Did I teach you nothing?</string>
+  <string id="116227" soundid="176208">You taught me much, Jian, but the most valuable lessons were learning where you were wrong. Seventeenth square of the lion, if you please.</string>
+  <string id="116228" soundid="176209">Hrmpf. A wise move, but you know you cannot win. You stall this game the way you hestitated to learn of harmonic combinations. You must be bold, Vo.</string>
+  <string id="116229" soundid="176210">You are being rude, Jian. We have a guest. Let us place the game on hold a moment.</string>
+  <string id="116230" soundid="176211">I was doing my best to ignore you, too. Very well, what do you want from Jian the Iron Fist or Mistress Vo? If you are here for training, I refuse!</string>
+  <string id="116231" soundid="176212">We are having our game of Yi interrupted. Playing without the board or pieces is hard enough without some stranger interrupting.</string>
+  <string id="116232" soundid="176213">Surely you know of Yi, &quot;the capturing game?&quot; Played on a board of nineteen rows and columns, the black and white pieces capture territory for their player.</string>
+  <string id="116233" soundid="176214">We have simply decided to do away with the board. If one is properly focused, it is not so hard to keep the game in one&apos;s mind.</string>
+  <string id="116234" soundid="176215">None. Too many people seek our guidance.</string>
+  <string id="116235" soundid="176216">Do not be so hasty, Jian. You did not turn me aside all those years ago.</string>
+  <string id="116236" soundid="176217">And look where that got us! Your foolish devotion to the Way of the Open Palm drove you from my tutelage and made you weak. No more! End of subject.</string>
+  <string id="116237" soundid="176218">Then you should ask them of someone who cares!</string>
+  <string id="116238" soundid="176219">Forgive him. Had my former master bothered to remember his manners, he might have told you that we are not from Tien&apos;s Landing. We know little of the events here.</string>
+  <string id="116239" soundid="176220">The Empire posts a minister to look after this place. Sheng is his name, I think. Pester him if you must know about this place.</string>
+  <string id="116240" soundid="176221">Jian the Iron Fist isn&apos;t honestly going to let *this* one walk away, is he? If you don&apos;t say anything, then I will, you old goat.</string>
+  <string id="116241" soundid="176222">As much as it pains me, Vo is right. I see potential in you, greater strength than the dozens of worms who compete for my favor.</string>
+  <string id="116242" soundid="176223">I, too, see strength, but also the capacity for understanding the world and your place in it. You could prove an interesting pupil.</string>
+  <string id="116243" soundid="176224">Ha! Well said. You&apos;re wrong, of course, but that&apos;s the right spirit!</string>
+  <string id="116244" soundid="176225">I will make you an offer. Show me that you understand every nuance of the Way of the Closed Fist, and I will teach you how to bend the storms to your will through Tempest.</string>
+  <string id="116245" soundid="176226">He would like nothing more than to have you as a student, but show me that you walk the Way of the Open Palm, and I will teach you the mysteries of Stone Immortal.</string>
+  <string id="116246" soundid="176227">I have heard of Tempest. You can control the very air using that style, but that only those who walk the Way of the Open Palm have ever mastered it.</string>
+  <string id="116247" soundid="176228">That is a difficult choice. Both styles are said to be powerful, but only in the right hands.</string>
+  <string id="116248" soundid="176229">Who needs magic? A pair of trusty axes at your side can do wonders controlling the earth and air never could. </string>
+  <string id="116249" soundid="176230">Both Tempest and Stone Immortal are very sensitive to your... temperament. Harmony or discord can affect your ability to control air and earth respectively.</string>
+  <string id="116250" soundid="176231">We will be here for some time, if you wish either of our tutelage, but do not ask us to guide you on your path. Learning the Ways on your own is the most important lesson.</string>
+  <string id="116255">What exactly are you doing?</string>
+  <string id="116258">What kind of training can you two offer?</string>
+  <string id="116261">I have some questions about Tien&apos;s Landing.</string>
+  <string id="116264">I&apos;ll leave you two to your game.</string>
+  <string id="116265">Maybe I should just leave you alone.</string>
+  <string id="116268">Does this mean you will train me?</string>
+  <string id="116269">What are you getting at?</string>
+  <string id="116270">I don&apos;t need your approval. There is no need to weigh my merits.</string>
+  <string id="116278">name boy</string>
+  <string id="116282">boy uncle</string>
+  <string id="116286">name boy uncle</string>
+  <string id="116290">freed shen alive</string>
+  <string id="116294">killed shen alive</string>
+  <string id="116298">freed shen dead</string>
+  <string id="116302">killed shen dead</string>
+  <string id="116306">learned</string>
+  <string id="116310">proof</string>
+  <string id="116314">boy - default</string>
+  <string id="116318">learned</string>
+  <string id="116322">defeated</string>
+  <string id="116326">peace shen alive</string>
+  <string id="116330">killed shen alive</string>
+  <string id="116334">peace shen dead</string>
+  <string id="116338">killed shen dead</string>
+  <string id="116342">I... I can&apos;t hurt you?</string>
+  <string id="116343">I&apos;ll kill you if I can!</string>
+  <string id="116344">I won&apos;t die here!</string>
+  <string id="116345">Don&apos;t make me!</string>
+  <string id="116346">I&apos;ll fight!</string>
+  <string id="116347">I won&apos;t end this way!</string>
+  <string id="116348">I&apos;ll stop you!</string>
+  <string id="116353">I&apos;m better now?</string>
+  <string id="116354">I&apos;m... I&apos;m dying!</string>
+  <string id="116355">Ha!</string>
+  <string id="116356">I... I can&apos;t hurt you?</string>
+  <string id="116357">I&apos;ll kill you if I can!</string>
+  <string id="116358">I won&apos;t die here!</string>
+  <string id="116359">Don&apos;t make me!</string>
+  <string id="116360">I&apos;ll fight!</string>
+  <string id="116361">I won&apos;t end this way!</string>
+  <string id="116362">I&apos;ll stop you!</string>
+  <string id="116367">I&apos;m better now?</string>
+  <string id="116368">I&apos;m... I&apos;m dying!</string>
+  <string id="116369">Ha!</string>
+  <string id="116370">Damn it all!</string>
+  <string id="116371">Time to pay!</string>
+  <string id="116372">Suffer!</string>
+  <string id="116373">Your life ends here!</string>
+  <string id="116374">Taste death!</string>
+  <string id="116375">You won&apos;t walk away!</string>
+  <string id="116376">Death&apos;s too good for you.</string>
+  <string id="116381">That&apos;s better.</string>
+  <string id="116382">Cursed poisoner!</string>
+  <string id="116383">Hurts, doesn&apos;t it?</string>
+  <string id="116384">I... I can&apos;t hurt you?</string>
+  <string id="116385">I&apos;ll kill you if I can!</string>
+  <string id="116386">I won&apos;t die here!</string>
+  <string id="116387">Don&apos;t make me!</string>
+  <string id="116388">I&apos;ll fight!</string>
+  <string id="116389">I won&apos;t end this way!</string>
+  <string id="116390">I&apos;ll stop you!</string>
+  <string id="116395">I&apos;m better now?</string>
+  <string id="116396">I&apos;m... I&apos;m dying!</string>
+  <string id="116397">Ha!</string>
+  <string id="116398">It didn&apos;t hurt??</string>
+  <string id="116399">Enough of you!</string>
+  <string id="116400">Your last mistake!</string>
+  <string id="116401">I&apos;m gonna crush you!</string>
+  <string id="116402">I&apos;m gonna enjoy this!</string>
+  <string id="116403">You&apos;re going down!</string>
+  <string id="116404">You&apos;re meat!</string>
+  <string id="116409">I&apos;m better now!</string>
+  <string id="116410">This... is bad.</string>
+  <string id="116411">See what you get?!</string>
+  <string id="116412">It didn&apos;t hurt??</string>
+  <string id="116413">Enough of you!</string>
+  <string id="116414">Your last mistake!</string>
+  <string id="116415">I&apos;m gonna crush you!</string>
+  <string id="116416">I&apos;m gonna enjoy this!</string>
+  <string id="116417">You&apos;re going down!</string>
+  <string id="116418">You&apos;re meat!</string>
+  <string id="116423">I&apos;m better now!</string>
+  <string id="116424">This... is bad.</string>
+  <string id="116425">See what you get?!</string>
+  <string id="116426">You feel no pain?</string>
+  <string id="116427">You&apos;ll feel my pain!</string>
+  <string id="116428">All die!</string>
+  <string id="116429">Your death is mine!</string>
+  <string id="116430">This is your end!</string>
+  <string id="116431">I cannot be beaten!</string>
+  <string id="116432">Down you go!</string>
+  <string id="116437">I am better!</string>
+  <string id="116438">A little poison won&apos;t stop me!</string>
+  <string id="116439">Pain! Death!</string>
+  <string id="116440">You feel no pain?</string>
+  <string id="116441">You&apos;ll feel my pain!</string>
+  <string id="116442">All die!</string>
+  <string id="116443">Your death is mine!</string>
+  <string id="116444">This is your end!</string>
+  <string id="116445">I cannot be beaten!</string>
+  <string id="116446">Down you go!</string>
+  <string id="116451">I am better!</string>
+  <string id="116452">A little poison won&apos;t stop me!</string>
+  <string id="116453">Pain! Death!</string>
+  <string id="116454">How do you resist me?</string>
+  <string id="116455">Like leaves, you fall!</string>
+  <string id="116456">Your power is mine!</string>
+  <string id="116457">I am eternal!</string>
+  <string id="116458">None shall pass!</string>
+  <string id="116459">Your doom approaches!</string>
+  <string id="116460">You are mine!</string>
+  <string id="116465">My spirit, restored.</string>
+  <string id="116466">Poison is... ineffective.</string>
+  <string id="116467">I&apos;ll swallow your soul!</string>
+  <string id="116468">You feel no pain?</string>
+  <string id="116469">You&apos;ll feel my pain!</string>
+  <string id="116470">All die!</string>
+  <string id="116471">Your death is mine!</string>
+  <string id="116472">This is your end!</string>
+  <string id="116473">I cannot be beaten!</string>
+  <string id="116474">Down you go!</string>
+  <string id="116479">I am better!</string>
+  <string id="116480">A little poison won&apos;t stop me!</string>
+  <string id="116481">Pain! Death!</string>
+  <string id="116482">Wh... why won&apos;t it work?</string>
+  <string id="116483">I won&apos;t let you!</string>
+  <string id="116484">This can&apos;t be!</string>
+  <string id="116485">You can&apos;t!</string>
+  <string id="116486">I&apos;ll take you down!</string>
+  <string id="116487">I do what I must!</string>
+  <string id="116488">This won&apos;t end well.</string>
+  <string id="116493">I&apos;m... I&apos;m better?</string>
+  <string id="116494">I&apos;m poisoned!</string>
+  <string id="116495">Take that!</string>
+  <string id="116497">An Unfortunate Debt</string>
+  <string id="116498">A Few Silvers Shy</string>
+  <string id="116499">If you wish to aid the farmer in some way, talk to him on the beach outside of Two Rivers.</string>
+  <string id="116500">One of the farmers from outside Two Rivers seems to have ended his trip to the market twenty silver short from paying back a debt. He owes this debt to a man who works for Gao the Greater, your fellow student&apos;s notorious merchant father. </string>
+  <string id="116502">Gave Silver</string>
+  <string id="116505">You managed to persuade the farmer who owed money to Gao the Greater that there was no shame in taking a loan from you. He thanked you profusely and left to repay his debt.</string>
+  <string id="116506">Encouraged strength</string>
+  <string id="116509">You encouraged the farmer who owes money to Gao the Greater to solve his own problems and actively seek a solution. While your lesson was harsh, it seems to have done the trick, and he has vowed to find a way out of his debt.</string>
+  <string id="116510">Failed persuade</string>
+  <string id="116513">The farmer who owes money to Gao the Greater left town after refusing your offer of silver to cover his debts. For some, the shame of accepting another&apos;s charity is worse than owing money to Gao the Greater.</string>
+  <string id="116533" soundid="176514">This path leads to the beach. Gujin&apos;s shop is north of the main square; we should really get our weapons as soon as we can.</string>
+  <string id="116534" soundid="176515">Why are we going back to the school? We need to go to Gujin&apos;s, north of the main square in town.</string>
+  <string id="116535" soundid="183200">To the Golden Way</string>
+  <string id="116536" soundid="183201">To the Black Leopard School</string>
+  <string id="116537" soundid="183202">To the Imperial Arena</string>
+  <string id="116541">Ceramic Urn</string>
+  <string id="116542" soundid="176523"></string>
+  <string id="116543" soundid="176524"></string>
+  <string id="116544" soundid="176525"></string>
+  <string id="116545" soundid="176526"></string>
+  <string id="116546" soundid="176527"></string>
+  <string id="116547" soundid="176528"></string>
+  <string id="116548" soundid="176529"></string>
+  <string id="116549" soundid="176530"></string>
+  <string id="116550" soundid="176531"></string>
+  <string id="116560" soundid="176541"></string>
+  <string id="116561">[Enter the Lotus Assassin Fortress.]</string>
+  <string id="116562">Convict Ghost</string>
+  <string id="116565">Interpreted furnace movement</string>
+  <string id="116566">A note scribbled by Kang after he noticed an odd pattern in the movements of Lord Lao&apos;s Furnace. It suggests that one of the machine&apos;s configurations is in &quot;a fortress of the dark handed ones&quot; within the city.</string>
+  <string id="116567">Convict Ghost</string>
+  <string id="116571">The Zither of Discord</string>
+  <string id="116572">A note Kang found in pieces in Lord Lao&apos;s Furnace. It suggests that one of the machine&apos;s configurations is near &quot;the archivist of the Order.&quot;</string>
+  <string id="116573">Scrap paper note</string>
+  <string id="116577" soundid="176560">Well... er... it&apos;s... uh... 2000 silver. Yeah, 2000 silver to pass by here.</string>
+  <string id="116578" soundid="176561">I... ah... well, ya... that&apos;s good. You&apos;re smarter than you look. You can, ah... go now.</string>
+  <string id="116579" soundid="176562">[Success] Um... ya. That sounds good. You can, ah... you can go now.</string>
+  <string id="116580" soundid="176563">[Failure] What? You&apos;ve got to be kidding... you look like you&apos;re worth a lot more than that.</string>
+  <string id="116581" soundid="176564">Get her!</string>
+  <string id="116582" soundid="176565">Get him!</string>
+  <string id="116583">What&apos;s your fee exactly?</string>
+  <string id="116584">Fine. Here&apos;s your 2000 silver. Now get lost.</string>
+  <string id="116585">[Intuition] I think 500 silver is more than enough.</string>
+  <string id="116648">A note found near one of the devices in Lord Lao&apos;s Furnace. It suggests that one of the machine&apos;s configurations is secreted away in &quot;a dock house ministry.&quot;</string>
+  <string id="116649">Transcribed Post Carving</string>
+  <string id="116650">A note scribbled by Kang after he translated the carvings on a post near the controls of Lord Lao&apos;s Furnace. It suggests that one of the machine&apos;s configurations is in &quot;a garden of ineffectual intellectuals.&quot;</string>
+  <string id="116651">Transcribed Gear Etchings</string>
+  <string id="116652">A note scribbled by Kang after he translated some of the markings on the larger gears of Lord Lao&apos;s Furnace. It suggests that one of the machine&apos;s configurations is in a chest somewhere in &quot;the place of all dead.&quot;</string>
+  <string id="116653">Found furnace note</string>
+  <string id="116654">A note found in Lord Lao&apos;s Furnace. It suggests that one of the machine&apos;s configurations may be found near the machine. &quot;They can&apos;t all be secreted across the Empire. Who has the time?&quot;</string>
+  <string id="116655" soundid="176675">I don&apos;t have any other clues to give at the moment. Maybe my head will clear up a bit later. Hopefully. My designs are safer when my head is clear.</string>
+  <string id="116656">Hear the Stories of Both Ghosts</string>
+  <string id="116657">Bladed Thesis has asked you to listen to the stories of two spirits and tell him which of the ghosts most deserved its death. Talk to both of the ghosts in the Great Southern Forest to hear their stories.</string>
+  <string id="116658">In searching for the bridge of the Zither of Discord, you have uncovered the ghost of its original owner. Bladed Thesis, the first philosopher to advance the Way of the Closed fist, offered to give you the bridge if you could pass a test.</string>
+  <string id="116660">Try to Kill Bladed Thesis</string>
+  <string id="116661">It seems that Bladed Thesis actually has the missing bridge from the Zither of Discord on him. Eliminating the ancient spirit might be the easiest way to acquire it.</string>
+  <string id="116663">Tired of pushy scholars, dead or alive, you simply destroyed Bladed Thesis. His death earned you the bridge to the Zither of Discord.</string>
+  <string id="116664">Begin Your Test</string>
+  <string id="116665">Bladed Thesis wants to hear which of the two spirits you spoke to most deserved its death and why. Speak to the red minister in the Great Southern Forest to give him your answer.</string>
+  <string id="116666">In searching for the bridge of the Zither of Discord, you have uncovered the ghost of its original owner. Bladed Thesis, the first philosopher to advance the Way of the Closed fist, offered to give you the bridge if you can pass a test.</string>
+  <string id="116668">Try to Kill Bladed Thesis</string>
+  <string id="116669">It seems that Bladed Thesis actually has the missing bridge from the Zither of Discord on him. Eliminating the ancient spirit might be the easiest way to acquire it.</string>
+  <string id="116671">Tired of pushy scholars, dead or alive, you simply destroyed Bladed Thesis. His death earned you the bridge to the Zither of Discord.</string>
+  <string id="116672">D: Successful test.</string>
+  <string id="116675">You have passed Bladed Thesis&apos; test and agreed to help him eliminate Scholar Six Heavens. The ancient red minister peacefully handed you the bridge for the Zither of Discord.</string>
+  <string id="116676">D: Fight Thesis</string>
+  <string id="116680">Defeat Bladed Thesis</string>
+  <string id="116681">Bladed Thesis seems to have a philosophical disagreement with you. Show him the flaw in his argument.</string>
+  <string id="116683">Tired of pushy scholars, dead or alive, you destroyed Bladed Thesis. His death earned you the bridge to the Zither of Discord.</string>
+  <string id="116684">Find the Case</string>
+  <string id="116685">The case of the zither was said to be in the possession of Gao the Greater. He is rumored to be involved with the pirates who plague Tien&apos;s Landing, so the case may be at their lair.</string>
+  <string id="116686">Scholar Six Heavens, adherent of the Way of the Closed Fist, has asked you to find the lost pieces of an artifact called the Zither of Discord. He awaits their delivery in Tien&apos;s Landing.</string>
+  <string id="116688">Find the Strings</string>
+  <string id="116689">The silk strings of the zither were discovered some time ago by the Imperial Army. They are supposedly kept in a lookout tower somewhere to the west of Tien&apos;s Landing.</string>
+  <string id="116690">Scholar Six Heavens, adherent of the Way of the Closed Fist, has asked you to find the lost pieces of an artifact called the Zither of Discord. He awaits their delivery in Tien&apos;s Landing.</string>
+  <string id="116692">Carry on</string>
+  <string id="116696">D:Finish</string>
+  <string id="116699">Scholar Six Heavens revealed that there is a third missing piece to the Dither of Discord. You declined his offer to find this third piece, and he left to study the pieces he has.</string>
+  <string id="116700">Find the Zither&apos;s Bridge</string>
+  <string id="116701">Six Heavens believes the bridge may be somewhere in the Great Southern Forest, which lies north of Tien&apos;s Landing. Six Heavens suggested looking for a structure that might have offered a scholar protection from the elements.</string>
+  <string id="116702">Having recovered the strings and case, you have agreed to help Scholar Six Heavens find the bridge to the Zither of Discord, the final piece he would need to reconstruct the ancient instrument.</string>
+  <string id="116704">Return to Scholar Six Heavens</string>
+  <string id="116705">Scholar Six Heavens awaits the return of the zither&apos;s bridge. Return to Tien&apos;s Landing and give it to him.</string>
+  <string id="116706">You acquired the missing bridge that would support the strings of the Zither of Discord. Scholar Six Heavens will be pleased.</string>
+  <string id="116708">D: Six Heavens lives</string>
+  <string id="116711">With the defeat of Bladed Thesis, you successfully returned the third missing component of the Zither of Discord to Scholar Six Heavens. His academic glory assured, Six Heavens rewarded you and left to prepare his study of the instrument.</string>
+  <string id="116712">D: Six Heavens dies.</string>
+  <string id="116715">Bladed Thesis&apos; spirit was bound to the Zither of Discord, and with its reconstruction, he was able to absorb some of Scholar Six Heavens&apos; life force. </string>
+  <string id="116717">Repelled</string>
+  <string id="116719" soundid="176765">We need to get back to the others so we can deal with what we know now. Careful out here, there&apos;s no telling what the collapsing fortress has stirred up.</string>
+  <string id="116720" soundid="176766">We have to get out of the Necropolis so we can deal with this information. Be careful, the ground has shifted. There&apos;s no telling what has been disturbed.</string>
+  <string id="116721" soundid="176767">Ah, good, we&apos;re back in the open. Let&apos;s get going. The shifting ground has probably shaken up a few new spirits to fight.</string>
+  <string id="116722" soundid="176768">We must get out of here. Be careful, so much ground has shifted under these graves, there&apos;s no telling what we woke up.</string>
+  <string id="116723" soundid="176769">Ya Zhen: Another walk through the graves, but be wary, the ground has shifted. Yes, I sense a number of spirits have been disturbed.</string>
+  <string id="116724" soundid="176770">We need to get back to the others. Be careful, there&apos;s no telling what the shifting of the fortress stirred up among all these graves.</string>
+  <string id="116725">Throne Room</string>
+  <string id="116727">Water Dragon Spirit</string>
+  <string id="116741" soundid="176787"></string>
+  <string id="116743">Immune</string>
+  <string id="116745">Deselect Style</string>
+  <string id="116747">Gem Name</string>
+  <string id="116771" soundid="176820">Very well. Don&apos;t go too far. We need to stay together.</string>
+  <string id="116772">We have so little time to talk. I just wanted to know you are well.</string>
+  <string id="116773">I want to make sure you are at your best. I don&apos;t want anyone distracted.</string>
+  <string id="116774">Never mind. It&apos;s not important.</string>
+  <string id="116778">I am overcome with fear!</string>
+  <string id="116797">Fear takes me!</string>
+  <string id="116816">My spirit trembles!</string>
+  <string id="116835">I am too afraid!</string>
+  <string id="116854">Fear overcomes me!</string>
+  <string id="116874">I&apos;m... I&apos;m too afraid!</string>
+  <string id="116893">We waste time we do not have.</string>
+  <string id="116894">Tend to your wounds!</string>
+  <string id="116895">You&apos;re hurt.</string>
+  <string id="116896">The fools should have known better.</string>
+  <string id="116897">They had no idea what they faced.</string>
+  <string id="116898">This can&apos;t be.</string>
+  <string id="116899">You can&apos;t fall!</string>
+  <string id="116900">Well done!</string>
+  <string id="116901">I&apos;ll stand with you.</string>
+  <string id="116902">We will not falter!</string>
+  <string id="116903">I&apos;m done with this one.</string>
+  <string id="116904">Too easy.</string>
+  <string id="116905">If you&apos;re waiting for me, I caught my breath some time ago.</string>
+  <string id="116906">Careful! I need you alive!</string>
+  <string id="116907">Heal yourself... quickly!</string>
+  <string id="116908">Thank you for keeping me alive!</string>
+  <string id="116909">Things are always exciting with you.</string>
+  <string id="116910">This isn&apos;t good.</string>
+  <string id="116911">This looks like a good time to start drinking again.</string>
+  <string id="116912">Impressive.</string>
+  <string id="116913">Here we go again.</string>
+  <string id="116914">I&apos;ve got the wine ready!</string>
+  <string id="116915">I&apos;ve never killed somebody sober before.</string>
+  <string id="116916">Don&apos;t worry, my wife&apos;s done worse to me.</string>
+  <string id="116917">Return to Scholar Six Heavens</string>
+  <string id="116918">Return to Tien&apos;s Landing and give the two pieces of the zither to Scholar Six Heavens. You can find him in the Beggars&apos; Pier area of Tien&apos;s Landing.</string>
+  <string id="116919">You have found two pieces of the legendary Zither of Discord, as requested by Scholar Six Heavens.</string>
+  <string id="116921" soundid="176970">We must go to Dirge.</string>
+  <string id="116922" soundid="176971">What? Why?</string>
+  <string id="116923" soundid="176972">We must go to Dirge..quickly, there&apos;s no time to explain.</string>
+  <string id="116926">We must not let evail prevail. Let&apos;s get going!</string>
+  <string id="116927">Careful. Do not let your guard down.</string>
+  <string id="116928">You are getting weak. Heal yourself.</string>
+  <string id="116929">No doubt there&apos;s more where those came from.</string>
+  <string id="116930">Bit by bit we will cleanse this place.</string>
+  <string id="116931">This is the end for us all.</string>
+  <string id="116932">Now who will help us?</string>
+  <string id="116933">Excellent move!</string>
+  <string id="116934">We will prevail!</string>
+  <string id="116935">Dirge will be cleansed.</string>
+  <string id="116936">One less to deal with!</string>
+  <string id="116937">Ha, ha! The tide is turning!</string>
+  <string id="116938">If I don&apos;t kill something soon there&apos;s going to be trouble.</string>
+  <string id="116939">Watch your back!</string>
+  <string id="116940">Don&apos;t be a hero. Heal yourself!</string>
+  <string id="116941">That&apos;s it? Pathetic weaklings!</string>
+  <string id="116942">That was fun! Now let&apos;s get some wine.</string>
+  <string id="116943">I guess you&apos;re weren&apos;t as tough as I thought.</string>
+  <string id="116944">Ha, ha! More fighting for me!</string>
+  <string id="116945">Nice!</string>
+  <string id="116946">C&apos;mon! I&apos;ll kill you all!</string>
+  <string id="116947">This is going to be fun!</string>
+  <string id="116948">More food for the worms!</string>
+  <string id="116949">Ha! Say hello to the spirits for me!</string>
+  <string id="116950">You must keep moving forward.</string>
+  <string id="116951">Heal yourself!</string>
+  <string id="116952">You are hurt! Get back!</string>
+  <string id="116953">I will fight for you forever.</string>
+  <string id="116954">A hundred times their number could not stop me.</string>
+  <string id="116955">I need purpose!</string>
+  <string id="116956">My Master falls!</string>
+  <string id="116957">Your skill is unquestioned, Master.</string>
+  <string id="116958">I will carve a bloody swath!</string>
+  <string id="116959">None stand before Death&apos;s Hand!</string>
+  <string id="116960">Death takes you.</string>
+  <string id="116961">Fool.</string>
+  <string id="116965">Nice day for a walk. *If* you have nothing better to do!</string>
+  <string id="116966">Are you all right?</string>
+  <string id="116967">Be careful!</string>
+  <string id="116968">The odds were always in our favor.</string>
+  <string id="116969">I&apos;d bet they didn&apos;t see that coming.</string>
+  <string id="116970">Are you... ? NO!</string>
+  <string id="116971">No, not again!</string>
+  <string id="116972">That will teach them!</string>
+  <string id="116973">I&apos;m with you.</string>
+  <string id="116974">Never forget.</string>
+  <string id="116975">There!</string>
+  <string id="116976">Who&apos;s next?</string>
+  <string id="116977">Wait! Did you hear something... no, no, don&apos;t worry, it was just TIME TICKING AWAY!</string>
+  <string id="116978">You... don&apos;t look well over there.</string>
+  <string id="116979">Going well? Don&apos;t think so!</string>
+  <string id="116980">See any useful parts? Waste not the whatnots.</string>
+  <string id="116981">That&apos;s... that&apos;s all? Er... I have to go snuff some fuses.</string>
+  <string id="116982">That is not part of the plan... not in any revision I&apos;ve seen.</string>
+  <string id="116983">No, no, no, not right at all! Get up and do it over!</string>
+  <string id="116984">Flashy, but it should be louder and leave a crater!</string>
+  <string id="116985">I hope you are wound and ready to spin!</string>
+  <string id="116986">Everyone get in step, the heavens like choreography.</string>
+  <string id="116987">Ha HA! I&apos;ll tell the living you said goodbye!</string>
+  <string id="116988">Your next life should duck more.</string>
+  <string id="116990">Town Gate</string>
+  <string id="116991">You now have the Marvelous Dragonfly with the Inscrutable Power Source and a wind map of the region. If you wish to fly, you should speak with Kang.</string>
+  <string id="116992">Speak with Kang</string>
+  <string id="116993">Speak with Kang</string>
+  <string id="116994">Speak with Kang to leave in the Marvelous Dragonfly.</string>
+  <string id="117001" soundid="177072">The hero and The Glorious Strategist.</string>
+  <string id="117002">Disabled in this demo.</string>
+  <string id="117003" soundid="177073">The hero and The Glorious Strategist.</string>
+  <string id="117004" soundid="177074">The hero and The Glorious Strategist.</string>
+  <string id="117005">Inferior Charm Gem</string>
+  <string id="117006">Charm Gem</string>
+  <string id="117007">Superior Charm Gem</string>
+  <string id="117008">Inferior Intimidation Gem</string>
+  <string id="117009">Intimidation Gem</string>
+  <string id="117010">Superior Intimidation Gem</string>
+  <string id="117011">Inferior Intuition Gem</string>
+  <string id="117012">Intuition Gem</string>
+  <string id="117013">Superior Intuition Gem</string>
+  <string id="117014">Gem of Evil Thought</string>
+  <string id="117015">Gem of Gentle Mind</string>
+  <string id="117016">Aura of Malice Gem</string>
+  <string id="117017">Aura of Calm Gem</string>
+  <string id="117018">Gem of Seductive Power</string>
+  <string id="117019">Gem of Irresistible Spirit</string>
+  <string id="117020">Greater Warrior&apos;s Gem of Fate</string>
+  <string id="117021">Greater Scholar&apos;s Gem of Fate</string>
+  <string id="117022">Greater Monk&apos;s Gem of Fate</string>
+  <string id="117023">Warrior&apos;s Gem of Fate</string>
+  <string id="117024">Scholar&apos;s Gem of Fate</string>
+  <string id="117025">Monk&apos;s Gem of Fate</string>
+  <string id="117026">Slick Gem</string>
+  <string id="117027">Gem of Black Flame</string>
+  <string id="117028">Gem of Earth Power</string>
+  <string id="117029">Gem of Storm&apos;s Rage</string>
+  <string id="117030">Quicksilver Gem</string>
+  <string id="117031">Lightning Gem</string>
+  <string id="117032">Gem of Premonition</string>
+  <string id="117033">Gem of Foresight</string>
+  <string id="117034">Thick Skin Gem</string>
+  <string id="117035">Iron Skin Gem</string>
+  <string id="117036">Gem of the Clumsy Ox</string>
+  <string id="117037">Gem of the Barbarian</string>
+  <string id="117038">Way of the Closed Fist</string>
+  <string id="117039">Way of the Open Palm</string>
+  <string id="117040">The Closed Fist</string>
+  <string id="117041">The Open Palm</string>
+  <string id="117042">Imperial Favor</string>
+  <string id="117043">Gem of Thief&apos;s Sense</string>
+  <string id="117044">Gem of the Frail Scholar</string>
+  <string id="117045">Charm +2
+
+This gem surrounds the user in an aura of vitality that people find irresistible. This gem is of inferior quality.
+</string>
+  <string id="117046">Charm +3
+
+This gem surrounds the user in an aura of vitality that people find irresistible. This gem is of average quality.
+
+</string>
+  <string id="117047">Charm +5
+
+This gem surrounds the user in an aura of vitality that people find irresistible. This gem is of superior quality.</string>
+  <string id="117048">Intimidation +2
+
+This gem surrounds the user in an aura of menace that people find intimidating. This gem is of inferior quality.    
+
+</string>
+  <string id="117049">Intimidation +3
+
+This gem surrounds the user in an aura of menace that people find intimidating. This gem is of inferior quality.    </string>
+  <string id="117050">Intimidation +5
+
+This gem surrounds the user in an aura of menace that people find intimidating. This gem is of superior quality.</string>
+  <string id="117051">Intuition +2
+
+This gem enhances the user&apos;s perception and intuition, enabling the wearer to feel out the lines of fate connecting each thing in the world. This gem is of inferior quality.</string>
+  <string id="117052">Intuition +3
+
+This gem enhances the user&apos;s perception and intuition, enabling the wearer to feel out the lines of fate connecting each thing in the world. This gem is of average quality.</string>
+  <string id="117053">Intuition +5
+
+This gem enhances the user&apos;s perception and intuition, enabling the wearer to feel out the lines of fate connecting each thing in the world. This gem is of superior quality.</string>
+  <string id="117054">Mind +2
+Intuition +2
+Only followers of the Way of the Closed Fist may use this gem.
+
+The evil energies that resonate in this gem speak of its previous owners, dark and evil men and women driven beyond the boundaries that society imposes on them. This is a gem of murderers and thieves. Their thoughts and skills are reflected though this gem and passed on to its user.    </string>
+  <string id="117055">Mind +2
+Intuition +2
+Only followers of the Way of the Open Palm may use this gem.
+
+This gem radiates peace and serenity, reflecting the past owners, who imprinted fragments of their own thoughts on it. This is a gem of enlightened scholars and philosophers, men and women at peace with themselves and their place in the world. Their tranquility and peace of mind is passed on to those capable of tapping into the gem&apos;s power.</string>
+  <string id="117056">Body +2
+Intimidation +2
+Only followers of the Way of the Closed Fist can use this gem.
+
+Legends tell of bandits and warlords so evil that their mere presence in a room could cow people into submission. This gem is part of that legend. It allows the wielder to project an aura of such malice that a victim is driven to do his will.</string>
+  <string id="117057">Body +2
+Intimidation +2
+Only followers of the Way of the Open Palm can use this gem.
+
+Some of the wisest masters and sages radiate such a sense of peace and understanding that their uncanny calm almost seems threatening. This gem has been in the possession of such individuals, and their aura of inhuman calm is channeled through this gem, granting the wielder that same unnerving peace and strength.</string>
+  <string id="117058">Spirit +2
+Charm +2
+Only followers of the Way of the Closed Fist can use this gem.
+
+People of negotiable virtue can often be overwhelming in their advances. No small thanks for that go to this gem. Nicknamed &quot;a Woman&apos;s Best Friend,&quot; it gives the user power a courtesan would kill for. All are drawn to the power and passion of the wielder, doing his or her every decadent bidding.</string>
+  <string id="117059">Spirit +2
+Charm +2
+Only followers of the Way of the Open Palm can use this gem.
+
+This gem is a tool of inner reflection for the wielder and, unwittingly, those around him. This gem exposes the inner strength and virtue of the user to all, awing them with his true nature. Only those most at peace with themselves can use this gem, for others will see their own flaws reflected back at them.</string>
+  <string id="117060">Greatly increased chance of Health power-ups
+Body -5
+
+Warriors who revel in the chaos of combat find comfort in this gem&apos;s machinations of fate. The gem feeds on the warrior&apos;s physical capabilities, but it also increases the chances of that warrior getting a second, or even third, wind during battle.
+
+</string>
+  <string id="117061">Greatly increased chance of Focus power-ups
+Mind -5
+
+There are times in which raw mental power is not as important as the ability to summon reserves of such power when the time is right. This gem enables the user to trade innate mental ability for a much greater chance that fate will reward the wielder with additional mental resources in times of crisis.</string>
+  <string id="117062">Greatly increased chance of Chi power-ups
+Spirit -5
+
+One who is content with water every day may never enjoy the taste of wine. Not every master finds wisdom in caution, and those willing to compromise their spiritual abilities with this gem often find themselves rewarded with greater reserves of power in times of crisis. </string>
+  <string id="117063">Increased chance of Health power-ups
+Body -1
+
+The wearer of this gem gambles away some of his physical ability for the chance that fate will favor him in combat. Some warriors prefer a second wind in combat over a strong opening volley. </string>
+  <string id="117064">Increased chance of Focus power-ups
+Mind -1
+
+It behooves one who seeks to strengthen one&apos;s mind to consider the vagaries of fate in one&apos;s actions. This gem aids in this experiment by tapping its wielder&apos;s mental capacities in return for a greater chance that fate might restore the user&apos;s mental endurance when it is needed most. 
+
+</string>
+  <string id="117065">Increased chance of Chi power-ups
+Spirit -1
+
+While it may not seem wise for one to sacrifice one&apos;s spiritual nature for a gamble on fate&apos;s table, one must certainly see the wisdom in entering a card game with a stacked deck. This gem rewards those willing to make such a sacrifice with more spiritual resources when it is needed most. 
+
+</string>
+  <string id="117066">-10% Focus cost for evading traps
+
+The surface of this gem is oddly slick, making it difficult to hold. Prized by thieves, it makes one move with less resistance, making it much easier to avoid the unavoidable. It has saved many an inattentive burglar from death.</string>
+  <string id="117067">Mind +3
+Spirit +3
+Only followers of the Way of the Closed Fist may use this gem.
+
+Fury and rage will render a warrior helpless unless directed and turned to a purpose. This gem channels infuses the wearer&apos;s mind and spirit with the flame of their anger, burning away weakness until only strength remains.</string>
+  <string id="117068">Body +5
+Only followers of the Way of the Closed Fist may use this gem.
+
+Tearing winds and the coursing waters test their strength, but the mountains endure. Wearers of this gem gain some of this strength, their bodies hardened by its magic.</string>
+  <string id="117069">Damage Shield
+Only followers of the Way of the Closed Fist may use this gem.
+
+This gem wraps you in whirling winds that tear at any who attack you. Its effect is constant while the gem is equipped.</string>
+  <string id="117070">Mind +2
+50% chance to evade traps
+
+When they hold this gem up to the moonlight, some claim they can see in the center of this gem a single drop of quicksilver spinning endlessly. The wielder becomes as fast and as mercurial as quicksilver, able to make leaps of logic and leaps of body just as easily.    
+
+</string>
+  <string id="117071">Mind +3
+100% chance to evade traps
+
+Named not for its appearance, but for the speed at which its owner acts, this gem sharpens the mind and senses by orders of magnitude. The wearer becomes smarter and quicker, more easily anticipating or evading the unexpected.</string>
+  <string id="117072">Mind +1
+-50% trap evade focus cost
+
+This gem&apos;s inner structure does not appear similar to any other essence gem, and there are no records of it ever having been created. Its origin is a mystery, as is the nature of its power. It appears to give the wielder a glimmer of the future, enabling its user to move away from coming harm. It does not remove the danger, but makes danger easier to avoid.</string>
+  <string id="117073">Mind +2
+Evading traps costs no Focus.
+
+This object has been called an essence gem by the few who know of its existence, but none of those who speculate on it have ever truly held it in their hand. It gives the wielder a flash of insight into the future, sharpening his mind and allowing him to avoid danger completely, should he choose to do so.
+
+</string>
+  <string id="117074">Body +1
+50% damage from traps
+
+This gem thickens a warrior&apos;s skin, strengthening it against damage. This makes the warrior resistant to sudden damage from an undirected source, but it will likely not protect as well against an opponent already aiming for vital areas.</string>
+  <string id="117075">Body +3
+0% damage from traps
+
+The power of this gem toughens the skin until it as strong as iron. Traps and other undirected attacks will have no effect at all upon the wielded. Calculated, cunning strikes from an intelligent opponent will still harm the user, but the strengthened skin will help absorb the damage.
+</string>
+  <string id="117076">Body +3
+Cannot evade traps
+
+There is much to be said for strength, but strength often comes at the expense of agility, and the users of this gem prize strength and stamina over any attempts at subtlety. While the wielder may not be able to evade sudden traps, he can often shrug off any damage he may take.</string>
+  <string id="117077">Mind +1
++100% experience from books
+Body -3
+
+This gem has passed through the hands of many great scholars and men and women of learning. Their dedication and experienced has been passed on into this essence gem. The gem expands its wielder&apos;s mind, drawing on the scholars&apos; past experiences, but the wielder will feel the weight of years much more greatly.</string>
+  <string id="117078">Body +2
+Gain no experience from books
+
+Time and again, the Horselords descended from the plains and laid waste to the Empire. Each time they were eventually driven back, but their repeated forays into the Empire began to imprint true culture upon them. It is not so surprising, then, to learn that they have essence gems of their own. This gem is fit for a warrior of the steppes, a warrior who lives and dies by his strength and holds all civilized learning in disdain.</string>
+  <string id="117079">Intimidation +10
+Body +5
+Spirit -5
+Only followers of the Way of the Closed Fist may use this gem.
+
+The Way of the Closed Fist is the way of violence and personal power. Take the world in your grasp and make it yours. A closed fist will beat down the walls of ignorance and lead to enlightenment, even if the Heavens themselves must shake from the force of it.</string>
+  <string id="117080">Intuition +10
+Spirit +5
+Body -5
+Only followers of the Way of the Open Palm may use this gem.
+
+Life brings many challenges, and one must learn to flow and adapt to them, to yield and be firm at the same time, to take the hardships life brings and turn them to one&apos;s benefit. Through the open, gentle palm, one changes the course of life gently, and with it, one&apos;s destiny.
+
+</string>
+  <string id="117081">Body +10
+Spirit +5
+Only followers of the Way of the Closed Fist may use this gem.
+
+A master of the Closed Fist is a force that changes the face of destiny to suit his will. Those who seek the ways of power will always remember such strength of purpose. A fearsome force in body and spirit, this path brooks no deviation. The slightest weakness in a master of this caliber will be his downfall. Those who change fate accept no failings.</string>
+  <string id="117082">Spirit +10
+Mind +5
+Only followers of the Way of the Open Palm may use this gem.
+
+In accordance with one&apos;s own spirit and the way of the Heavens, the Open Palm is at peace with nature. This ultimate harmony gives mastery over one&apos;s self and attunement with the flow of fate. </string>
+  <string id="117083">Spirit +1
+Allows the wielder to detect traps
+
+The past users of this gem did not always live by the law, but they always lived on the edge. That edge and their fates on either side of it are imprinted on this gem. The chi channeled through it instills in the wielder an awareness of his surroundings, detecting things that may cause him harm.</string>
+  <string id="117084">Spirit +3
+Charm +1
+Intuition +1
+Increased chance for getting power-ups from fallen enemies
+
+The emperors of the Sun dynasty have long been famed for their magical aptitude, but they also enjoy the adulation of the people of the Jade Empire. Imperial Favor was cut by a master gem smith, who worked for weeks to create a gift that would suitably honor Princess Lian&apos;s coming of age.</string>
+  <string id="117085" soundid="177159">I&apos;ve probably told you this story, but when I was young, I dreamt of a magic carp that would take me to a place where no one was troubled by visions or spirits.</string>
+  <string id="117086" soundid="177160">Now I can&apos;t help but picture that poor fish flopping in the streets of the Imperial City, oblivious passersby casually stepping around it.</string>
+  <string id="117087" soundid="177161">Something about our current company seems to encourage it. Not that I am ungrateful for their help, but I miss Jing Woo, Old Ming, Gujin....</string>
+  <string id="117089">So you feel like a fish out of water. I don&apos;t know where I belong either.</string>
+  <string id="117090">What a wonderfully absurd way to answer a question.</string>
+  <string id="117091">When I asked you to talk, I assumed you wouldn&apos;t waste my time.</string>
+  <string id="117106">Gem of Purpose</string>
+  <string id="117107">Gem of Struggle</string>
+  <string id="117108">Gem of Mastery</string>
+  <string id="117109">Body +1
+Mind +1
+Spirit +1
+Only followers of the Way of the Closed Fist may use this gem.
+
+The key to getting what one wants is to first know what it is and what it takes to get it. This sense of purpose empowers the truly strong. A clarity of purpose and the willingness to commit everything to see it come to fruition are hallmarks of one who commands fate.</string>
+  <string id="117110">Body +2
+Mind +2
+Spirit +2
+Only followers of the Way of the Closed Fist may use this gem.
+
+Every worthwhile goal requires hardship and struggle. A victory gained with ease means nothing. The struggle defines the worth of a goal. A true step on the path to power demands it. Only one who would seize and command his fate knows what true struggle is. The lives of those lost along this path to power aid those who would follow in their footsteps.
+
+</string>
+  <string id="117111">Body +3
+Mind +3
+Spirit +3
+Only followers of the Way of the Closed Fist can use this essence gem.
+
+The goal of every struggle, no matter what its initial justification, is dominance. Power over others and over fate will determine the true outcome of everything. This gem helps focus that mastery of destiny into pure strength for the wielder&apos;s body, mind, and spirit.
+
+
+
+</string>
+  <string id="117112">Harmonic combo primed: switch to Legendary Strike and press (X button). This moves costs 5 Chi.</string>
+  <string id="117115">Impress Mistress Vo</string>
+  <string id="117116">Mistress Vo is willing to train you in the Stone Immortal style, but she made it clear that she will only train those who completely understand the Way of the Open Palm. Return to her in Tien&apos;s Landing when you feel you are ready to be tested.</string>
+  <string id="117118">Mistress Vo tested you in battle, and when the stones lay silent she was more than willing to train you in Stone Immortal. This style works best when the user is at harmony with his or her surroundings.</string>
+  <string id="117119">Impress Jian the Iron Fist</string>
+  <string id="117120">Jian the Iron Fist only has time for those who demonstrate a complete understanding of the Way of the Closed Fist. If you can prove such an understanding to him, he seems willing to teach you the Tempest style. Return to Jian in Tien&apos;s Landing when you feel you are ready.</string>
+  <string id="117122">After you faced the aged master in battle, Jian the Iron Fist agreed to train you in the basic techniques of Tempest, a style fueled by discord in the practitioner&apos;s soul.</string>
+  <string id="117124">We must keep going. There is too much to do.</string>
+  <string id="117125">Be careful over there.</string>
+  <string id="117126">Are you all right?</string>
+  <string id="117127">I am relieved, even if fighting at your side is... invigorating.</string>
+  <string id="117128">So much carnage... I&apos;m glad it is over.</string>
+  <string id="117129">No! This can&apos;t be! What... what now?</string>
+  <string id="117130">Dead? No! You can&apos;t die... what of destiny?</string>
+  <string id="117131">Quit showing off. This is serious.</string>
+  <string id="117132">Let our skill make this quick.</string>
+  <string id="117133">If we must fight, then let us win!</string>
+  <string id="117134">Such discord... it must end.</string>
+  <string id="117135">I don&apos;t want to get used to this.</string>
+  <string id="117138">Low Intelligence</string>
+  <string id="117141">Medium Intelligence</string>
+  <string id="117144">High Intelligence</string>
+  <string id="117148" soundid="177241">All right, everyone calm down. We managed to lose them, but we&apos;ll have to stay out of sight for a while.</string>
+  <string id="117149" soundid="177242">But what can we do now? The last hope for the Empire died in the palace.</string>
+  <string id="117150" soundid="177243">I don&apos;t know. We&apos;ll think of something. For now, we have to make sure we survive.</string>
+  <string id="117151" soundid="177244">All is not lost. Hear me....</string>
+  <string id="117159" soundid="177252">The Emperor is privy to much. I don&apos;t know his motives, but any aid to you is likely a threat to him. You must go to the ruins and find the amulet piece meant for you.</string>
+  <string id="117163">Hawk&apos;s Elegance</string>
+  <string id="117164">Conditioning of the Body</string>
+  <string id="117165">Swallow&apos;s Grace</string>
+  <string id="117166">Hunter&apos;s Spirit</string>
+  <string id="117167">Boar&apos;s Strength</string>
+  <string id="117168">Tracking Eye</string>
+  <string id="117169">Predatory Intuition</string>
+  <string id="117170">Cleansed Body and Mind</string>
+  <string id="117171">Vigorous Body</string>
+  <string id="117172">Clear Mind</string>
+  <string id="117173">Porcelain Skin</string>
+  <string id="117174">Eye of Inner Darkness</string>
+  <string id="117175">Window to the Abyss</string>
+  <string id="117176">Deadened Nerves</string>
+  <string id="117177">Fearsome Visage</string>
+  <string id="117178">Strength of Wood</string>
+  <string id="117179">Inner Peace</string>
+  <string id="117180">Legacy of Master Li</string>
+  <string id="117181">Legacy of Death&apos;s Hand</string>
+  <string id="117182">Through Thick and Thin</string>
+  <string id="117183">Heart of the Empire</string>
+  <string id="117184">[TEMP] romance_bothgirls</string>
+  <string id="117185">Hope Restored</string>
+  <string id="117186">Scales of the Serpent</string>
+  <string id="117187">Theories of Medicine</string>
+  <string id="117188">Chaotic Strains</string>
+  <string id="117189">Alloyed Body</string>
+  <string id="117190">Gaze of the Lion</string>
+  <string id="117191">Replenishment of the Body</string>
+  <string id="117192">Replenishment of the Mind</string>
+  <string id="117193">Strength of the Bull</string>
+  <string id="117194">Spirit of the Master</string>
+  <string id="117195">The Quieted Mind</string>
+  <string id="117196">A Mountain Within</string>
+  <string id="117197">Calm as the Morning Breeze</string>
+  <string id="117198">The Song of the Spirit</string>
+  <string id="117199">Harmony and Balance</string>
+  <string id="117200">Viper&apos;s Wit</string>
+  <string id="117201">Structured Body</string>
+  <string id="117202">The River of Time</string>
+  <string id="117203">Dragon Mantra</string>
+  <string id="117204">Snake Mantra</string>
+  <string id="117205">Tiger Mantra</string>
+  <string id="117206">Warrior of the Inner Eye</string>
+  <string id="117207">Warrior of the Infinite Spirit</string>
+  <string id="117208">Warrior of the Unyielding Heart</string>
+  <string id="117209">Heaven Mantra</string>
+  <string id="117210">Rote of the Endless Mind</string>
+  <string id="117211">Health +3
+Chi -1
+
+A series of exercises developed by Smiling Mountain. Those who learn and use his Belly of Iron techniques learn to take blows better, giving them more stamina in combat. The strain of using these exercises in battle can slightly reduce a warrior&apos;s ability to channel their chi.</string>
+  <string id="117212">Chi +3
+Focus -1
+
+Heart of Gold is a set of meditative techniques developed by Smiling Mountain to help his students learn to master their chi. By remembering specific mantras in battle, it is possible to channel slightly more chi than normal. This extra concentration can slightly distract a warrior from maintaining focus in battle.</string>
+  <string id="117213">Focus +3
+Health -1
+
+Mental exercises that test the memory and quickness of thought, Smiling Mountain&apos;s Mind of Steel techniques can help warriors better focus in battle. The time spent honing the mind can have the side effect of slightly weakening one&apos;s body, however.</string>
+  <string id="117214">Focus +15
+Chi +3
+
+To be one with your art, it must be your entire world, your only focus. But to lose yourself in that world is also a serious failing. If you balance the needs of your art with the needs of your inner self, you can achieve true transcendence and clarity of purpose.</string>
+  <string id="117215">Focus +7
+Health -3
+
+As brittle and as elegant as they may be, a bird must have a keen mind to adapt and make use of its surroundings. This constant attention to detail is a sign of one who focuses more on one&apos;s mind than on one&apos;s body. The mind is a weapon as powerful as any other.</string>
+  <string id="117216">Health +7
+Chi -3
+
+The lithe grace of any serious physical artist, be they dancer or martial artist, belies the strength of their body. Through their arts, all fat and useless muscle is burned away, leaving only the hard muscle beneath.</string>
+  <string id="117217">Charm +3
+Intuition -1
+
+A dancer must learn to glide as softly and as delicately as a small bird, flitting from here to there. Many people find this behavior fascinating but mysterious.</string>
+  <string id="117218">Chi +15
+Focus +3
+
+Know yourself, and you can know your prey. By knowing your own limitations, you can surpass yourself, see the limitations in others, and gain true power flowing from your own spirit outward into the world. A keen mind and a keen spirit are both the mark of a master hunter.</string>
+  <string id="117219">Health +7
+Chi -3
+
+The boar is a surprisingly cunning and resourceful opponent when encountered in the wild. Even the most experienced hunter can fall prey to it if he does not watch himself. The boar uses its natural strength and weight in battle. Learn from the lessons the boar can teach, and you will prove more difficult for your opponents to overcome.</string>
+  <string id="117220">Focus +7
+Charm -1
+
+To track a beast in the forest, one must have keen eyes that catch every movement and track it undeterred by distraction. The Tracking Eye is that technique. Following it, one can gain much greater Focus, but it is disconcerting to others.</string>
+  <string id="117221">Intuition +3
+Chi -5
+
+To find a beast, one must understand the beast and how it thinks. This applies to humans just as with the lesser animals. Learning this makes a warrior more intuitive, but it lessens inner harmony.</string>
+  <string id="117222">Health +15
+Focus +5
+
+Once a body has been purified in the correct manner, with all the forces and pressures of the body in proper balance, one will find one&apos;s strength greatly increased and more able to resist the hardships of life and the mind clearer, more ready to adapt.</string>
+  <string id="117223">Health +10
+Chi -2
+
+The body is a harbor for many poisons and toxins that accumulate within. Without the proper steps to release these poisons, the body can become slow and sluggish. By clearing these and allowing the blood to flow more freely, a person can become much more vigorous. This new rush of health has a slight disrupting effect on that person&apos;s chi.</string>
+  <string id="117224">Focus +10
+Intimidation -1
+
+A clear mind can see truly where a clouded one cannot. Removing the imbalances from the body that distract the mind can greatly increase one&apos;s clarity and focus. This new thoughtfulness will make an individual seem slightly distracted to those who do not understand.</string>
+  <string id="117225">Charm +2
+Chi -4
+
+A clear complexion is the hallmark of a healthy and attractive individual. By correctly balancing the forces within one&apos;s body, one can improve one&apos;s outward appearance. Such vanity does true enlightenment no favors.</string>
+  <string id="117226">Chi +15
+Focus +5
+
+Looking out from the void inside, the place in which the spirit resides, is a person&apos;s inner eye. A person at peace with their inner self gains great power and strength of mind from this eye.</string>
+  <string id="117227">Chi +10
+Focus -3
+
+The spirit is endless. The depths one can sink to is limitless. If one looks inside, they will see nothing but themselves. Inner strength, the strength of the spirit, comes from this limitless inner void.</string>
+  <string id="117228">Health +10
+Chi -3
+
+Lotus Assassins often use a technique common to many martial arts, but in their fanaticism, they take it to an extreme. They beat their body continuously, first with ropes, then with wooden sticks, then finally with iron rods, until their bodies are completely deadened to the pain. They can resist all manner of physical attacks, but focusing so intently on the physical does little for their spirit.</string>
+  <string id="117229">Intimidation +3
+Charm -1
+
+Training as a Lotus Assassin takes its toll. A Lotus Assassin sometimes deliberately deforms himself to present a more disturbing visage to his opponents and instill fear in his foes.</string>
+  <string id="117230">Health +2
+Literary: Granted by your studies of The History of Flight.
+
+An ancient technique that strengthens a warrior&apos;s body until his skin becomes as tough as wood. While the skin looks unchanged, it is tougher and more resilient than normal.</string>
+  <string id="117231">Chi +4
+Literary: Granted by your studies of &quot;The Celestial Order.&quot;
+
+Contemplation on the inner mysteries of one&apos;s own mind is a path many try to take to true enlightenment. Few succeed, for many make the mistake of neglecting the physical world and focusing only on the spiritual. When all things are in balance, one&apos;s spiritual being can ascend to a higher plane of thought.</string>
+  <string id="117232">Focus +7
+Literary: Granted by studying the books in Two Rivers.
+
+Master Li&apos;s training techniques have been passed down to all of his students. Some learn better than others and see the greater pattern present within each of his smaller teachings. Each of these minor lessons builds on the others, teaching a student to focus his mind and learn from his surroundings constantly. The lesson of perception may be Master Li&apos;s greatest goal.</string>
+  <string id="117233">Chi +10
+Literary: Earned from your studies of the tomes in the Lotus Assassin Fortress.
+
+Death&apos;s Hand&apos;s training is incessant and brutal. It admits no failure, and no one who fails will survive it. But at its core, its aim is to improve the student. His methods may be inhuman, but for those who can survive, twisted enlightenment awaits.</string>
+  <string id="117234">Chi +10
+
+You have known Dawn Star for as long as you can remember, and what started as friendship has become much more. Her trust in you is absolute, and you draw strength from her quiet support.</string>
+  <string id="117235">Health +10
+
+Whether known as Princess Lian or Silk Fox, the first daughter of the Jade Empire has remained constant in her desire to stand by you. That support makes it easier to carry on through adversity.</string>
+  <string id="117236">[TEMP] romance_bothgirls desc
+
+Health +5
+Chi +5</string>
+  <string id="117237">Focus +10
+
+Sky&apos;s life seems peppered with loss, but you have helped him find both peace and a purpose. He is fiercely dedicated to you, and his support will make the tasks ahead of you more bearable.</string>
+  <string id="117238">Health +7
+Intimidation +1
+
+Your study of carefully kept notes penned by Kai Lan the Serpent has led you to an understanding of his techniques. His notes outline a series of postures and forms designed to make the user tougher and more intimidating. These postures likely explain his success in seizing control of the Imperial Arena.</string>
+  <string id="117239">Focus +7
+Intuition +1
+
+Mad Wen Zhi learned much in his quest to save his daughter. While his medical knowledge may not be directly applicable, the genius that went into his researches has not been lost on you. By examination of his methods, you can better tailor your own, giving your mind much greater Focus.</string>
+  <string id="117240">Health +5
+Chi +5
+
+Played by skilled hands, the Zither of Discord can attune the chaos in a person&apos;s soul, making one stronger and better able to walk the Way of the Closed Fist. Every so often you catch a hint of music carried on the breeze to remind you of this ancient artifact.</string>
+  <string id="117241">Health +5
+Focus +5
+
+The Alloyed Body is Smiling Mountain&apos;s ultimate series of exercises, designed to offset some of the weaknesses the corpulent trainer saw in the exercises he developed earlier in his career. Practicing these holistic exercises strengthens both health and focus.</string>
+  <string id="117242">Health +2
+Focus +2
+
+A masterful hunter, the lion must always be aware of the totality of its domain and be ready to protect it. You feel a kinship with the mighty predator after solving the riddle left by the old master of Two Rivers.</string>
+  <string id="117243">Health +7
+Chi +7
+
+These techniques of the ancient Spirit Monks teach how to strengthen the spirit, and through it, the body. By controlling the flow of chi through one&apos;s body, one can refine his control of chi and use it to harden one&apos;s body against attacks.</string>
+  <string id="117244">Focus +7
+Chi +7
+
+These techniques of the ancient Spirit Monks teach how to enhance the mind by focusing one&apos;s chi. By focusing on the ebb and flow of one&apos;s chi, one can strengthen one&apos;s mind and gain greater mastery over one&apos;s chi.</string>
+  <string id="117245">Damage Increase
+
+After correctly configuring the furnace, you have learned the Strength of the Bull technique. With the power of the mighty bull behind you, your martial attacks will inflict more harm on your opponents.</string>
+  <string id="117246">Increased Magical Damage
+
+After selecting an appropriate configuration in Lord Lao&apos;s furnace, you have learned the Spirit of the Master technique. With the help of the master&apos;s spirit, you find that your magical attacks are far more effective. </string>
+  <string id="117247">Focus +30
+
+A successful configuration of Lord Lao&apos;s Furnace has taught you to enter a state the legends call &quot;the quieted mind.&quot; This meditative combat technique provides incredible focus.</string>
+  <string id="117248">Body +5
+
+The correct configuration in Lord Lao&apos;s Furnace produced the Mountain Within. This technique provides an increase to your Body.</string>
+  <string id="117249">Mind +5
+
+Lord Lao&apos;s Furnace generated Calm as the Morning Breeze when a correct configuration was used. This technique provides a +5 increase to Mind.</string>
+  <string id="117250">Spirit +5
+
+A proper configuration of Lord Lao&apos;s Furnace has created the Song of the Spirit. This technique provides an increase to Spirit.</string>
+  <string id="117251">Body +3
+Mind +3
+Spirit +3
+
+Using the uncut ruby and the correct configuration in Lord Lao&apos;s Furnace has generated Harmony and Balance. This technique provides an increase to Body, Mind, and Spirit.</string>
+  <string id="117252">Focus +2
+Charm +1
+
+A sharp wit and mind are key to winning the hearts of people. Too many believe that looks and strength alone rule the day, and they neglect to realize that a mind will always triumph. One&apos;s wit and skill must strike like a snake, taking the opponent by surprise.</string>
+  <string id="117253">Health +3
+Intimidation +1
+
+Intense training can result in more than a healthy physique. With an understanding of the body&apos;s subtleties, one also realizes that slight shifts of weight and changes of stance can give one&apos;s arguments more force.</string>
+  <string id="117254">Chi +5
+Intuition +1
+
+Life is made of many details, many facets of being. A person in tune with his surrounding may feel the subtle vibrations each thing makes as its fate passes nearby. By being attentive to these influences, one can not only become closer to one&apos;s own fate but may begin to see glimpses of others&apos; as well.</string>
+  <string id="117255">Health +5
+Chi +5
+
+The dragon is a creature of mystery and power. It is among the most powerful of all symbols. Strong in both body and spirit, it is a relentless, irresistible force. Followers of this path are overwhelming in both body and spirit.</string>
+  <string id="117256">Focus +5
+Chi +5
+
+The snake is a creature of cunning and intelligence. It is not large or powerful as the others are, but when it strikes, it is no less deadly. The way of the snake is the way of inner power. Followers strengthen their minds, wits, and the inner power of their spirit.</string>
+  <string id="117257">Health +5
+Focus +5
+
+The tiger relies on strength and speed. It is a symbol of passion and power. In the tiger lies the utmost physical ability of an individual. By dedicating yourself to the tiger, you strengthen your body along with your mind.</string>
+  <string id="117258">Focus +7
+Intuition +1
+
+The inner eye, the eye within the mind, sees much. There is nothing that cannot be understood by a clear mind and a pure spirit. Warriors of this path seek to rid themselves of all distraction, focus on their arts, and perfect the clarity of their mind.</string>
+  <string id="117259">Chi +7
+Charm +1
+
+The spirit knows no bounds. One who is great in spirit is destined to achieve great things. One who knows his own spirit and uses it accordingly can often shape the world around him to his desires. Warriors of this path seek to become one with their spirit, choosing their own destinies.</string>
+  <string id="117260">Health +7
+
+The body is the final arbiter of any choice. Our destinies are made in this world that our destinies are made, and warriors of this path seek to strengthen their bodies by any means. Through courage and strength, they seek their place as set out by heaven.</string>
+  <string id="117261">Chi +10
+
+This meditative technique was once the exclusive possession of the Spirit Monk order. They taught their monks its secret, giving them uncompromising power over spirits and lesser creatures through their arts. This meditation, performed daily, focuses the spirit and unlocks hidden potential within an individual.</string>
+  <string id="117262">Focus +5
+Chi +5
+
+The Rote is a method of cleansing the mind and body, focusing the power of the inner self through your thoughts and actions. One who practices this technique frequently gains inner strength and clarity of purpose.</string>
+  <string id="117269" soundid="177405">Pilgrim&apos;s Rest Inn</string>
+  <string id="117270" soundid="177406">Temple of the Forest Shadow</string>
+  <string id="117271" soundid="177407">Road to Tien&apos;s Landing</string>
+  <string id="117274">Sign</string>
+  <string id="117344">
+
+
+
+
+
+
+
+
+
+Safety Information About Photosensitive Seizures
+
+A very small percentage of people may experience a seizure when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people who have no history of seizures or epilepsy may have an undiagnosed condition that can cause these &quot;photosensitive epileptic seizures&quot; while watching video games. These seizures may have a variety of symptoms, including lightheadedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, or momentary loss of awareness. Seizures may also cause loss of consciousness or convulsions that can lead to injury from falling down or striking nearby objects. Immediately stop playing and consult a doctor if you experience any of these symptoms. Parents should watch for or ask their children about the above symptoms-children and teenagers are more likely than adults to experience these seizures.
+
+The risk of photosensitive epileptic seizures may be reduced by sitting farther from the television screen, using a smaller television screen, playing in a well-lit room, and not playing when you are drowsy or fatigued.
+
+If you or any of your relatives have a history of seizures or epilepsy, consult a doctor before playing.
+
+Other Important Health and Safety Information   The Xbox Instruction Manual contains important health and safety information that you should read and understand before using this software.
+</string>
+</tlk>

@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "tlk2xml": "./_tools/xoreos-tools-0.0.6-linux64/tlk2xml --utf8 ./dialog.tlk ./dialog.xml",
+    "xml2tlk": "./_tools/xoreos-tools-0.0.6-linux64/xml2tlk --jade ./dialog.xml ./dialog.tlk"
+  },
+  "dependencies": {
+    "xml2json": "^0.12.0"
+  }
+}

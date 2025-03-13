@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tlk language="0">
+  <string id="43704">**TEMP** Level up description for Monkey Paw Level 4 Choice 3</string>
+  <string id="43705">**TEMP** Level up description for Monkey Paw Level 5 Choice 1</string>
+  <string id="43706">**TEMP** Level up description for Monkey Paw Level 5 Choice 2</string>
+  <string id="43707">**TEMP** Level up description for Monkey Paw Level 5 Choice 3</string>
+  <string id="43708">**TEMP** Level up description for Monkey Paw Level 6 Choice 1</string>
+  <string id="43709">**TEMP** Level up description for Monkey Paw Level 6 Choice 2</string>
+  <string id="43710">**TEMP** Level up description for Monkey Paw Level 6 Choice 3</string>
+  <string id="43711">**TEMP** Level up description for Monkey Paw Level 7 Choice 1</string>
+  <string id="43712">**TEMP** Level up description for Monkey Paw Level 7 Choice 2</string>
+  <string id="43754" soundid="134949"></string>
+  <string id="43755" soundid="52539"></string>
+  <string id="43756">Realizing they had both made mistakes, Younger Tanner Fong has taken his father back into their household once more. They seem to have resolved their differences for the time being, and there should be no more problems from them. Return to Shen and tell him that the situation has been resolved.</string>
+  <string id="43758">Killed Dad</string>
+  <string id="43759" soundid="150092">If we&apos;re going to do this, I might as well get out of these robes.</string>
+  <string id="43760">Ogre</string>
+  <string id="43767" soundid="140288">[The fountain is dead and lifeless.]</string>
+  <string id="43769" soundid="144625">My name is Shen. I&apos;m the First Gravedigger here. It&apos;s my job to look over the Necropolis and make sure all the, eh-heh, peaceful souls are laid to rest.</string>
+  <string id="43771" soundid="144626">If you need a little something to give you an extra edge, I&apos;m sure I can part with some trinkets I&apos;ve... found. I mean, it&apos;s not like they&apos;ll need them anymore. Eh-heheh.</string>
+  <string id="43773">Tell me about the Necropolis.</string>
+  <string id="43780">Dirge - Inner Courtyard</string>
+  <string id="43781">Could not create a new campaign.</string>
+  <string id="43788">See Dawn Star</string>
+  <string id="43789">Find Dawn Star and ask her to call all students to the tournament</string>
+  <string id="43791">See Smith</string>
+  <string id="43792">Deliver the letter from Master Li to the smith</string>
+  <string id="43794">Return to Master Li</string>
+  <string id="43795">Return to Master Li</string>
+  <string id="43800">Let&apos;s talk some more about Black Whirlwind&apos;s history here.</string>
+  <string id="43801">Be sure to check your inventory after combat. You can gain important items at the moment of victory.</string>
+  <string id="43817" soundid="109448">He has taken our master, killed our friends. What if assaulting the Water Dragon is true, too? He must be stopped.</string>
+  <string id="43818">Unlocked</string>
+  <string id="43819" soundid="109450">I do not mean to diminish his sacrifice, but the concerns of the living take precedence. Too much is at stake.</string>
+  <string id="43820" soundid="109451">When this is over, I swear that he shall have a grand funeral. Death&apos;s Hand will be in the grave next to him. And my father... my father will answer all our questions.</string>
+  <string id="43823" soundid="109452">You could also seek out the Inquisitor and gain his recommendation as well, but the path to the Lotus Assassin fortress is ready for you now.</string>
+  <string id="43824" soundid="109453">And after we find the evidence against Death&apos;s Hand, you will take us to the palace to find Master Li?</string>
+  <string id="43825" soundid="109454">I promise, little Dawn Star. After we get what I want from the Lotus Assassins, the palace is the first place we will go.</string>
+  <string id="43826" soundid="109455">You have permission, so there won&apos;t be any trouble entering. It&apos;s only after we have the evidence against Death&apos;s Hand that they might notice something is wrong.</string>
+  <string id="43827" soundid="105680">I am so glad you and Master Li arrived when you did. My father ran to the school gate to find students to help. Did he make it?</string>
+  <string id="43828" soundid="105681">That is a great relief. We tried our best, but without you and Master Li, we would have died. Thank you.</string>
+  <string id="43829" soundid="105682">Perhaps we lack the skill of you and your master, but we tried our best. Thank you for your effort, even if your manner is rude.</string>
+  <string id="43830" soundid="126724">As you wish. Is there anything else you need?</string>
+  <string id="43831" soundid="126725">I&apos;m Chumin the Craftsman. Nobody important, just a simple merchant of fine woodwork items. A merchant who may not be in business much longer, I&apos;m afraid.</string>
+  <string id="43832" soundid="105685">I tried my best, but they were too strong. What kind of creature was this sorcerer?</string>
+  <string id="43833" soundid="105686">Master Li has trained you well, but did he expect enemies like this?</string>
+  <string id="43834" soundid="105687">It would have been much worse if you weren&apos;t here. What were they looking for?</string>
+  <string id="43835" soundid="105688">I wish we could have saved everyone. Why would that sorcerer attack us like this?</string>
+  <string id="43836" soundid="142019"></string>
+  <string id="43837">He is safe. There is no more reason to be concerned.</string>
+  <string id="43847">Student</string>
+  <string id="43853">Gao&apos;s Mercenary</string>
+  <string id="43861">Gao&apos;s Mercenary</string>
+  <string id="43868" soundid="190651"></string>
+  <string id="43890">Yushan&apos;s Head</string>
+  <string id="43891">Control Room Lever</string>
+  <string id="43892">Cameo Portrait</string>
+  <string id="43893">A key conspicuously placed into your pack by Minister Sheng. A gate that keeps people out of the ruins of the old Tien&apos;s Landing stands west of town, and this key should open it.</string>
+  <string id="43894">All that remains of Kindly Yushan. His face now in rigor, it will forever reflect the terror that Yushan felt when he died at your hands.</string>
+  <string id="43895">Control Room Lever Description</string>
+  <string id="43896">A small portrait of a beautiful young woman, carved into a gemstone in layers of contrasting colors. An inscription on the back reads, &quot;To my beloved husband, Wei. Yours forever.&quot;</string>
+  <string id="43903">Gao&apos;s Mercenary</string>
+  <string id="43908">Set Primary Ability scores.</string>
+  <string id="43911">Set character starting style</string>
+  <string id="43912">Set character name</string>
+  <string id="43921">The Arena Tavern</string>
+  <string id="43923">Creature Pens</string>
+  <string id="43994">**TEMP** Level up description for  Legendary Fist Level 1 Choice 1</string>
+  <string id="43995">**TEMP** Level up description for  Legendary Fist Level 1 Choice 2</string>
+  <string id="43996">**TEMP** Level up description for  Legendary Fist Level 1 Choice 3</string>
+  <string id="43997">**TEMP** Level up description for  Legendary Fist Level 2 Choice 1</string>
+  <string id="43998">**TEMP** Level up description for  Legendary Fist Level 2 Choice 2</string>
+  <string id="43999">**TEMP** Level up description for  Legendary Fist Level 2 Choice 3</string>
+  <string id="44000">**TEMP** Level up description for  Legendary Fist Level 3 Choice 1</string>
+  <string id="44001">**TEMP** Level up description for  Legendary Fist Level 3 Choice 2</string>
+  <string id="44002">**TEMP** Level up description for  Legendary Fist Level 3 Choice 3</string>
+  <string id="44003">**TEMP** Level up description for  Legendary Fist Level 4 Choice 1</string>
+  <string id="44004">**TEMP** Level up description for  Legendary Fist Level 4 Choice 2</string>
+  <string id="44005">**TEMP** Level up description for  Legendary Fist Level 4 Choice 3</string>
+  <string id="44006">**TEMP** Level up description for  Legendary Fist Level 5 Choice 1</string>
+  <string id="44007">**TEMP** Level up description for  Legendary Fist Level 5 Choice 2</string>
+  <string id="44008">**TEMP** Level up description for  Legendary Fist Level 5 Choice 3</string>
+  <string id="44009">**TEMP** Level up description for  Legendary Fist Level 6 Choice 1</string>
+  <string id="44010">**TEMP** Level up description for  Legendary Fist Level 6 Choice 2</string>
+  <string id="44011">**TEMP** Level up description for  Legendary Fist Level 6 Choice 3</string>
+  <string id="44012">**TEMP** Level up description for  Legendary Fist Level 7 Choice 1</string>
+  <string id="44013">**TEMP** Level up description for  Legendary Fist Level 7 Choice 2</string>
+  <string id="44014">**TEMP** Level up description for  Legendary Fist Level 7 Choice 3</string>
+  <string id="44015">**TEMP** Level up description for  Legendary Fist Level 8 Choice 1</string>
+  <string id="44016">**TEMP** Level up description for  Legendary Fist Level 8 Choice 2</string>
+  <string id="44017">**TEMP** Level up description for  Legendary Fist Level 8 Choice 3</string>
+  <string id="44018">**TEMP** Level up description for  Legendary Fist Level 9 Choice 1</string>
+  <string id="44019">**TEMP** Level up description for  Legendary Fist Level 9 Choice 2</string>
+  <string id="44020">**TEMP** Level up description for  Legendary Fist Level 9 Choice 3</string>
+  <string id="44021">**TEMP** Level up description for  Legendary Fist Level 10 Choice 1</string>
+  <string id="44022">**TEMP** Level up description for  Legendary Fist Level 10 Choice 2</string>
+  <string id="44023">**TEMP** Level up description for  Legendary Fist Level 10 Choice 3</string>
+  <string id="44024">**TEMP** Level up description for  Paralyzing Palm Level 1 Choice 1</string>
+  <string id="44025">**TEMP** Level up description for  Paralyzing Palm Level 1 Choice 2</string>
+  <string id="44026">**TEMP** Level up description for  Paralyzing Palm Level 1 Choice 3</string>
+  <string id="44027">**TEMP** Level up description for  Paralyzing Palm Level 2 Choice 1</string>
+  <string id="44028">**TEMP** Level up description for  Paralyzing Palm Level 2 Choice 2</string>
+  <string id="44029">**TEMP** Level up description for  Paralyzing Palm Level 2 Choice 3</string>
+  <string id="44030">**TEMP** Level up description for  Paralyzing Palm Level 3 Choice 1</string>
+  <string id="44031">**TEMP** Level up description for  Paralyzing Palm Level 3 Choice 2</string>
+  <string id="44032">**TEMP** Level up description for  Paralyzing Palm Level 3 Choice 3</string>
+  <string id="44033">**TEMP** Level up description for  Paralyzing Palm Level 4 Choice 1</string>
+  <string id="44034">**TEMP** Level up description for  Paralyzing Palm Level 4 Choice 2</string>
+  <string id="44035">**TEMP** Level up description for  Paralyzing Palm Level 4 Choice 3</string>
+  <string id="44036">**TEMP** Level up description for  Paralyzing Palm Level 5 Choice 1</string>
+  <string id="44037">**TEMP** Level up description for  Paralyzing Palm Level 5 Choice 2</string>
+  <string id="44038">**TEMP** Level up description for  Paralyzing Palm Level 5 Choice 3</string>
+  <string id="44039">**TEMP** Level up description for  Paralyzing Palm Level 6 Choice 1</string>
+  <string id="44040">**TEMP** Level up description for  Paralyzing Palm Level 6 Choice 2</string>
+  <string id="44041">**TEMP** Level up description for  Paralyzing Palm Level 6 Choice 3</string>
+  <string id="44042">**TEMP** Level up description for  Paralyzing Palm Level 7 Choice 1</string>
+  <string id="44043">**TEMP** Level up description for  Paralyzing Palm Level 7 Choice 2</string>
+  <string id="44044">**TEMP** Level up description for  Paralyzing Palm Level 7 Choice 3</string>
+  <string id="44045">**TEMP** Level up description for  Paralyzing Palm Level 8 Choice 1</string>
+  <string id="44046">**TEMP** Level up description for  Paralyzing Palm Level 8 Choice 2</string>
+  <string id="44047">**TEMP** Level up description for  Paralyzing Palm Level 8 Choice 3</string>
+  <string id="44048">**TEMP** Level up description for  Paralyzing Palm Level 9 Choice 1</string>
+  <string id="44049">**TEMP** Level up description for  Paralyzing Palm Level 9 Choice 2</string>
+  <string id="44050">**TEMP** Level up description for  Paralyzing Palm Level 9 Choice 3</string>
+  <string id="44051">**TEMP** Level up description for  Paralyzing Palm Level 10 Choice 1</string>
+  <string id="44052">**TEMP** Level up description for  Paralyzing Palm Level 10 Choice 2</string>
+  <string id="44053">**TEMP** Level up description for  Paralyzing Palm Level 10 Choice 3</string>
+  <string id="44054">**TEMP** Level up description for  Hidden Fist Level 1 Choice 1</string>
+  <string id="44055">**TEMP** Level up description for  Hidden Fist Level 1 Choice 2</string>
+  <string id="44056">**TEMP** Level up description for  Hidden Fist Level 1 Choice 3</string>
+  <string id="44057">**TEMP** Level up description for  Hidden Fist Level 2 Choice 1</string>
+  <string id="44058">**TEMP** Level up description for  Hidden Fist Level 2 Choice 2</string>
+  <string id="44059">**TEMP** Level up description for  Hidden Fist Level 2 Choice 3</string>
+  <string id="44060">**TEMP** Level up description for  Hidden Fist Level 3 Choice 1</string>
+  <string id="44061">**TEMP** Level up description for  Hidden Fist Level 3 Choice 2</string>
+  <string id="44062">**TEMP** Level up description for  Hidden Fist Level 3 Choice 3</string>
+  <string id="44063">**TEMP** Level up description for  Hidden Fist Level 4 Choice 1</string>
+  <string id="44064">**TEMP** Level up description for  Hidden Fist Level 4 Choice 2</string>
+  <string id="44065">**TEMP** Level up description for  Hidden Fist Level 4 Choice 3</string>
+  <string id="44066">**TEMP** Level up description for  Hidden Fist Level 5 Choice 1</string>
+  <string id="44067">**TEMP** Level up description for  Hidden Fist Level 5 Choice 2</string>
+  <string id="44068">**TEMP** Level up description for  Hidden Fist Level 5 Choice 3</string>
+  <string id="44069">**TEMP** Level up description for  Hidden Fist Level 6 Choice 1</string>
+  <string id="44070">**TEMP** Level up description for  Hidden Fist Level 6 Choice 2</string>
+  <string id="44071">**TEMP** Level up description for  Hidden Fist Level 6 Choice 3</string>
+  <string id="44072">**TEMP** Level up description for  Hidden Fist Level 7 Choice 1</string>
+  <string id="44073">**TEMP** Level up description for  Hidden Fist Level 7 Choice 2</string>
+  <string id="44074">**TEMP** Level up description for  Hidden Fist Level 7 Choice 3</string>
+  <string id="44075">**TEMP** Level up description for  Hidden Fist Level 8 Choice 1</string>
+  <string id="44076">**TEMP** Level up description for  Hidden Fist Level 8 Choice 2</string>
+  <string id="44077">**TEMP** Level up description for  Hidden Fist Level 8 Choice 3</string>
+  <string id="44078">**TEMP** Level up description for  Hidden Fist Level 9 Choice 1</string>
+  <string id="44079">**TEMP** Level up description for  Hidden Fist Level 9 Choice 2</string>
+  <string id="44080">**TEMP** Level up description for  Hidden Fist Level 9 Choice 3</string>
+  <string id="44081">**TEMP** Level up description for  Hidden Fist Level 10 Choice 1</string>
+  <string id="44082">**TEMP** Level up description for  Hidden Fist Level 10 Choice 2</string>
+  <string id="44083">**TEMP** Level up description for  Hidden Fist Level 10 Choice 3</string>
+  <string id="44084">**TEMP** Level up description for  Spirit Thief Level 1 Choice 1</string>
+  <string id="44085">**TEMP** Level up description for  Spirit Thief Level 1 Choice 2</string>
+  <string id="44086">**TEMP** Level up description for  Spirit Thief Level 1 Choice 3</string>
+  <string id="44087">**TEMP** Level up description for  Spirit Thief Level 2 Choice 1</string>
+  <string id="44088">**TEMP** Level up description for  Spirit Thief Level 2 Choice 2</string>
+  <string id="44089">**TEMP** Level up description for  Spirit Thief Level 2 Choice 3</string>
+  <string id="44090">**TEMP** Level up description for  Spirit Thief Level 3 Choice 1</string>
+  <string id="44091">**TEMP** Level up description for  Spirit Thief Level 3 Choice 2</string>
+  <string id="44092">**TEMP** Level up description for  Spirit Thief Level 3 Choice 3</string>
+  <string id="44093">**TEMP** Level up description for  Spirit Thief Level 4 Choice 1</string>
+  <string id="44094">**TEMP** Level up description for  Spirit Thief Level 4 Choice 2</string>
+  <string id="44095">**TEMP** Level up description for  Spirit Thief Level 4 Choice 3</string>
+  <string id="44096">**TEMP** Level up description for  Spirit Thief Level 5 Choice 1</string>
+  <string id="44097">**TEMP** Level up description for  Spirit Thief Level 5 Choice 2</string>
+  <string id="44098">**TEMP** Level up description for  Spirit Thief Level 5 Choice 3</string>
+  <string id="44099">**TEMP** Level up description for  Spirit Thief Level 6 Choice 1</string>
+  <string id="44100">**TEMP** Level up description for  Spirit Thief Level 6 Choice 2</string>
+  <string id="44101">**TEMP** Level up description for  Spirit Thief Level 6 Choice 3</string>
+  <string id="44102">**TEMP** Level up description for  Spirit Thief Level 7 Choice 1</string>
+  <string id="44103">**TEMP** Level up description for  Spirit Thief Level 7 Choice 2</string>
+  <string id="44104">**TEMP** Level up description for  Spirit Thief Level 7 Choice 3</string>
+  <string id="44105">**TEMP** Level up description for  Spirit Thief Level 8 Choice 1</string>
+  <string id="44106">**TEMP** Level up description for  Spirit Thief Level 8 Choice 2</string>
+  <string id="44107">**TEMP** Level up description for  Spirit Thief Level 8 Choice 3</string>
+  <string id="44108">**TEMP** Level up description for  Spirit Thief Level 9 Choice 1</string>
+  <string id="44109">**TEMP** Level up description for  Spirit Thief Level 9 Choice 2</string>
+  <string id="44110">**TEMP** Level up description for  Spirit Thief Level 9 Choice 3</string>
+  <string id="44111">**TEMP** Level up description for  Spirit Thief Level 10 Choice 1</string>
+  <string id="44112">**TEMP** Level up description for  Spirit Thief Level 10 Choice 2</string>
+  <string id="44113">**TEMP** Level up description for  Spirit Thief Level 10 Choice 3</string>
+  <string id="44114">**TEMP** Level up description for  Heavenly Wave Level 1 Choice 1</string>
+  <string id="44115">**TEMP** Level up description for  Heavenly Wave Level 1 Choice 2</string>
+  <string id="44116">**TEMP** Level up description for  Heavenly Wave Level 1 Choice 3</string>
+  <string id="44117">**TEMP** Level up description for  Heavenly Wave Level 2 Choice 1</string>
+  <string id="44118">**TEMP** Level up description for  Heavenly Wave Level 2 Choice 2</string>
+  <string id="44119">**TEMP** Level up description for  Heavenly Wave Level 2 Choice 3</string>
+  <string id="44120">**TEMP** Level up description for  Heavenly Wave Level 3 Choice 1</string>
+  <string id="44121">**TEMP** Level up description for  Heavenly Wave Level 3 Choice 2</string>
+  <string id="44122">**TEMP** Level up description for  Heavenly Wave Level 3 Choice 3</string>
+  <string id="44123">**TEMP** Level up description for  Heavenly Wave Level 4 Choice 1</string>
+  <string id="44124">**TEMP** Level up description for  Heavenly Wave Level 4 Choice 2</string>
+  <string id="44125">**TEMP** Level up description for  Heavenly Wave Level 4 Choice 3</string>
+  <string id="44126">**TEMP** Level up description for  Heavenly Wave Level 5 Choice 1</string>
+  <string id="44127">**TEMP** Level up description for  Heavenly Wave Level 5 Choice 2</string>
+  <string id="44128">**TEMP** Level up description for  Heavenly Wave Level 5 Choice 3</string>
+  <string id="44129">**TEMP** Level up description for  Heavenly Wave Level 6 Choice 1</string>
+  <string id="44130">**TEMP** Level up description for  Heavenly Wave Level 6 Choice 2</string>
+  <string id="44131">**TEMP** Level up description for  Heavenly Wave Level 6 Choice 3</string>
+  <string id="44132">**TEMP** Level up description for  Heavenly Wave Level 7 Choice 1</string>
+  <string id="44133">**TEMP** Level up description for  Heavenly Wave Level 7 Choice 2</string>
+  <string id="44134">**TEMP** Level up description for  Heavenly Wave Level 7 Choice 3</string>
+  <string id="44135">**TEMP** Level up description for  Heavenly Wave Level 8 Choice 1</string>
+  <string id="44136">**TEMP** Level up description for  Heavenly Wave Level 8 Choice 2</string>
+  <string id="44137">**TEMP** Level up description for  Heavenly Wave Level 8 Choice 3</string>
+  <string id="44138">**TEMP** Level up description for  Heavenly Wave Level 9 Choice 1</string>
+  <string id="44139">**TEMP** Level up description for  Heavenly Wave Level 9 Choice 2</string>
+  <string id="44140">**TEMP** Level up description for  Heavenly Wave Level 9 Choice 3</string>
+  <string id="44141">**TEMP** Level up description for  Heavenly Wave Level 10 Choice 1</string>
+  <string id="44142">**TEMP** Level up description for  Heavenly Wave Level 10 Choice 2</string>
+  <string id="44143">**TEMP** Level up description for  Heavenly Wave Level 10 Choice 3</string>
+  <string id="44144">**TEMP** Level up description for  Storm Dragon Level 1 Choice 1</string>
+  <string id="44145">**TEMP** Level up description for  Storm Dragon Level 1 Choice 2</string>
+  <string id="44146">**TEMP** Level up description for  Storm Dragon Level 1 Choice 3</string>
+  <string id="44147">**TEMP** Level up description for  Storm Dragon Level 2 Choice 1</string>
+  <string id="44148">**TEMP** Level up description for  Storm Dragon Level 2 Choice 2</string>
+  <string id="44149">**TEMP** Level up description for  Storm Dragon Level 2 Choice 3</string>
+  <string id="44150">**TEMP** Level up description for  Storm Dragon Level 3 Choice 1</string>
+  <string id="44151">**TEMP** Level up description for  Storm Dragon Level 3 Choice 2</string>
+  <string id="44152">**TEMP** Level up description for  Storm Dragon Level 3 Choice 3</string>
+  <string id="44153">**TEMP** Level up description for  Storm Dragon Level 4 Choice 1</string>
+  <string id="44154">**TEMP** Level up description for  Storm Dragon Level 4 Choice 2</string>
+  <string id="44155">**TEMP** Level up description for  Storm Dragon Level 4 Choice 3</string>
+  <string id="44156">**TEMP** Level up description for  Storm Dragon Level 5 Choice 1</string>
+  <string id="44157">**TEMP** Level up description for  Storm Dragon Level 5 Choice 2</string>
+  <string id="44158">**TEMP** Level up description for  Storm Dragon Level 5 Choice 3</string>
+  <string id="44159">**TEMP** Level up description for  Storm Dragon Level 6 Choice 1</string>
+  <string id="44160">**TEMP** Level up description for  Storm Dragon Level 6 Choice 2</string>
+  <string id="44161">**TEMP** Level up description for  Storm Dragon Level 6 Choice 3</string>
+  <string id="44162">**TEMP** Level up description for  Storm Dragon Level 7 Choice 1</string>
+  <string id="44163">**TEMP** Level up description for  Storm Dragon Level 7 Choice 2</string>
+  <string id="44164">**TEMP** Level up description for  Storm Dragon Level 7 Choice 3</string>
+  <string id="44165">**TEMP** Level up description for  Storm Dragon Level 8 Choice 1</string>
+  <string id="44166">**TEMP** Level up description for  Storm Dragon Level 8 Choice 2</string>
+  <string id="44167">**TEMP** Level up description for  Storm Dragon Level 8 Choice 3</string>
+  <string id="44168">**TEMP** Level up description for  Storm Dragon Level 9 Choice 1</string>
+  <string id="44169">**TEMP** Level up description for  Storm Dragon Level 9 Choice 2</string>
+  <string id="44170">**TEMP** Level up description for  Storm Dragon Level 9 Choice 3</string>
+  <string id="44171">**TEMP** Level up description for  Storm Dragon Level 10 Choice 1</string>
+  <string id="44172">**TEMP** Level up description for  Storm Dragon Level 10 Choice 2</string>
+  <string id="44173">**TEMP** Level up description for  Storm Dragon Level 10 Choice 3</string>
+  <string id="44174">**TEMP** Level up description for  Divine Void Level 1 Choice 1</string>
+  <string id="44175">**TEMP** Level up description for  Divine Void Level 1 Choice 2</string>
+  <string id="44176">**TEMP** Level up description for  Divine Void Level 1 Choice 3</string>
+  <string id="44177">**TEMP** Level up description for  Divine Void Level 2 Choice 1</string>
+  <string id="44178">**TEMP** Level up description for  Divine Void Level 2 Choice 2</string>
+  <string id="44179">**TEMP** Level up description for  Divine Void Level 2 Choice 3</string>
+  <string id="44180">**TEMP** Level up description for  Divine Void Level 3 Choice 1</string>
+  <string id="44181">**TEMP** Level up description for  Divine Void Level 3 Choice 2</string>
+  <string id="44182">**TEMP** Level up description for  Divine Void Level 3 Choice 3</string>
+  <string id="44183">**TEMP** Level up description for  Divine Void Level 4 Choice 1</string>
+  <string id="44184">**TEMP** Level up description for  Divine Void Level 4 Choice 2</string>
+  <string id="44185">**TEMP** Level up description for  Divine Void Level 4 Choice 3</string>
+  <string id="44186">**TEMP** Level up description for  Divine Void Level 5 Choice 1</string>
+  <string id="44187">**TEMP** Level up description for  Divine Void Level 5 Choice 2</string>
+  <string id="44188">**TEMP** Level up description for  Divine Void Level 5 Choice 3</string>
+  <string id="44189">**TEMP** Level up description for  Divine Void Level 6 Choice 1</string>
+  <string id="44190">**TEMP** Level up description for  Divine Void Level 6 Choice 2</string>
+  <string id="44191">**TEMP** Level up description for  Divine Void Level 6 Choice 3</string>
+  <string id="44192">**TEMP** Level up description for  Divine Void Level 7 Choice 1</string>
+  <string id="44193">**TEMP** Level up description for  Divine Void Level 7 Choice 2</string>
+  <string id="44194">**TEMP** Level up description for  Divine Void Level 7 Choice 3</string>
+  <string id="44195">**TEMP** Level up description for  Divine Void Level 8 Choice 1</string>
+  <string id="44196">**TEMP** Level up description for  Divine Void Level 8 Choice 2</string>
+  <string id="44197">**TEMP** Level up description for  Divine Void Level 8 Choice 3</string>
+  <string id="44198">**TEMP** Level up description for  Divine Void Level 9 Choice 1</string>
+  <string id="44199">**TEMP** Level up description for  Divine Void Level 9 Choice 2</string>
+  <string id="44200">**TEMP** Level up description for  Divine Void Level 9 Choice 3</string>
+  <string id="44201">**TEMP** Level up description for  Divine Void Level 10 Choice 1</string>
+  <string id="44202">**TEMP** Level up description for  Divine Void Level 10 Choice 2</string>
+  <string id="44203">**TEMP** Level up description for  Divine Void Level 10 Choice 3</string>
+  <string id="44204">**TEMP** Level up description for  Viper Level 1 Choice 1</string>
+  <string id="44205">**TEMP** Level up description for  Viper Level 1 Choice 2</string>
+  <string id="44206">**TEMP** Level up description for  Viper Level 1 Choice 3</string>
+  <string id="44207">**TEMP** Level up description for  Viper Level 2 Choice 1</string>
+  <string id="44208">**TEMP** Level up description for  Viper Level 2 Choice 2</string>
+  <string id="44209">**TEMP** Level up description for  Viper Level 2 Choice 3</string>
+  <string id="44210">**TEMP** Level up description for  Viper Level 3 Choice 1</string>
+  <string id="44211">**TEMP** Level up description for  Viper Level 3 Choice 2</string>
+  <string id="44212">**TEMP** Level up description for  Viper Level 3 Choice 3</string>
+  <string id="44213">**TEMP** Level up description for  Viper Level 4 Choice 1</string>
+  <string id="44214">**TEMP** Level up description for  Viper Level 4 Choice 2</string>
+  <string id="44215">**TEMP** Level up description for  Viper Level 4 Choice 3</string>
+  <string id="44216">**TEMP** Level up description for  Viper Level 5 Choice 1</string>
+  <string id="44217">**TEMP** Level up description for  Viper Level 5 Choice 2</string>
+  <string id="44218">**TEMP** Level up description for  Viper Level 5 Choice 3</string>
+  <string id="44219">**TEMP** Level up description for  Viper Level 6 Choice 1</string>
+  <string id="44220">**TEMP** Level up description for  Viper Level 6 Choice 2</string>
+  <string id="44221">**TEMP** Level up description for  Viper Level 6 Choice 3</string>
+  <string id="44222">**TEMP** Level up description for  Viper Level 7 Choice 1</string>
+  <string id="44223">**TEMP** Level up description for  Viper Level 7 Choice 2</string>
+  <string id="44224">**TEMP** Level up description for  Viper Level 7 Choice 3</string>
+  <string id="44225">**TEMP** Level up description for  Viper Level 8 Choice 1</string>
+  <string id="44226">**TEMP** Level up description for  Viper Level 8 Choice 2</string>
+  <string id="44227">**TEMP** Level up description for  Viper Level 8 Choice 3</string>
+  <string id="44228">**TEMP** Level up description for  Viper Level 9 Choice 1</string>
+  <string id="44229">**TEMP** Level up description for  Viper Level 9 Choice 2</string>
+  <string id="44230">**TEMP** Level up description for  Viper Level 9 Choice 3</string>
+  <string id="44231">**TEMP** Level up description for  Viper Level 10 Choice 1</string>
+  <string id="44232">**TEMP** Level up description for  Viper Level 10 Choice 2</string>
+  <string id="44233">**TEMP** Level up description for  Viper Level 10 Choice 3</string>
+  <string id="44234">**TEMP** Level up description for  Thousand Cuts Level 1 Choice 1</string>
+  <string id="44235">**TEMP** Level up description for  Thousand Cuts Level 1 Choice 2</string>
+  <string id="44236">**TEMP** Level up description for  Thousand Cuts Level 1 Choice 3</string>
+  <string id="44237">**TEMP** Level up description for  Thousand Cuts Level 2 Choice 1</string>
+  <string id="44238">**TEMP** Level up description for  Thousand Cuts Level 2 Choice 2</string>
+  <string id="44239">**TEMP** Level up description for  Thousand Cuts Level 2 Choice 3</string>
+  <string id="44240">**TEMP** Level up description for  Thousand Cuts Level 3 Choice 1</string>
+  <string id="44241">**TEMP** Level up description for  Thousand Cuts Level 3 Choice 2</string>
+  <string id="44242">**TEMP** Level up description for  Thousand Cuts Level 3 Choice 3</string>
+  <string id="44243">**TEMP** Level up description for  Thousand Cuts Level 4 Choice 1</string>
+  <string id="44244">**TEMP** Level up description for  Thousand Cuts Level 4 Choice 2</string>
+  <string id="44245">**TEMP** Level up description for  Thousand Cuts Level 4 Choice 3</string>
+  <string id="44246">**TEMP** Level up description for  Thousand Cuts Level 5 Choice 1</string>
+  <string id="44247">**TEMP** Level up description for  Thousand Cuts Level 5 Choice 2</string>
+  <string id="44248">**TEMP** Level up description for  Thousand Cuts Level 5 Choice 3</string>
+  <string id="44249">**TEMP** Level up description for  Thousand Cuts Level 6 Choice 1</string>
+  <string id="44250">**TEMP** Level up description for  Thousand Cuts Level 6 Choice 2</string>
+  <string id="44251">**TEMP** Level up description for  Thousand Cuts Level 6 Choice 3</string>
+  <string id="44252">**TEMP** Level up description for  Thousand Cuts Level 7 Choice 1</string>
+  <string id="44253">**TEMP** Level up description for  Thousand Cuts Level 7 Choice 2</string>
+  <string id="44254">**TEMP** Level up description for  Thousand Cuts Level 7 Choice 3</string>
+  <string id="44255">**TEMP** Level up description for  Thousand Cuts Level 8 Choice 1</string>
+  <string id="44256">**TEMP** Level up description for  Thousand Cuts Level 8 Choice 2</string>
+  <string id="44257">**TEMP** Level up description for  Thousand Cuts Level 8 Choice 3</string>
+  <string id="44258">**TEMP** Level up description for  Thousand Cuts Level 9 Choice 1</string>
+  <string id="44259">**TEMP** Level up description for  Thousand Cuts Level 9 Choice 2</string>
+  <string id="44260">**TEMP** Level up description for  Thousand Cuts Level 9 Choice 3</string>
+  <string id="44261">**TEMP** Level up description for  Thousand Cuts Level 10 Choice 1</string>
+  <string id="44262">**TEMP** Level up description for  Thousand Cuts Level 10 Choice 2</string>
+  <string id="44263">**TEMP** Level up description for  Thousand Cuts Level 10 Choice 3</string>
+  <string id="44264">**TEMP** Level up description for  Monkey Paw Level 1 Choice 1</string>
+  <string id="44265">**TEMP** Level up description for  Monkey Paw Level 1 Choice 2</string>
+  <string id="44266">**TEMP** Level up description for  Monkey Paw Level 1 Choice 3</string>
+  <string id="44267">**TEMP** Level up description for  Monkey Paw Level 2 Choice 1</string>
+  <string id="44268">**TEMP** Level up description for  Monkey Paw Level 2 Choice 2</string>
+  <string id="44269">**TEMP** Level up description for  Monkey Paw Level 2 Choice 3</string>
+  <string id="44270">**TEMP** Level up description for  Monkey Paw Level 3 Choice 1</string>
+  <string id="44271">**TEMP** Level up description for  Monkey Paw Level 3 Choice 2</string>
+  <string id="44272">**TEMP** Level up description for  Monkey Paw Level 3 Choice 3</string>
+  <string id="44273">**TEMP** Level up description for  Monkey Paw Level 4 Choice 1</string>
+  <string id="44274">**TEMP** Level up description for  Monkey Paw Level 4 Choice 2</string>
+  <string id="44275">**TEMP** Level up description for  Monkey Paw Level 4 Choice 3</string>
+  <string id="44276">**TEMP** Level up description for  Monkey Paw Level 5 Choice 1</string>
+  <string id="44277">**TEMP** Level up description for  Monkey Paw Level 5 Choice 2</string>
+  <string id="44278">**TEMP** Level up description for  Monkey Paw Level 5 Choice 3</string>
+  <string id="44279">**TEMP** Level up description for  Monkey Paw Level 6 Choice 1</string>
+  <string id="44280">**TEMP** Level up description for  Monkey Paw Level 6 Choice 2</string>
+  <string id="44281">**TEMP** Level up description for  Monkey Paw Level 6 Choice 3</string>
+  <string id="44282">**TEMP** Level up description for  Monkey Paw Level 7 Choice 1</string>
+  <string id="44283">**TEMP** Level up description for  Monkey Paw Level 7 Choice 2</string>
+  <string id="44284">**TEMP** Level up description for  Monkey Paw Level 7 Choice 3</string>
+  <string id="44285">**TEMP** Level up description for  Monkey Paw Level 8 Choice 1</string>
+  <string id="44286">**TEMP** Level up description for  Monkey Paw Level 8 Choice 2</string>
+  <string id="44287">**TEMP** Level up description for  Monkey Paw Level 8 Choice 3</string>
+  <string id="44288">**TEMP** Level up description for  Monkey Paw Level 9 Choice 1</string>
+  <string id="44289">**TEMP** Level up description for  Monkey Paw Level 9 Choice 2</string>
+  <string id="44290">**TEMP** Level up description for  Monkey Paw Level 9 Choice 3</string>
+  <string id="44291">**TEMP** Level up description for  Monkey Paw Level 10 Choice 1</string>
+  <string id="44292">**TEMP** Level up description for  Monkey Paw Level 10 Choice 2</string>
+  <string id="44293">**TEMP** Level up description for  Monkey Paw Level 10 Choice 3</string>
+  <string id="44294">**TEMP** Level up description for  Willow Level 1 Choice 2</string>
+  <string id="44295">**TEMP** Level up description for  Willow Level 1 Choice 3</string>
+  <string id="44296">**TEMP** Level up description for  Willow Level 2 Choice 1</string>
+  <string id="44297">**TEMP** Level up description for  Willow Level 2 Choice 2</string>
+  <string id="44298">**TEMP** Level up description for  Willow Level 2 Choice 3</string>
+  <string id="44299">**TEMP** Level up description for  Willow Level 3 Choice 1</string>
+  <string id="44300">**TEMP** Level up description for  Willow Level 3 Choice 2</string>
+  <string id="44301">**TEMP** Level up description for  Willow Level 3 Choice 3</string>
+  <string id="44302">**TEMP** Level up description for  Willow Level 4 Choice 1</string>
+  <string id="44303">**TEMP** Level up description for  Willow Level 4 Choice 2</string>
+  <string id="44304">**TEMP** Level up description for  Willow Level 4 Choice 3</string>
+  <string id="44305">**TEMP** Level up description for  Willow Level 5 Choice 1</string>
+  <string id="44306">**TEMP** Level up description for  Willow Level 5 Choice 2</string>
+  <string id="44307">**TEMP** Level up description for  Willow Level 5 Choice 3</string>
+  <string id="44308">**TEMP** Level up description for  Willow Level 6 Choice 1</string>
+  <string id="44309">**TEMP** Level up description for  Willow Level 6 Choice 2</string>
+  <string id="44310">**TEMP** Level up description for  Willow Level 6 Choice 3</string>
+  <string id="44311">**TEMP** Level up description for  Willow Level 7 Choice 1</string>
+  <string id="44312">**TEMP** Level up description for  Willow Level 7 Choice 2</string>
+  <string id="44313">**TEMP** Level up description for  Willow Level 7 Choice 3</string>
+  <string id="44314">**TEMP** Level up description for  Willow Level 8 Choice 1</string>
+  <string id="44315">**TEMP** Level up description for  Willow Level 8 Choice 2</string>
+  <string id="44316">**TEMP** Level up description for  Willow Level 8 Choice 3</string>
+  <string id="44317">**TEMP** Level up description for  Willow Level 9 Choice 1</string>
+  <string id="44318">**TEMP** Level up description for  Willow Level 9 Choice 2</string>
+  <string id="44319">**TEMP** Level up description for  Willow Level 9 Choice 3</string>
+  <string id="44320">**TEMP** Level up description for  Willow Level 10 Choice 1</string>
+  <string id="44321">**TEMP** Level up description for  Willow Level 10 Choice 2</string>
+  <string id="44322">**TEMP** Level up description for  Willow Level 10 Choice 3</string>
+  <string id="44323">**TEMP** Level up description for  Leaping Tiger Level 1 Choice 2</string>
+  <string id="44324">**TEMP** Level up description for  Leaping Tiger Level 1 Choice 3</string>
+  <string id="44325">**TEMP** Level up description for  Leaping Tiger Level 2 Choice 1</string>
+  <string id="44326">**TEMP** Level up description for  Leaping Tiger Level 2 Choice 2</string>
+  <string id="44327">**TEMP** Level up description for  Leaping Tiger Level 2 Choice 3</string>
+  <string id="44328">**TEMP** Level up description for  Leaping Tiger Level 3 Choice 1</string>
+  <string id="44329">**TEMP** Level up description for  Leaping Tiger Level 3 Choice 2</string>
+  <string id="44330">**TEMP** Level up description for  Leaping Tiger Level 3 Choice 3</string>
+  <string id="44331">**TEMP** Level up description for  Leaping Tiger Level 4 Choice 1</string>
+  <string id="44332">**TEMP** Level up description for  Leaping Tiger Level 4 Choice 2</string>
+  <string id="44333">**TEMP** Level up description for  Leaping Tiger Level 4 Choice 3</string>
+  <string id="44334">**TEMP** Level up description for  Leaping Tiger Level 5 Choice 1</string>
+  <string id="44335">**TEMP** Level up description for  Leaping Tiger Level 5 Choice 2</string>
+  <string id="44336">**TEMP** Level up description for  Leaping Tiger Level 5 Choice 3</string>
+  <string id="44337">**TEMP** Level up description for  Leaping Tiger Level 6 Choice 1</string>
+  <string id="44338">**TEMP** Level up description for  Leaping Tiger Level 6 Choice 2</string>
+  <string id="44339">**TEMP** Level up description for  Leaping Tiger Level 6 Choice 3</string>
+  <string id="44340">**TEMP** Level up description for  Leaping Tiger Level 7 Choice 1</string>
+  <string id="44341">**TEMP** Level up description for  Leaping Tiger Level 7 Choice 2</string>
+  <string id="44342">**TEMP** Level up description for  Leaping Tiger Level 7 Choice 3</string>
+  <string id="44343">**TEMP** Level up description for  Leaping Tiger Level 8 Choice 1</string>
+  <string id="44344">**TEMP** Level up description for  Leaping Tiger Level 8 Choice 2</string>
+  <string id="44345">**TEMP** Level up description for  Leaping Tiger Level 8 Choice 3</string>
+  <string id="44346">**TEMP** Level up description for  Leaping Tiger Level 9 Choice 1</string>
+  <string id="44347">**TEMP** Level up description for  Leaping Tiger Level 9 Choice 2</string>
+  <string id="44348">**TEMP** Level up description for  Leaping Tiger Level 9 Choice 3</string>
+  <string id="44349">**TEMP** Level up description for  Leaping Tiger Level 10 Choice 1</string>
+  <string id="44350">**TEMP** Level up description for  Leaping Tiger Level 10 Choice 2</string>
+  <string id="44351">**TEMP** Level up description for  Leaping Tiger Level 10 Choice 3</string>
+  <string id="44352">**TEMP** Level up description for  Shooting Star Level 1 Choice 2</string>
+  <string id="44353">**TEMP** Level up description for  Shooting Star Level 1 Choice 3</string>
+  <string id="44354">**TEMP** Level up description for  Shooting Star Level 2 Choice 1</string>
+  <string id="44355">**TEMP** Level up description for  Shooting Star Level 2 Choice 2</string>
+  <string id="44356">**TEMP** Level up description for  Shooting Star Level 2 Choice 3</string>
+  <string id="44357">**TEMP** Level up description for  Shooting Star Level 3 Choice 1</string>
+  <string id="44358">**TEMP** Level up description for  Shooting Star Level 3 Choice 2</string>
+  <string id="44359">**TEMP** Level up description for  Shooting Star Level 3 Choice 3</string>
+  <string id="44360">**TEMP** Level up description for  Shooting Star Level 4 Choice 1</string>
+  <string id="44361">**TEMP** Level up description for  Shooting Star Level 4 Choice 2</string>
+  <string id="44362">**TEMP** Level up description for  Shooting Star Level 4 Choice 3</string>
+  <string id="44363">**TEMP** Level up description for  Shooting Star Level 5 Choice 1</string>
+  <string id="44364">**TEMP** Level up description for  Shooting Star Level 5 Choice 2</string>
+  <string id="44365">**TEMP** Level up description for  Shooting Star Level 5 Choice 3</string>
+  <string id="44366">**TEMP** Level up description for  Shooting Star Level 6 Choice 1</string>
+  <string id="44367">**TEMP** Level up description for  Shooting Star Level 6 Choice 2</string>
+  <string id="44368">**TEMP** Level up description for  Shooting Star Level 6 Choice 3</string>
+  <string id="44369">**TEMP** Level up description for  Shooting Star Level 7 Choice 1</string>
+  <string id="44370">**TEMP** Level up description for  Shooting Star Level 7 Choice 2</string>
+  <string id="44371">**TEMP** Level up description for  Shooting Star Level 7 Choice 3</string>
+  <string id="44372">**TEMP** Level up description for  Shooting Star Level 8 Choice 1</string>
+  <string id="44373">**TEMP** Level up description for  Shooting Star Level 8 Choice 2</string>
+  <string id="44374">**TEMP** Level up description for  Shooting Star Level 8 Choice 3</string>
+  <string id="44375">**TEMP** Level up description for  Shooting Star Level 9 Choice 1</string>
+  <string id="44376">**TEMP** Level up description for  Shooting Star Level 9 Choice 2</string>
+  <string id="44377">**TEMP** Level up description for  Shooting Star Level 9 Choice 3</string>
+  <string id="44378">**TEMP** Level up description for  Shooting Star Level 10 Choice 1</string>
+  <string id="44379">**TEMP** Level up description for  Shooting Star Level 10 Choice 2</string>
+  <string id="44380">**TEMP** Level up description for  Shooting Star Level 10 Choice 3</string>
+  <string id="44381">**TEMP** Level up description for  Iron Palm Level 1 Choice 2</string>
+  <string id="44382">**TEMP** Level up description for  Iron Palm Level 1 Choice 3</string>
+  <string id="44383">**TEMP** Level up description for  Iron Palm Level 2 Choice 1</string>
+  <string id="44384">**TEMP** Level up description for  Iron Palm Level 2 Choice 2</string>
+  <string id="44385">**TEMP** Level up description for  Iron Palm Level 2 Choice 3</string>
+  <string id="44386">**TEMP** Level up description for  Iron Palm Level 3 Choice 1</string>
+  <string id="44387">**TEMP** Level up description for  Iron Palm Level 3 Choice 2</string>
+  <string id="44388">**TEMP** Level up description for  Iron Palm Level 3 Choice 3</string>
+  <string id="44389">**TEMP** Level up description for  Iron Palm Level 4 Choice 1</string>
+  <string id="44390">**TEMP** Level up description for  Iron Palm Level 4 Choice 2</string>
+  <string id="44391">**TEMP** Level up description for  Iron Palm Level 4 Choice 3</string>
+  <string id="44392">**TEMP** Level up description for  Iron Palm Level 5 Choice 1</string>
+  <string id="44393">**TEMP** Level up description for  Iron Palm Level 5 Choice 2</string>
+  <string id="44394">**TEMP** Level up description for  Iron Palm Level 5 Choice 3</string>
+  <string id="44395">**TEMP** Level up description for  Iron Palm Level 6 Choice 1</string>
+  <string id="44396">**TEMP** Level up description for  Iron Palm Level 6 Choice 2</string>
+  <string id="44397">**TEMP** Level up description for  Iron Palm Level 6 Choice 3</string>
+  <string id="44398">**TEMP** Level up description for  Iron Palm Level 7 Choice 1</string>
+  <string id="44399">**TEMP** Level up description for  Iron Palm Level 7 Choice 2</string>
+  <string id="44400">**TEMP** Level up description for  Iron Palm Level 7 Choice 3</string>
+  <string id="44401">**TEMP** Level up description for  Iron Palm Level 8 Choice 1</string>
+  <string id="44402">**TEMP** Level up description for  Iron Palm Level 8 Choice 2</string>
+  <string id="44403">**TEMP** Level up description for  Iron Palm Level 8 Choice 3</string>
+  <string id="44404">**TEMP** Level up description for  Iron Palm Level 9 Choice 1</string>
+  <string id="44405">**TEMP** Level up description for  Iron Palm Level 9 Choice 2</string>
+  <string id="44406">**TEMP** Level up description for  Iron Palm Level 9 Choice 3</string>
+  <string id="44407">**TEMP** Level up description for  Iron Palm Level 10 Choice 1</string>
+  <string id="44408">**TEMP** Level up description for  Iron Palm Level 10 Choice 2</string>
+  <string id="44409">**TEMP** Level up description for  Iron Palm Level 10 Choice 3</string>
+  <string id="44410">**TEMP** Level up description for  White Demon Level 1 Choice 2</string>
+  <string id="44411">**TEMP** Level up description for  White Demon Level 1 Choice 3</string>
+  <string id="44412">**TEMP** Level up description for  White Demon Level 2 Choice 1</string>
+  <string id="44413">**TEMP** Level up description for  White Demon Level 2 Choice 2</string>
+  <string id="44414">**TEMP** Level up description for  White Demon Level 2 Choice 3</string>
+  <string id="44415">**TEMP** Level up description for  White Demon Level 3 Choice 1</string>
+  <string id="44416">**TEMP** Level up description for  White Demon Level 3 Choice 2</string>
+  <string id="44417">**TEMP** Level up description for  White Demon Level 3 Choice 3</string>
+  <string id="44418">**TEMP** Level up description for  White Demon Level 4 Choice 1</string>
+  <string id="44419">**TEMP** Level up description for  White Demon Level 4 Choice 2</string>
+  <string id="44420">**TEMP** Level up description for  White Demon Level 4 Choice 3</string>
+  <string id="44421">**TEMP** Level up description for  White Demon Level 5 Choice 1</string>
+  <string id="44422">**TEMP** Level up description for  White Demon Level 5 Choice 2</string>
+  <string id="44423">**TEMP** Level up description for  White Demon Level 5 Choice 3</string>
+  <string id="44424">**TEMP** Level up description for  White Demon Level 6 Choice 1</string>
+  <string id="44425">**TEMP** Level up description for  White Demon Level 6 Choice 2</string>
+  <string id="44426">**TEMP** Level up description for  White Demon Level 6 Choice 3</string>
+  <string id="44427">**TEMP** Level up description for  White Demon Level 7 Choice 1</string>
+  <string id="44428">**TEMP** Level up description for  White Demon Level 7 Choice 2</string>
+  <string id="44429">**TEMP** Level up description for  White Demon Level 7 Choice 3</string>
+  <string id="44430">**TEMP** Level up description for  White Demon Level 8 Choice 1</string>
+  <string id="44431">**TEMP** Level up description for  White Demon Level 8 Choice 2</string>
+  <string id="44432">**TEMP** Level up description for  White Demon Level 8 Choice 3</string>
+  <string id="44433">**TEMP** Level up description for  White Demon Level 9 Choice 1</string>
+  <string id="44434">**TEMP** Level up description for  White Demon Level 9 Choice 2</string>
+  <string id="44435">**TEMP** Level up description for  White Demon Level 9 Choice 3</string>
+  <string id="44436">**TEMP** Level up description for  White Demon Level 10 Choice 1</string>
+  <string id="44437">**TEMP** Level up description for  White Demon Level 10 Choice 2</string>
+  <string id="44438">**TEMP** Level up description for  White Demon Level 10 Choice 3</string>
+  <string id="44439">**TEMP** Level up description for  Seven Thunders Level 1 Choice 2</string>
+  <string id="44440">**TEMP** Level up description for  Seven Thunders Level 1 Choice 3</string>
+  <string id="44441">**TEMP** Level up description for  Seven Thunders Level 2 Choice 1</string>
+  <string id="44442">**TEMP** Level up description for  Seven Thunders Level 2 Choice 2</string>
+  <string id="44443">**TEMP** Level up description for  Seven Thunders Level 2 Choice 3</string>
+  <string id="44444">**TEMP** Level up description for  Seven Thunders Level 3 Choice 1</string>
+  <string id="44445">**TEMP** Level up description for  Seven Thunders Level 3 Choice 2</string>
+  <string id="44446">**TEMP** Level up description for  Seven Thunders Level 3 Choice 3</string>
+  <string id="44447">**TEMP** Level up description for  Seven Thunders Level 4 Choice 1</string>
+  <string id="44448">**TEMP** Level up description for  Seven Thunders Level 4 Choice 2</string>
+  <string id="44449">**TEMP** Level up description for  Seven Thunders Level 4 Choice 3</string>
+  <string id="44450">**TEMP** Level up description for  Seven Thunders Level 5 Choice 1</string>
+  <string id="44451">**TEMP** Level up description for  Seven Thunders Level 5 Choice 2</string>
+  <string id="44452">**TEMP** Level up description for  Seven Thunders Level 5 Choice 3</string>
+  <string id="44453">**TEMP** Level up description for  Seven Thunders Level 6 Choice 1</string>
+  <string id="44454">**TEMP** Level up description for  Seven Thunders Level 6 Choice 2</string>
+  <string id="44455">**TEMP** Level up description for  Seven Thunders Level 6 Choice 3</string>
+  <string id="44456">**TEMP** Level up description for  Seven Thunders Level 7 Choice 1</string>
+  <string id="44457">**TEMP** Level up description for  Seven Thunders Level 7 Choice 2</string>
+  <string id="44458">**TEMP** Level up description for  Seven Thunders Level 7 Choice 3</string>
+  <string id="44459">**TEMP** Level up description for  Seven Thunders Level 8 Choice 1</string>
+  <string id="44460">**TEMP** Level up description for  Seven Thunders Level 8 Choice 2</string>
+  <string id="44461">**TEMP** Level up description for  Seven Thunders Level 8 Choice 3</string>
+  <string id="44462">**TEMP** Level up description for  Seven Thunders Level 9 Choice 1</string>
+  <string id="44463">**TEMP** Level up description for  Seven Thunders Level 9 Choice 2</string>
+  <string id="44464">**TEMP** Level up description for  Seven Thunders Level 9 Choice 3</string>
+  <string id="44465">**TEMP** Level up description for  Seven Thunders Level 10 Choice 1</string>
+  <string id="44466">**TEMP** Level up description for  Seven Thunders Level 10 Choice 2</string>
+  <string id="44467">**TEMP** Level up description for  Seven Thunders Level 10 Choice 3</string>
+  <string id="44468">**TEMP** Level up description for  Drunken Master Level 1 Choice 2</string>
+  <string id="44469">**TEMP** Level up description for  Drunken Master Level 1 Choice 3</string>
+  <string id="44470">**TEMP** Level up description for  Drunken Master Level 2 Choice 1</string>
+  <string id="44471">**TEMP** Level up description for  Drunken Master Level 2 Choice 2</string>
+  <string id="44472">**TEMP** Level up description for  Drunken Master Level 2 Choice 3</string>
+  <string id="44473">**TEMP** Level up description for  Drunken Master Level 3 Choice 1</string>
+  <string id="44474">**TEMP** Level up description for  Drunken Master Level 3 Choice 2</string>
+  <string id="44475">**TEMP** Level up description for  Drunken Master Level 3 Choice 3</string>
+  <string id="44476">**TEMP** Level up description for  Drunken Master Level 4 Choice 1</string>
+  <string id="44477">**TEMP** Level up description for  Drunken Master Level 4 Choice 2</string>
+  <string id="44478">**TEMP** Level up description for  Drunken Master Level 4 Choice 3</string>
+  <string id="44479">**TEMP** Level up description for  Drunken Master Level 5 Choice 1</string>
+  <string id="44480">**TEMP** Level up description for  Drunken Master Level 5 Choice 2</string>
+  <string id="44481">**TEMP** Level up description for  Drunken Master Level 5 Choice 3</string>
+  <string id="44482">**TEMP** Level up description for  Drunken Master Level 6 Choice 1</string>
+  <string id="44483">**TEMP** Level up description for  Drunken Master Level 6 Choice 2</string>
+  <string id="44484">**TEMP** Level up description for  Drunken Master Level 6 Choice 3</string>
+  <string id="44485">**TEMP** Level up description for  Drunken Master Level 7 Choice 1</string>
+  <string id="44486">**TEMP** Level up description for  Drunken Master Level 7 Choice 2</string>
+  <string id="44487">**TEMP** Level up description for  Drunken Master Level 7 Choice 3</string>
+  <string id="44488">**TEMP** Level up description for  Drunken Master Level 8 Choice 1</string>
+  <string id="44489">**TEMP** Level up description for  Drunken Master Level 8 Choice 2</string>
+  <string id="44490">**TEMP** Level up description for  Drunken Master Level 8 Choice 3</string>
+  <string id="44491">**TEMP** Level up description for  Drunken Master Level 9 Choice 1</string>
+  <string id="44492">**TEMP** Level up description for  Drunken Master Level 9 Choice 2</string>
+  <string id="44493">**TEMP** Level up description for  Drunken Master Level 9 Choice 3</string>
+  <string id="44494">**TEMP** Level up description for  Drunken Master Level 10 Choice 1</string>
+  <string id="44495">**TEMP** Level up description for  Drunken Master Level 10 Choice 2</string>
+  <string id="44496">**TEMP** Level up description for  Drunken Master Level 10 Choice 3</string>
+  <string id="44497">**TEMP** Level up description for  Black Mantis Level 1 Choice 2</string>
+  <string id="44498">**TEMP** Level up description for  Black Mantis Level 1 Choice 3</string>
+  <string id="44499">**TEMP** Level up description for  Black Mantis Level 2 Choice 1</string>
+  <string id="44500">**TEMP** Level up description for  Black Mantis Level 2 Choice 2</string>
+  <string id="44501">**TEMP** Level up description for  Black Mantis Level 2 Choice 3</string>
+  <string id="44502">**TEMP** Level up description for  Black Mantis Level 3 Choice 1</string>
+  <string id="44503">**TEMP** Level up description for  Black Mantis Level 3 Choice 2</string>
+  <string id="44504">**TEMP** Level up description for  Black Mantis Level 3 Choice 3</string>
+  <string id="44505">**TEMP** Level up description for  Black Mantis Level 4 Choice 1</string>
+  <string id="44506">**TEMP** Level up description for  Black Mantis Level 4 Choice 2</string>
+  <string id="44507">**TEMP** Level up description for  Black Mantis Level 4 Choice 3</string>
+  <string id="44508">**TEMP** Level up description for  Black Mantis Level 5 Choice 1</string>
+  <string id="44509">**TEMP** Level up description for  Black Mantis Level 5 Choice 2</string>
+  <string id="44510">**TEMP** Level up description for  Black Mantis Level 5 Choice 3</string>
+  <string id="44511">**TEMP** Level up description for  Black Mantis Level 6 Choice 1</string>
+  <string id="44512">**TEMP** Level up description for  Black Mantis Level 6 Choice 2</string>
+  <string id="44513">**TEMP** Level up description for  Black Mantis Level 6 Choice 3</string>
+  <string id="44514">**TEMP** Level up description for  Black Mantis Level 7 Choice 1</string>
+  <string id="44515">**TEMP** Level up description for  Black Mantis Level 7 Choice 2</string>
+  <string id="44516">**TEMP** Level up description for  Black Mantis Level 7 Choice 3</string>
+  <string id="44517">**TEMP** Level up description for  Black Mantis Level 8 Choice 1</string>
+  <string id="44518">**TEMP** Level up description for  Black Mantis Level 8 Choice 2</string>
+  <string id="44519">**TEMP** Level up description for  Black Mantis Level 8 Choice 3</string>
+  <string id="44520">**TEMP** Level up description for  Black Mantis Level 9 Choice 1</string>
+  <string id="44521">**TEMP** Level up description for  Black Mantis Level 9 Choice 2</string>
+  <string id="44522">**TEMP** Level up description for  Black Mantis Level 9 Choice 3</string>
+  <string id="44523">**TEMP** Level up description for  Black Mantis Level 10 Choice 1</string>
+  <string id="44524">**TEMP** Level up description for  Black Mantis Level 10 Choice 2</string>
+  <string id="44525">**TEMP** Level up description for  Black Mantis Level 10 Choice 3</string>
+  <string id="44529">Swamp</string>
+  <string id="44533">Spirit Cave</string>
+  <string id="44544">The Imperial Arena</string>
+  <string id="44628">Paralyzing Strike</string>
+  <string id="44629">Paralyzing Wave</string>
+  <string id="44630">Paralyzation Duration Increase</string>
+  <string id="44631" soundid="134694">The second fountain is restored, and for this, I thank you. But from this point on, Abbot Song cannot travel with you. He must lead his fellows from their cursed existence.</string>
+  <string id="44632" soundid="134695">Great Mistress, I have tried to lead them, to free them, but they will not listen to me. They cannot even see me. Let me continue on and redeem myself for this failure.</string>
+  <string id="44634">Enter the Fortress</string>
+  <string id="44635">Find the entrance to the Lotus Assassin fortress in the Necropolis.</string>
+  <string id="44660">Inner Temple</string>
+  <string id="44905">Favorite Style</string>
+  <string id="44991">Favorite Martial Style</string>
+  <string id="44993">Favorite Weapon Style</string>
+  <string id="44995">Favorite Magic Style</string>
+  <string id="44996">Favorite Transformation Style</string>
+  <string id="44998">So Alone.</string>
+  <string id="45020">Prefect Jitong has two men in custody, but he believes that only one is associated with the mysterious slave traders. The Prefect thinks Zi Bao might have something to do with the traders. You can find him in the Heart of the Empire Tavern.</string>
+  <string id="45022">The Slave Traders</string>
+  <string id="45024">Buy from Store</string>
+  <string id="45190">Silver</string>
+  <string id="45192">Buy Price:</string>
+  <string id="45194">Bridge</string>
+  <string id="45228">Saber</string>
+  <string id="45274">Double Hammers</string>
+  <string id="45276">Staff</string>
+  <string id="45289" soundid="104908">Those bandits hurt a lot of people. Good thing you didn&apos;t get hurt too bad.</string>
+  <string id="45607" soundid="141865">It was my foolish pride, thinking that some herb could restore me to health so easily.</string>
+  <string id="45608" soundid="141866">There&apos;s nothing time can&apos;t cure. Perhaps I will be back to form in a few months. My training will slip, but I will do the best I can.</string>
+  <string id="45609" soundid="141867">You mean...? You bought a cheap painkiller when I was prepared to pay you back? I may never fight again, and you sold my health for a few silvers?</string>
+  <string id="45610" soundid="141868">You are the worst kind of person! I&apos;m surprised you don&apos;t get along better with Gao the Lesser, but maybe he&apos;s jealous of how terrible you can be!</string>
+  <string id="45611" soundid="141869">Leave me and the body your greed shattered. I want nothing to do with you.</string>
+  <string id="45612" soundid="141870">I&apos;m happy for you, and couldn&apos;t care less about the record. It was just good to fight again and feel no pain.</string>
+  <string id="45613" soundid="141871">I&apos;m a bit...tender, right now, but that&apos;s to be expected. I should be in much better shape before long.</string>
+  <string id="45614" soundid="141872">Everyone&apos;s shouting that Dawn Star is missing. She is more responsible than most of us, which makes her running off all the more concerning.</string>
+  <string id="45615" soundid="141873">I don&apos;t suppose you&apos;d care, though. Other people are just pieces to move about a game board in your eyes.</string>
+  <string id="45617" soundid="138325">Your abilities have grown immensely. But it also does my heart good to see that you have remembered the basics of what I taught.</string>
+  <string id="45618" soundid="138326">Even the flaws!</string>
+  <string id="45619" soundid="138327">I&apos;m sure there is, my student.</string>
+  <string id="45622">There is a great deal we have to discuss.</string>
+  <string id="45623" soundid="196468"></string>
+  <string id="45624" soundid="138332">What if I guarantee your name will live in the heart of each and every citizen in the Jade Empire?  It is a glory beyond mere heroics. You would be eternal.</string>
+  <string id="45625" soundid="138333">I do not seek power as my brother did. I will correct the violence inherent in Man. I will make certain there are no more wars, no more droughts.</string>
+  <string id="45626" soundid="138334">Everyone will be content in their roles. And they will hold in their hearts the warrior who sacrificed everything so that they might prosper. You could make that happen.</string>
+  <string id="45627" soundid="138335">Then there is no reasoning with you. You are as much a monster as I. Let us end this. No great waves of energy, no demons from the walls. Skill versus skill.</string>
+  <string id="45628" soundid="138336">If you defeat me, little will change. In time, this Empire will come and go, along with the memory of what you did. I seek eternal stability.</string>
+  <string id="45629" soundid="138337">Your name will forever be lauded. In the end, is that not the only immortality worth having?</string>
+  <string id="45633" soundid="138338">Forever. Not a man, woman, or child will go a day without acknowledging your sacrifice. Many have struggled for utopia; you will be the heart of it.</string>
+  <string id="45634" soundid="138339">You do? You will let down your defenses so that I may guide the Jade Empire to a stable future?</string>
+  <string id="45635" soundid="138340">Then let it be done. You give yourself to a far greater glory than you could ever know.</string>
+  <string id="45636" soundid="138341">Goodbye, my student. You fulfilled your role just as I had wished.</string>
+  <string id="45637" soundid="138342">Tell me, what use are heirs to a god? I will set the Empire on a path of never-ending stability and glory. I am beyond this.</string>
+  <string id="45638" soundid="138343">That it was Dawn Star only reinforces this truth. I would have recognized her, had I cared to. What use are heirs to a god?</string>
+  <string id="45639" soundid="138344">Ah, so even *you* know when to cast aside those who have moved beyond usefulness. Then you understand why you, too, must fall.</string>
+  <string id="45640">I&apos;m listening.</string>
+  <string id="45643">I will be eternal anyway. The power is mine when you die!</string>
+  <string id="45645">I fall, but my name lives on forever? Why would I agree?</string>
+  <string id="45647">Forever remembered as a hero by all?</string>
+  <string id="45648">Then I agree.</string>
+  <string id="45649">No, you will not win. Let&apos;s end this. Master versus student.</string>
+  <string id="45650">For the Jade Empire and the name of &lt;FullName&gt;, I agree.</string>
+  <string id="45653">She deserves better. I can&apos;t allow this.</string>
+  <string id="45654">That is fortunate. I had to dispose of her.</string>
+  <string id="45656">Will you not give one last thought to Dawn Star, your daughter?</string>
+  <string id="45657" soundid="138365"></string>
+  <string id="45658" soundid="138366"></string>
+  <string id="45659" soundid="138367">Now that&apos;s a big one! Finally, a worthy fight!</string>
+  <string id="45660" soundid="162505">No, this is something I couldn&apos;t tell you about. Please, give me a chance to explain. You&apos;ll like what I have to say. I hope.</string>
+  <string id="45661" soundid="54880">Gao should be ashamed at such childish displays.</string>
+  <string id="45748" soundid="61885">You leave this young one alone, you mangy old fox. She looks fit to break you in half. Might do us all a favor.</string>
+  <string id="45750" soundid="71345">I&apos;m old, I&apos;m not deaf!</string>
+  <string id="45768" soundid="71346">Yeah, anyway, he seems to be working out all right. Still goes on about getting his home back, though.</string>
+  <string id="45769" soundid="71347">Heh, but he&apos;s pretty old as it is, and I figure, since he&apos;s already got his plot made... eh-heheh.</string>
+  <string id="45770" soundid="71348">Anything else you wanted?</string>
+  <string id="45807">Find Your New Master</string>
+  <string id="45808">Present yourself to Master Gang. Try to gain access to the inner chambers and find the information Princess Lian requires.</string>
+  <string id="45809">You now bear the title of Lotus Acolyte and must present yourself to Master Gang. Gaining access to the inner chambers will be a challenge with such a lowly rank, but the princess will not take you to the palace until you have the information she needs. Zu is in the fortress, as well. What he wants is unclear.</string>
+  <string id="45810">You have met First Gravedigger Shen. The restless ghosts in the Necropolis refuse to stay put in their graves. Shen will pay you if you put some of the problem ghosts back in their graves... one way or another.</string>
+  <string id="45811">The First Gravedigger</string>
+  <string id="45812">You have discovered Wen Zhi, a mad scientist trying to use revitalized organs to heal his dying daughter. He needs you to find a liver for him to replace hers.</string>
+  <string id="45813">The Scientist</string>
+  <string id="45842">Gambler</string>
+  <string id="45847">Gambler Daoshen</string>
+  <string id="45855">Quarry</string>
+  <string id="45856">Focus Abilities</string>
+  <string id="45877">This screen allows you to spend Style Points to learn new techniques, map styles to your hot keys for rapid access during combat, and see all the styles you&apos;ve learned.</string>
+  <string id="45880" soundid="63392">In fact, I think your presence here is a sure sign that things are looking up. Soon all our problems will be solved.... It&apos;s just like I kept saying.</string>
+  <string id="45896" soundid="72032">You. What do you want? Unless you&apos;re here to get rid of that stupid old man, I don&apos;t have time for you now!</string>
+  <string id="45897" soundid="72033">Yes... yes I am! Are you here from Shen? Did he send you about my father?</string>
+  <string id="45898" soundid="72034">My father... who is supposed to be dead!</string>
+  <string id="45916">Current Focus</string>
+  <string id="45917" soundid="128707">You are far too generous with your mercy.</string>
+  <string id="45918" soundid="55185">I&apos;m a ghost, but I&apos;m a little girl, too! I&apos;m trapped here. I can&apos;t leave, and I can&apos;t die. It&apos;s cold in here, and wet.... and I&apos;m scared. I don&apos;t like it here.</string>
+  <string id="45919" soundid="55186">Please help me. I&apos;ve been trapped here for so long. The outside is so close... I can see it! But this puddle is blocking my way.</string>
+  <string id="45920" soundid="55187">I don&apos;t see any way around it. If I could just get outside I&apos;d finally be free... but I can&apos;t walk through the puddle. I can&apos;t!</string>
+  <string id="45922" soundid="55189">But I have tried! I tried to cross the puddle so many times, but I just can&apos;t!</string>
+  <string id="45923" soundid="55190">Don&apos;t you know how I died? I drowned when the flood came. It was cold, and dark and... and now I can&apos;t touch the water. I just can&apos;t! Please help me. Please.</string>
+  <string id="45924" soundid="55191">I think I know how you can help me. Look at the ceiling. It looks like there was a cave in long ago, and somebody put these poles here to hold the ceiling up.</string>
+  <string id="45927" soundid="55194">All you have to do is break these poles, and the ceiling will collapse. A whole bunch of rocks will fall into the water, and I can skip across them and leave this place!</string>
+  <string id="45928">Anyone else?</string>
+  <string id="45929" soundid="126726">With the dam closed and the economy picking up, I had hoped my customers would pay off their debts to me. But I&apos;m having trouble collecting from them.</string>
+  <string id="45930">I&apos;ll be back once I find you a husband!</string>
+  <string id="45931" soundid="55198">Thank you! Thank you so much! I just know you can help me. Please hurry!</string>
+  <string id="45932">I could help you out... if you pay me.</string>
+  <string id="45933" soundid="55200">Go away! If you&apos;re not going to help me, just leave me alone!</string>
+  <string id="45934" soundid="55201">Please... you said you&apos;d help me. You promised. Please hurry. It&apos;s dark in this cave, and cold and... and wet. Please, I just want to get out of here.</string>
+  <string id="45937">I couldn&apos;t care less about this. Really.</string>
+  <string id="45939" soundid="166926">Are you really that dense? You want to challenge the one person strong enough to close the dam? You&apos;d be a fool!</string>
+  <string id="45940" soundid="166927">I&apos;d love to answer your questions, but that would interrupt my drinking. I&apos;m afraid that isn&apos;t acceptable.</string>
+  <string id="45941">Who are you? Another ghost?</string>
+  <string id="45942">Displays no combat damage information.</string>
+  <string id="45943">What was I supposed to do, again?</string>
+  <string id="45944" soundid="126590">Listen, I will tell you how you came into my care.</string>
+  <string id="45945" soundid="126591"></string>
+  <string id="45946">Displays damage information for close combat.</string>
+  <string id="45947">Don&apos;t worry. I&apos;ll get you out of there.</string>
+  <string id="45948" soundid="126592"></string>
+  <string id="45950">What&apos;s wrong?</string>
+  <string id="45951">Can you tell me anything about the lion statue in the other room?</string>
+  <string id="45952">I don&apos;t have time to help ghosts.</string>
+  <string id="45955">It&apos;s only a few inches deep. Just walk across.</string>
+  <string id="45957">Why are you so scared of the puddle?</string>
+  <string id="45958">If you won&apos;t even try to save yourself, I won&apos;t help you.</string>
+  <string id="45960">I&apos;ll find a way to get you out of there.</string>
+  <string id="45962">**TEMP** Level up description for Monkey Paw Level 7 Choice 3</string>
+  <string id="45963">Displays all combat damage information.</string>
+  <string id="45964">I&apos;m not interested in helping you, ghost!</string>
+  <string id="45966" soundid="141874">In a way, I hope you *don&apos;t* find her for her own good.</string>
+  <string id="45968">Okay, I&apos;ll do it.</string>
+  <string id="45969">I&apos;ll think about it.</string>
+  <string id="45970" soundid="143784">He was a dedicated young man, despite his inexperience. I do not understand why Master Li tolerated Gao even as long as he did. You must find Gao. This cannot go unanswered.</string>
+  <string id="45973" soundid="55240">Wait! Stop! I&apos;m not your enemy! I swear by my ancestors, I am not your enemy. I&apos;m not even a soldier!</string>
+  <string id="45974" soundid="55241">My name is Chen Yi, from the village of One Stone. I&apos;m no fighter. I&apos;m just a simple peasant.</string>
+  <string id="45975" soundid="55242">Ah! I may be easy prey for one of your might, but I will die with honor!</string>
+  <string id="45976" soundid="55243">Even though I wear this uniform, I am no soldier. My name is Chen Yi. I&apos;m just a simple peasant from the town of One Stone.</string>
+  <string id="45978" soundid="55245">Wait! Please, listen! My name is Chen Yi, a simple peasant from the village of One Stone. Surely you can tell by the way I stand that I&apos;ve had no training!</string>
+  <string id="45979" soundid="55246">These soldiers passed through my village a few weeks ago. One of them angered the Lotus Assassin who was in charge, and the Assassin killed him!</string>
+  <string id="45980" soundid="55247">As I was coming back in from the fields, they grabbed me to fill his place. They put this uniform on me--blood stains and all--and told me I was in the army! </string>
+  <string id="45981">If you are frightened, we are probably not meant to be.</string>
+  <string id="45982">You cling to traditions that should be left behind. Clearly you want more. I can provide that.</string>
+  <string id="45985">I admire your respect for tradition, even as it holds you back from what you want.</string>
+  <string id="45986">To show you what can be yours if you have the courage to do what is necessary.</string>
+  <string id="45987">It is merely a game. You toy with me; I toy with you.</string>
+  <string id="45990">Because we must help others see how to help themselves. That is our role.</string>
+  <string id="45991">Do you really want to? Does Silk Fox have the courage to do what would be necessary?</string>
+  <string id="45992">I do not mean to alarm you. I respect tradition as much as you do.</string>
+  <string id="45993">[Charm] You know in your heart what you deserve. Perhaps it is time others were forced to respect that.</string>
+  <string id="45995" soundid="55262">Thank you, noble one! You are most merciful, and I honor you. My whole family honors you.</string>
+  <string id="45998">Now you sound like Silk Fox. Now you have my attention.</string>
+  <string id="45999" soundid="55266">Of course, great one! I will return to my village, and lead an upright life of farming and praying. Thank you for sparing me. Thank you!</string>
+  <string id="46000">Who are you?</string>
+  <string id="46004">I can accept intriguing. I would prefer... stimulating.</string>
+  <string id="46006">Perhaps it is not meant to be. What do you say to that, Silk Fox?</string>
+  <string id="46007">Go. Leave here, and never return.</string>
+  <string id="46008">You&apos;re of no more use to me. Time to die.</string>
+  <string id="46009">You wear the uniform of the Imperial Army.</string>
+  <string id="46011">Answer my questions if you want to live.</string>
+  <string id="46013">Lying cur! You die now!</string>
+  <string id="46016">When we take control? That&apos;s different than just exposing Death&apos;s Hand.</string>
+  <string id="46022">[Intuition] If you don&apos;t demand what you want, despite the consequences, you cannot claim it is worthwhile.</string>
+  <string id="46025">[Intimidation] Perhaps they are the same. Stop defending tradition. Demand what you want or accept your role.</string>
+  <string id="46028">Well, there is one person. A noble.</string>
+  <string id="46031">I have decided to let you live.</string>
+  <string id="46032">I find Sky to be quite compelling.</string>
+  <string id="46033">Dawn Star</string>
+  <string id="46190">You have found a possible place to acquire a new flyer and a wind map.</string>
+  <string id="46194">Dawn Star is of great interest to me.</string>
+  <string id="46204">When you say the world may join you in being haunted, what do you mean?</string>
+  <string id="46205">To find Master Li and Death&apos;s Hand, you must make your way to the Pirate Lair. Only Ru the Boatswain can take you there. You found Ru and convinced him to take you there. He will wait for you by his small pier in Tien&apos;s Landing.</string>
+  <string id="46206">To find Master Li and Death&apos;s Hand, you must make your way to the Pirate Lair. Only Ru the Boatswain can take you there. You found Ru and convinced him to take you there. He will wait for you by his small pier in Tien&apos;s Landing.</string>
+  <string id="46207">Princess Sun Lian/Silk Fox will take you to the palace where Master Li is secured, but only after she has information to prove to her father that Death&apos;s Hand is a traitor to the Empire.</string>
+  <string id="46211" soundid="165533">I&apos;m here on a personal matter. A man in this place took something very valuable from me, and I intend to repay him the favor.</string>
+  <string id="46214" soundid="165534">It sounds almost like you&apos;re familiar with him.</string>
+  <string id="46215" soundid="165535">If I had more time, I&apos;d want to know what brought you here. I expect it&apos;s quite the tale.</string>
+  <string id="46216" soundid="165536">Yes, I hunt Gao the Greater, though I will not say why. It is a personal matter.</string>
+  <string id="46217" soundid="165537">I will not say. Not until Gao the Greater has paid in full.</string>
+  <string id="46218" soundid="165538">I won&apos;t be stopped now that I&apos;m this close, and luckily you&apos;re here. That will make it easier to reach the upper levels where he hides himself away.</string>
+  <string id="46219" soundid="165539">As I said, Gao the Greater took something valuable from me, and he deserves to have that favor repaid.</string>
+  <string id="46220">You are off to the palace with Silk Fox to confront her father, Emperor Sun Hai.</string>
+  <string id="46221" soundid="165540">A good question. It&apos;s always wise to be on your guard in places like this. Rest assured, I have no intention of harming you.</string>
+  <string id="46222" soundid="165541">You&apos;re here for your reasons and I&apos;m here for mine. Somehow, I doubt they conflict. Besides, we&apos;ll need each other&apos;s help to get through that door.</string>
+  <string id="46236" soundid="127427">Ah, Miss Chan. A tragedy, really, and one that happens all too often. It&apos;s always the pretty ones who go.</string>
+  <string id="46237">Captain Ing offered a reward to whoever could close the Great Dam, allowing his ship to leave the Beggar&apos;s Pier. You destroyed the Great Dam, trapping Captain Ing and his men in Tien&apos;s Landing.</string>
+  <string id="46238" soundid="62644"></string>
+  <string id="46239" soundid="62645">Stranger, forgive me for being so forward, but if you are wise you will turn around and leave this cursed and miserable town.</string>
+  <string id="46240">On Beggar&apos;s Pier in Tien&apos;s Landing, Captain Ing offered a reward to whomever could close the Great Dam. You closed the Great Dam and collected your reward from a grateful Captain Ing.</string>
+  <string id="46241" soundid="62646">Mother and I are getting out of this town. If you have any sense, you&apos;ll do the same.</string>
+  <string id="46242" soundid="62647">Hush, daughter! You must treat strangers with respect. Once we are outside of town, we must be very careful with everyone we meet.</string>
+  <string id="46254" soundid="126727">There are several customers who owe me money, but with the dam open, times are hard. I can&apos;t expect them to pay me when they can&apos;t even feed their families.</string>
+  <string id="46255" soundid="126728">And if they don&apos;t pay me, I can&apos;t afford the raw materials to make my woodwork. It&apos;s a difficult situation, but I&apos;m trying to make the best of it.</string>
+  <string id="46256" soundid="126729">No, no. That won&apos;t be necessary. I don&apos;t want to cause any trouble for my customers. I&apos;m sure they&apos;ll pay me eventually. At least, I hope so.</string>
+  <string id="46257">The Forest Shadow is destroyed, and her influence over the forest has been removed. Without it, the forest will never recover from its twisted corruption.</string>
+  <string id="46258">The Forest Shadow has agreed to temporarily remove her influence over the forest in the hopes that this will lure whatever corruption dwells within the inn into revealing itself.</string>
+  <string id="46259">Investigating the temple proved to be fruitless, as a black wall blocks your path into its inner chambers. Perhaps the missing hunter knows something more, if he&apos;s even still alive.</string>
+  <string id="46260">You have found hunter Shau, and he&apos;s clinging to a gem which precipitated the attack at the temple. If you could get a hold of it, perhaps you can lure the creature that attacked you out of hiding.</string>
+  <string id="46261">The demon that attacked you has fled into the temple and disappeared after recovering from your assault. Clearly this will take more drastic measures to resolve.</string>
+  <string id="46263">The inn&apos;s patrons and staff barely seem human any more, and there is no sign of Lord Yun or his retinue. </string>
+  <string id="46264">The inn&apos;s patrons and staff barely seem human any more, and there is no sign of Lord Yun or his retinue.</string>
+  <string id="46265">Henpecked Hou has told you about a large series of caves beneath this inn. With the front doors sealed, it seems there&apos;s only one possible route for escape.</string>
+  <string id="46266">The cannibal master was not what he seemed. A loutish warrior being kept to act as consort for something called &quot;The Mother,&quot; he has joined you and opened a path to another cave deeper in the warren.</string>
+  <string id="46268">You have cleansed the temple, and Chai Ka has opened a gate for your passage to the realm of the creature that attacked you. According to your follower, though, she is no demon, but actually a spirit of this forest.</string>
+  <string id="46269">You have defeated the demon known as the Cannibal Mother and eliminated her taint on the both the forest and the Pilgrim&apos;s Rest Inn. With the spirit&apos;s help, the Great Southern Forest will quickly recover from its corruption.</string>
+  <string id="46270">You have defeated the demon known as the Cannibal Mother and wiped out the Cannibals infesting the Inn. Her influence will be felt for generations, though. With the Forest Shadow dead, this forest will always remain a dark and twisted place.</string>
+  <string id="46271">It seems this forest is trapping all who enter its borders. A hunter has asked for your help in escaping, and suggested that you talk to Lord Yun, the noble responsible for the Great Southern Forest, at the Pilgrim&apos;s Rest Inn.</string>
+  <string id="46272">You have found and spoken to Lord Yun. He is willing to help you reach the Imperial City, but will be unable to aid you until you find a way to open the forest again.</string>
+  <string id="46273">You have discovered that the true source of the forest&apos;s corruption lies in the Pilgrim&apos;s Rest Inn. If it can be dealt with, a path to the Imperial City may yet open up.</string>
+  <string id="46274">You have returned to the inn only to be attacked by a group of sub-human creatures. There is no sign of Lord Yun or his proposed aid to reach the Imperial City, but there are strange noises coming from below the inn.</string>
+  <string id="46275">You have escaped from the caves and defeated the &quot;mother&quot; of the cannibals. The forest should open, but you still lack a wind map, and it would be an awfully long walk to the Imperial City.</string>
+  <string id="46276">Using the Lotus Assassin&apos;s wind maps, you have escaped the Great Southern Forest.</string>
+  <string id="46277" soundid="126730">You might be right. I&apos;m a fine craftsman, but I&apos;m not much for business. I extend credit too easily, and then I can&apos;t bring myself to collect. It&apos;s just not in my nature.</string>
+  <string id="46278" soundid="126731">A noble offer, but I must refuse. Prospects for my shop are poor right now. I can&apos;t allow you to risk losing your investment. No, things will have to work out on their own.</string>
+  <string id="46279" soundid="126732">No, no. I&apos;m nobody. You don&apos;t want to talk to me. You should speak to Minister Sheng. He&apos;s much more important than a simple merchant about to go out of business.</string>
+  <string id="46280" soundid="126733">Farewell.</string>
+  <string id="46281" soundid="126734">Welcome back to Chumin&apos;s Woodcrafts. I still don&apos;t have any wares to show you, I&apos;m afraid. I&apos;m still short on inventory.</string>
+  <string id="46282" soundid="126735">It&apos;s a shame my business is struggling so much. I really am a fine craftsman but I could use someone to help organize things and help me out with some of my jobs.</string>
+  <string id="46309">The ghosts of two children at the orphanage in the center of the ruins want to go to their rest. Yushan, the orphan master who abandoned them, has been convinced to return to the orphanage and wait for you there.</string>
+  <string id="46310">The ghosts of two children at the orphanage in the center of the ruins want to go to their rest. Kindly Yushan, the orphan master who abandoned the orphans, is dead. Take his head to Miao at the orphanage in the ruins.</string>
+  <string id="46313">The ghosts of the two orphan children have been avenged and have gone to their rest. Miao was delighted with the gift of Yushan&apos;s head. </string>
+  <string id="46314">Update quest summary in dlg.</string>
+  <string id="46315">You forced Yushan to return to the orphanage but decided that Miao deserved the chance to have her revenge. Yushan is dead, and the orphan ghosts have gone to their rest, avenged.</string>
+  <string id="46316">You forced Kindly Yushan to bury the bones of his charges, the orphans he abandoned years ago. The orphan ghosts are at rest, and Yushan stumbled away into the ruins. </string>
+  <string id="46320">%d XP</string>
+  <string id="46321">%d silver</string>
+  <string id="46322">I don&apos;t have time for this. Forget I even asked.</string>
+  <string id="46325" soundid="55743">Gao gets very angry when Master Li disciplines him in front of the other students.</string>
+  <string id="46327" soundid="55745">Why did Master Li even allow Gao&apos;s men in the challenge? It doesn&apos;t seem right.</string>
+  <string id="46328">No, your personal feelings are of no interest.</string>
+  <string id="46330" soundid="55748">Gao was a fool to challenge you. You have always been better than him.</string>
+  <string id="46331" soundid="55749">Where did Gao learn that style? Surely Master Li didn&apos;t teach it to him.</string>
+  <string id="46336" soundid="55754">Please find Dawn Star. She doesn&apos;t normally disappear like this.</string>
+  <string id="46337" soundid="55755">Gao and Dawn Star both seem to be missing. Well, Dawn Star is missed; Gao is simply gone.</string>
+  <string id="46338" soundid="55756">Dawn Star wouldn&apos;t leave so abruptly, not after hearing the stories of ghosts and bandits the villagers tell.</string>
+  <string id="46339" soundid="55757">Dawn Star is probably here somewhere. She wouldn&apos;t leave the village. She knows it&apos;s not safe.</string>
+  <string id="46343">Press the &lt;ChiStrike&gt; key to charge up a Chi Strike.</string>
+  <string id="46344">Only the bold actions of the Emperor saved the Empire from drought.</string>
+  <string id="46402">boy</string>
+  <string id="46403">girl</string>
+  <string id="46404">Brother</string>
+  <string id="46426">Sister</string>
+  <string id="46427">brother</string>
+  <string id="46437">sister</string>
+  <string id="46438">He</string>
+  <string id="46439">She</string>
+  <string id="46464">You have heard that the Imperial Arena plays host to the greatest fighters in the Empire, and that the contests offer great rewards to their victors.</string>
+  <string id="46465">The Imperial Arena</string>
+  <string id="46661">Fire Dragon</string>
+  <string id="46666">I should leave you to it.</string>
+  <string id="46730">Blue Lion Figurine</string>
+  <string id="46731">Lacquered a bright red, this stone figurine is a replica of the lion statue found in Master Li&apos;s house.</string>
+  <string id="46732">Coated in a yellow lacquer, this lion figurine is a replica of the large statue in Master Li&apos;s house.</string>
+  <string id="46733">Carved from simple rock and coated in a blue lacquer, this figurine is a miniature replica of the lion statue in Master Li&apos;s house.</string>
+  <string id="46735">Given to you by Minister Sheng of Tien&apos;s landing, this key unlocks the gate west of the town that leads to the ruins of the flooded town.</string>
+  <string id="46736" soundid="56188">I think I saw a ghost once, but it could have been a trick of the moonlight.</string>
+  <string id="46737" soundid="56189">I enjoy seeing you students taking some time for yourselves. Except for that Gao child. You can keep him and his father.</string>
+  <string id="46738" soundid="56190">You students are always so polite. Especially that Dawn Star. Nice girl. Beautiful garden.</string>
+  <string id="46739" soundid="56191">Some of the villagers are talking about ghosts and bandits, but I just let the river wash all that worry away.</string>
+  <string id="46740" soundid="127273">The only flyers around Tien&apos;s Landing are owned by pirates. They keep them on that island they use for a base up river.</string>
+  <string id="46742" soundid="56194">Well, I hear you&apos;re almost done with your training. I suppose you&apos;ll be leaving us soon.</string>
+  <string id="46743" soundid="56195">That Gao does not respond well to discipline. Not sure why Master Li bothers being so hard on him.</string>
+  <string id="46744" soundid="56196">I heard about that Gao child. A shameful way to behave. Very like his father.</string>
+  <string id="46746">Gao&apos;s Mercenary</string>
+  <string id="46747" soundid="127276">Ru used to come by here every day for his daily bowl of wine, until his funds began to run low. Last I saw him, he was at the teahouse. You could try looking for him there.</string>
+  <string id="46751" soundid="56203">Gao&apos;s cheating against you won&apos;t affect his reputation around town. Nobody liked him before.</string>
+  <string id="46752" soundid="127277">He hasn&apos;t come by to purchase his daily bowl of wine. His silver must be running low. You&apos;ll probably find him down at the docks.</string>
+  <string id="46753">I&apos;m not interested.</string>
+  <string id="46754" soundid="56206">With all those stories of ghosts and bandits, most people have the sense to stay inside the village. We&apos;re safe here.</string>
+  <string id="46755" soundid="56207">I haven&apos;t seen Dawn Star or Gao around for a while now. I&apos;m only sad about half of that.</string>
+  <string id="46756" soundid="56208">I hope Dawn Star didn&apos;t go wandering outside of the village. That&apos;s not a wise walk to take.</string>
+  <string id="46757" soundid="56209">There aren&apos;t many places in the village where someone can disappear. If Gao or Dawn Star were around, I&apos;d have seen them.</string>
+  <string id="46759">Is there somewhere around here I could get a flyer?</string>
+  <string id="46775">The Celestial Dragon formed the world from chaos.</string>
+  <string id="46776">Sagacious Tien was the founder of the Jade Empire.</string>
+  <string id="46777">Empires long united must divide. Thus has it always been.</string>
+  <string id="46778">Remember to save often.</string>
+  <string id="46779">When the night grows long, people whisper that the dead do not sleep.</string>
+  <string id="46783">**TEMP** Level up description for Monkey Paw Level 8 Choice 1</string>
+  <string id="46796">Talk to the spirits in haunted places. They can offer insights into puzzles you may face.</string>
+  <string id="46801" soundid="56316">Your teacher talks a whole lot. I bet it takes all day to listen to him.  </string>
+  <string id="46802" soundid="56317">Gao is mean, and I hear his papa is mean, too.</string>
+  <string id="46803" soundid="56318">Dawn Star is pretty. I want to be pretty like her.</string>
+  <string id="46804" soundid="56319">There aren&apos;t really ghosts coming to get us, are there? I think it&apos;s just stories.</string>
+  <string id="46808" soundid="56323">I heard you had a big fight and won. I guess that&apos;s good, but I don&apos;t want to fight at all.</string>
+  <string id="46809" soundid="56324">I know lots of ghost stories, but I like hearing about your fights more.</string>
+  <string id="46810" soundid="56325">I heard people say Gao doesn&apos;t fight fair. Why do you let him stay with you if he&apos;s like that?</string>
+  <string id="46816" soundid="56331">You should get ghosts in your school so you can beat them and everyone can stop being afraid.</string>
+  <string id="46819" soundid="56334">Ghosts didn&apos;t take Dawn Star, did they? She talks about stuff like that a lot.</string>
+  <string id="46820" soundid="56335">I like Gao better when he is not here. He yells too much.</string>
+  <string id="46821" soundid="56336">I bet Dawn Star chased Gao away. I bet he ran like a scared goat.</string>
+  <string id="46822" soundid="56337">Dawn Star is nice. You should make sure she is safe.</string>
+  <string id="46825">Dirge - Inner Courtyard</string>
+  <string id="46843">Quest Received</string>
+  <string id="46844">Dirge - Cave</string>
+  <string id="46845">**TEMP** Level up description for Monkey Paw Level 8 Choice 2</string>
+  <string id="46846">**TEMP** Level up description for Monkey Paw Level 8 Choice 3</string>
+  <string id="46853">**TEMP** Level up description for Monkey Paw Level 9 Choice 1</string>
+  <string id="46854">**TEMP** Level up description for Monkey Paw Level 9 Choice 2</string>
+  <string id="46874" soundid="141875">Wherever she is, I hope that she&apos;s safe.</string>
+  <string id="46875">Two Rivers</string>
+  <string id="46876" soundid="138369">I have let no one past! Not with all their parts, at least. You go, I&apos;m having too much fun here.</string>
+  <string id="46877" soundid="138370">I won&apos;t stop until they are ankle deep in blood! Head first!</string>
+  <string id="46878" soundid="162506">Easy, easy! I know this looks bad, but trust me, you&apos;ll like what I have to say... I hope.</string>
+  <string id="46881">Tracking the Forest Shadow</string>
+  <string id="46888" soundid="158263"></string>
+  <string id="46891">Dawn Star</string>
+  <string id="46930">The Necropolis</string>
+  <string id="46935">A Fearful Ghost</string>
+  <string id="46940">Jing Woo</string>
+  <string id="46952">Error loading the saved game.</string>
+  <string id="46954">Cannibal</string>
+  <string id="46959">Pit of Pain! (TM)</string>
+  <string id="46964">Toad Demon</string>
+  <string id="46978">Kai Lan the Serpent</string>
+  <string id="46979" soundid="106793">Are they gone yet? Please help us. We are not fighters.</string>
+  <string id="46981" soundid="106794">Han doesn&apos;t know anything that can help you. We always kept him out of the nasty stuff.</string>
+  <string id="46983">Guard Yung</string>
+  <string id="46988">Fisherman</string>
+  <string id="47000">Girl</string>
+  <string id="47001" soundid="109456">That is your decision. I suppose it doesn&apos;t hurt to make certain they trust you, but you should not take too long. Sagacious Zu&apos;s actions are troubling.</string>
+  <string id="47003" soundid="109457">The Executioner in the arena will want you to demonstrate your ability as a combatant. Finish with him and hurry back.</string>
+  <string id="47005">A temple dedicated to the Forest Shadow stands down the hill to the east of the inn. The Keeper thinks it is the best place to start your search.</string>
+  <string id="47007">Master Li&apos;s Quarters</string>
+  <string id="47028" soundid="125775">My thoughts are with you, and our fellows. It surprises me... the number of people I worry for tonight.</string>
+  <string id="47029" soundid="125776">And neither did I.</string>
+  <string id="47030" soundid="191467">What else would you know?</string>
+  <string id="47031">Wild Flower&apos;s an anchor for the Guardian. Does he have a dark counterpart too?</string>
+  <string id="47032">How did you become involved?</string>
+  <string id="47034">How did the Mother first try to corrupt the forest?</string>
+  <string id="47036" soundid="125783">I have hesitated to talk to you. I wanted to be sure of what I would say... to be sure that you are still the person I cared so much about. </string>
+  <string id="47037" soundid="125784">Do you still feel the same way for your Silk Fox?</string>
+  <string id="47039">Slap me, then kiss me.</string>
+  <string id="47043">Power-up Monster</string>
+  <string id="47064">How did you eventually trap her?</string>
+  <string id="47066">Ministry Hostel</string>
+  <string id="47071">Test Style - do not use</string>
+  <string id="47088">This will be your last breath.</string>
+  <string id="47089">No one gets away from me!</string>
+  <string id="47090">Fight fast. Fight dirty.</string>
+  <string id="47091">You won&apos;t be able to beat me!</string>
+  <string id="47092">This is your final fight.</string>
+  <string id="47097">I can&apos;t be beaten like that.</string>
+  <string id="47098">That... that was a dirty trick.</string>
+  <string id="47099">Now you&apos;re feeling pain!</string>
+  <string id="47114" soundid="56695"></string>
+  <string id="47115" soundid="56696"></string>
+  <string id="47116" soundid="56697"></string>
+  <string id="47117" soundid="154206">I don&apos;t really remember what happened next. I might have passed out. No one&apos;s ever threatened me before!</string>
+  <string id="47119" soundid="154208">Women! That&apos;s the one I forgot? I must be getting sober if I&apos;m forgetting that one.</string>
+  <string id="47120" soundid="156036">He fought like a monster... for a little guy.</string>
+  <string id="47121" soundid="156037">Better than I&apos;ve been in a while. All this &quot;best behavior when you&apos;re in the city&quot; business was wearing on my nerves.</string>
+  <string id="47122" soundid="156038">Good point, but he was particularly plucky. It&apos;s nice when they stick around longer so you can practice your moves.</string>
+  <string id="47125" soundid="156039">Not the first time I&apos;ve gone up against one of Kai Lan&apos;s thugs, you know. Not at all.</string>
+  <string id="47126" soundid="156040">That&apos;s unfair! These axes don&apos;t sharpen themselves, you know.</string>
+  <string id="47127" soundid="156041">Remember I told you I used to fight in the arena? Well, I was the best there was, then my brother came to the city and decided he&apos;d join the arena too.</string>
+  <string id="47128" soundid="156042">The arena was about the same as it is now. Qui and Kai Lan were there, and Lucky Cho, too, but he was just a runt back then.</string>
+  <string id="47130" soundid="154219">I did some harsh things while with the Lotus Assassins, but they no longer follow a path I recognize. They are a mirror of Death&apos;s Hand, and he embodies corruption.</string>
+  <string id="47131" soundid="154220">You will see, as you get close to him. He draws out the worst in everyone and displays it for all to see.</string>
+  <string id="47132" soundid="154221">Ignorance does not make truth go away, it only hides it. Perhaps we will talk again when I see more of where your path will lead you.</string>
+  <string id="47133" soundid="154222">You have no concept of the devotion of his followers. Perhaps we will talk again when I see more of where your path will lead you.</string>
+  <string id="47134" soundid="154223">The Princess has offered an exchange for passage to the palace. I do not agree with what she is asking, but it may be your only option.</string>
+  <string id="47135" soundid="154224">You say that as if I wander the street randomly murdering. No, most trigger the end of their lives through their own action. My participation is mere formality.</string>
+  <string id="47136" soundid="154225">They are as powerful as fear allows them to be. Not the specific information you are looking for, I&apos;m sure, but you did ask about my *feelings.*</string>
+  <string id="47137" soundid="154226">If their tactics have not changed, everyone fears them as children fear the shadows, never knowing what might come.</string>
+  <string id="47138" soundid="154227">They are not outlaws! Their orders come from Death&apos;s Hand, and he is the will of the Emperor!</string>
+  <string id="47139" soundid="154228">At least, that is how it was meant to be. Pardon my outburst. Every act of the Assassins has the approval of the Emperor. We were supposed to reflect his glory.</string>
+  <string id="47140" soundid="154229">That is why some actions... should never have been ordered.</string>
+  <string id="47141" soundid="154230">The Lotus Assassins were once the Order of the Lotus under Prince Kin, spiritual advisor to the Emperor. During and after the attack on Dirge... changes were made.</string>
+  <string id="47142" soundid="154231">As flames seared the sky, enemies of the Emperor faced a new threat... Death&apos;s Hand. He assumed command of our order, and we began silencing people.</string>
+  <string id="47143" soundid="154232">Some were killed only to serve as warnings. Others... others had done nothing except be near his enemies.</string>
+  <string id="47147" soundid="154233">I am no stranger to death. That alone is not enough to disturb me. But I see only weakness in targeting innocents... peripheral to the real enemy.</string>
+  <string id="47148" soundid="154234">Weakness suggests losing the right to rule. Can you see how that shook my faith in the Empire? You seem to see why I had concerns... perhaps you might understand.</string>
+  <string id="47149" soundid="154235">I have not said everything, and I have not yet decided if I will, but I see something in you that may set things right. We will see. For now, what else do you need?</string>
+  <string id="47150" soundid="154236">I see. Your interpretation of &quot;the Way,&quot; or &quot;the low road,&quot; or whatever you choose to call it, allows the killing of those that have not earned their fate?</string>
+  <string id="47151" soundid="154237">Strength is a tool meant to be used, but to murder the families of opponents you cannot reach, people once close to you... I see no strength in that.</string>
+  <string id="47152" soundid="154238">I don&apos;t think you would make good use of what I know. I will continue to assist you, but my secrets will remain my own. I have nothing else to say.</string>
+  <string id="47153" soundid="154239">If that is all the thought you intend to put forward, I will reveal nothing more of what I know, aside from what will assist in the short term.</string>
+  <string id="47154" soundid="154240">You would not make honorable use of anything I might say. Now, if you are done dismissing me, we should continue to the Imperial City.</string>
+  <string id="47155" soundid="154241">You don&apos;t strike me as the kind who would make honorable use of what I would say, anyway.</string>
+  <string id="47156" soundid="154242">It is a foolish idea. You do not understand the seductive nature of the Assassins and what they do to recruits. </string>
+  <string id="47157" soundid="154243">It does not take much to make a person forget who they are. With a little effort, they can be pushed past any morals they might have claimed.</string>
+  <string id="47158" soundid="154244">Cloaked in service and honor, even the most depraved of barbarity soon becomes unremarkable.</string>
+  <string id="47159" soundid="154245">A naive assumption. Perhaps you can avoid direct participation, but their fanaticism will still affect you. The rot that is Death&apos;s Hand permeates the complex.</string>
+  <string id="47160" soundid="154246">Perhaps you think so, but the enemy is fanatical. The rot begins high up, and it is embodied in the shell that is Death&apos;s Hand.</string>
+  <string id="47163" soundid="154247">He was made our leader during the razing of Dirge. He replaced Sun Kin, who, along with the Glorious Strategist, never returned from that campaign.</string>
+  <string id="47164" soundid="154248">I did not serve Death&apos;s Hand long, but when the orders came, he never questioned. The connection is more direct than loyalty... and he instills that in his Lotus Assassins.</string>
+  <string id="47165" soundid="154249">That is how so many were driven to kill without cause, and why I decided no more.</string>
+  <string id="47167" soundid="154250">There was more to that event--you are right to sense it--but I have kept my silence for so long that I must carefully consider the repercussions of breaking it.</string>
+  <string id="47168" soundid="154251">I don&apos;t seek justification. There is more to that event than I have said, but I have kept silent for so long that  I must carefully consider the repercussions of speaking.</string>
+  <string id="47169" soundid="154252">I must inevitably deal with my demons. Your destiny demands it. But I must also know that those demons will be put to rest, not exploited.</string>
+  <string id="47170" soundid="154253">For many years, I did nothing. If I had known Master Li was the Glorious Strategist, so much could have been resolved, one way or another.</string>
+  <string id="47171" soundid="154254">In the end, I will have to trust that you are enough his student to find a way to protect what I cannot.</string>
+  <string id="47172" soundid="154255">So you claim. I am not accustomed to words having such weight. We should... we should resume your mission. You have far to go.</string>
+  <string id="47173" soundid="154256">I suppose you are. I am with you, and we will see what comes. Let&apos;s get back to your mission. We have far to go.</string>
+  <string id="47176">I see nothing in what they do that would scare off a killer like you.</string>
+  <string id="47179">I have no further interest in your riddles, Zu.</string>
+  <string id="47183">They sound more like outlaws than an arm of the Emperor.</string>
+  <string id="47187" soundid="56836"></string>
+  <string id="47188" soundid="56837"></string>
+  <string id="47189" soundid="56838"></string>
+  <string id="47190" soundid="56839">You look so peaceful, even though I know that what you&apos;ve been through must have been terrible.</string>
+  <string id="47192" soundid="56841">Yes, it is, isn&apos;t it?</string>
+  <string id="47193" soundid="56842">But tomorrow that will be gone... shattered. The time we have now may never come again.</string>
+  <string id="47194" soundid="56843">The time we have left is small. I wonder sometimes... I wonder what I would do if I knew that I would lose you tomorrow.</string>
+  <string id="47195" soundid="56844">And then I remember that I have already lost you once, and I could never suffer that pain again.</string>
+</tlk>

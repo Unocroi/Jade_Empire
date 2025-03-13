@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tlk language="0">
+  <string id="33229">Credits</string>
+  <string id="33231" soundid="39184">What is it you wish to know?</string>
+  <string id="33232" soundid="39185">I&apos;m afraid I don&apos;t know, honored stranger. You should speak with Lishun the Talkative. If anyone would know the tale, he would.</string>
+  <string id="33233" soundid="39186">You could probably find him wandering around the town somewhere, wasting time and looking for people willing to listen to his stories.</string>
+  <string id="33238">Lotus Assassin</string>
+  <string id="33241" soundid="39194">If you go around the side of the teahouse, you&apos;ll see a path leading up to the town square, the highest point in Tien&apos;s Landing.</string>
+  <string id="33242" soundid="39195">Minister Sheng is the duly appointed minister for this region. He is trying to hold the town together as well as he can, but it is not easy.</string>
+  <string id="33254">Lotus Elite</string>
+  <string id="33257">Lotus Elite</string>
+  <string id="33283" soundid="39236">He&apos;s probably in the teahouse right behind me. Even with things as bad as they are, Ru isn&apos;t the type to miss out on his drinking.</string>
+  <string id="33284" soundid="39237">He was in the teahouse, getting drunk. But he staggered out some time ago. I think he was heading towards Beggar&apos;s Pier, near the waterfront.</string>
+  <string id="33285" soundid="39238">Of course, great one. I would be honored to answer whatever questions you may have.</string>
+  <string id="33286" soundid="39239">I am poor, honored one. I do not know how my few pitiful coins can help you. Besides, I need them for myself.</string>
+  <string id="33289" soundid="39242">[Success] I do... yes, of course. How can I ever complain about anything if I don&apos;t do my part? Take my silver; you can do more for the town with it than I can.</string>
+  <string id="33290" soundid="39243">[Failure] As much as I want to help, I can&apos;t just give you all my silver. Surely you understand that, honored stranger?</string>
+  <string id="33291" soundid="39244">[Success] Please don&apos;t hurt me, great one! I&apos;m just a poor peasant woman. I can&apos;t resist you. Take my silver, take everything I have. Just don&apos;t hurt me!</string>
+  <string id="33294" soundid="39247">I am relieved to hear it! Is there anything else I can do for you?</string>
+  <string id="33296" soundid="39249">Take care of yourself, stranger, and be glad that you do not live in Tien&apos;s Landing </string>
+  <string id="33297" soundid="39250">Goodbye, great one. It is always a pleasure speaking with you, the hero of Tien&apos;s Landing.</string>
+  <string id="33303" soundid="117583">This is bad. Oh, this is bad. River dried up, pirates everywhere. This is worse than the Long Drought.</string>
+  <string id="33305">Who are you?</string>
+  <string id="33307">Why do you wish that?</string>
+  <string id="33337">Why is this town called Tien&apos;s Landing?</string>
+  <string id="33344">Where can I buy and sell things?</string>
+  <string id="33349">Who&apos;s in charge here?</string>
+  <string id="33363" soundid="117584">If you want to listen in, fine. But pipe down, or you&apos;ll make me lose my place. Now, where was I... Oh, yeah! You don&apos;t know anything. You said the Emperor would save us!</string>
+  <string id="33364" soundid="117585">How do you know he didn&apos;t?</string>
+  <string id="33365" soundid="117586">I know it wasn&apos;t the Emperor because it was some stranger who wandered into town, closed the dam, and saved us.</string>
+  <string id="33389" soundid="124097"></string>
+  <string id="33391">Where can I find Ru the Boatswain?</string>
+  <string id="33394">I want to ask you some questions.</string>
+  <string id="33397">[Intuition] Tien&apos;s Landing is your home. Don&apos;t you care about it?</string>
+  <string id="33398">[Intimidation] Give me your silver! The greater good demands it!</string>
+  <string id="33401">Gao&apos;s Mercenary</string>
+  <string id="33403">You&apos;re right. Keep your silver.</string>
+  <string id="33407">Does this have any practical effect?</string>
+  <string id="33410">I want to ask about someone specific.</string>
+  <string id="33411" soundid="128612">Though I fell for your deception and that of the other Lotus Assassins, I am no ignorant beast! I am a Guardian, bound to protect the treasures of this place.</string>
+  <string id="33412" soundid="128613">I failed when I allowed your master to steal the amulet from me, but I will not fail again! You will never escape with the gem!</string>
+  <string id="33419">Legendary Fist level 3a
+Signature move 1 enhancement 1: Chi damage **</string>
+  <string id="33420">Jade Empire gives you access to dozens of martial combat styles. Tailor your offence to the weaknesses of your opponents.</string>
+  <string id="33421">Don&apos;t Explode</string>
+  <string id="33459" soundid="39503">You won&apos;t get too far if you don&apos;t speak to Minister Sheng first. The dam is located in the ruins, but a pair of massive gates blocks the way. Only Sheng has the key.</string>
+  <string id="33461" soundid="39505">He&apos;s in the town square. You&apos;ll see him standing in front of a cart. Just don&apos;t ask him about the burned-out building nearby.</string>
+  <string id="33462" soundid="39506">Excellent. The key will get you into the ruins, where you can close the Great Dam. I hope to see the water rising soon.</string>
+  <string id="33463" soundid="39507">Good luck. I am not used to needing help from others. It is hard for me to say this, but... thank you.</string>
+  <string id="33476">Where do I find Minister Sheng?</string>
+  <string id="33478">I&apos;ve already got the key from Sheng.</string>
+  <string id="33480">I&apos;ll be back once the dam is closed and the river is not so low and fast.</string>
+  <string id="33481">Statue</string>
+  <string id="33491" soundid="39900">[Failure] No... it&apos;s not enough to kill a man.</string>
+  <string id="33492" soundid="39901">[Success] Yes... yes, if I kill Jiang, that will make me happy again! I will have my pride back! If nothing else, I will have my pride. I thank you for setting me straight.</string>
+  <string id="33494">Interrogate Spy</string>
+  <string id="33495">Find SumYungGuy and force him into telling you where the bomb is.</string>
+  <string id="33496">You are a tough Cookie, but now that you&apos;re in, defuse the bomb!</string>
+  <string id="33497">Follow Spy</string>
+  <string id="33498">Follow SumYungGuy on his patrol route as he checks up on the bomb. Then defuse it.</string>
+  <string id="33499">oohhh Sneaky you are! Defuse the bomb you must!</string>
+  <string id="33500">Be a retard</string>
+  <string id="33501">Just run around screaming &quot;WTF!?!!?!? Where is the bomb!?!?!&quot;</string>
+  <string id="33502">Yer an Idiot.</string>
+  <string id="33503" soundid="39903"></string>
+  <string id="33504" soundid="39904">Jiang, this is it. Time for your reward.</string>
+  <string id="33505" soundid="39905">What are you talking about, Captain? My success in business is reward enough for me.</string>
+  <string id="33507" soundid="39907"></string>
+  <string id="33508" soundid="39908">What just happened here? I saw the end of the fight, but not the beginning. Who attacked first?</string>
+  <string id="33509" soundid="39909">No. But you must tell me what happened here. Did this man kill in self defense, or was it murder?</string>
+  <string id="33510" soundid="39910">Wait, do not implicate yourself to save me. Guard, I attacked Merchant Jiang in a drunken attempt to salvage my pride. How did I think this would make me feel better?</string>
+  <string id="33511" soundid="39911">It is true! Guard, I attacked Merchant Jiang in a drunken attempt to salvage my pride. How did I think this would make me feel better?</string>
+  <string id="33512" soundid="39912">You are going to have to come with me.</string>
+  <string id="33513" soundid="39913"></string>
+  <string id="33515" soundid="39915">[Failure] No, that will change nothing.</string>
+  <string id="33516" soundid="39916">Merchant! Bring me more wine!</string>
+  <string id="33517" soundid="39917">Good, I have drinking to do.</string>
+  <string id="33530" soundid="105444">I hope you were not injured in the bandit attack. You fought bravely from what I hear.</string>
+  <string id="33531" soundid="39579">True, if the Great Dam remains open, the town will consolidate a bit. That might be a good thing. Either way, the smart ones who planned for their future will be fine.</string>
+  <string id="33532" soundid="39580">If you are going out there anyway, I would rather you consider how you can profit from the experience. *You* will be putting your life in danger. Shouldn&apos;t you be rewarded?</string>
+  <string id="33533" soundid="39581">Now we come to the heart of it. I need something done, and I will not ask for favors, or beg for help. I believe that everything has a value, and I place a value on your actions.</string>
+  <string id="33537">Exit Tunnel</string>
+  <string id="33538">Master Gang</string>
+  <string id="33540">Ghost Trouble</string>
+  <string id="33542" soundid="39590">If you&apos;ll excuse me, I have many customers. I try to provide good service, so I must be about my business.</string>
+  <string id="33544" soundid="39592">If the Great Dam closes, the water level rises and those sailors will float away with all their silver. It would be a ridiculous waste of a golden business opportunity.</string>
+  <string id="33550">Merchant Kia Jong</string>
+  <string id="33551">Merchant Kia Jong</string>
+  <string id="33553">Lapdog</string>
+  <string id="33556">Goodbye.</string>
+  <string id="33560" soundid="39613">Suit yourself.</string>
+  <string id="33561" soundid="39614">Oh, trust me, you have it at all times.</string>
+  <string id="33562" soundid="39615">You handled yourself well against the demonic servitor. It was a rewarding experience for us both, I&apos;m sure. Take this as my thanks.</string>
+  <string id="33563" soundid="39616">Your inability to deal with the minor demon cost me dearly. I expected more from you, but I am prepared to overlook your weakness, for the moment.</string>
+  <string id="33564" soundid="39617">You are a smart young woman--smart enough to know that you will get much further as my friend than my foe. </string>
+  <string id="33565" soundid="39618">You are a young man, but I know you have the wisdom to see that my friendship has... advantages.</string>
+  <string id="33566" soundid="39619">You may find that certain opportunities, mutually rewarding arrangements between us, will come your way in the near future. </string>
+  <string id="33567" soundid="39620">&quot;Cheat&quot; is such a pedestrian term. I prefer to think of myself as a creative engineer.</string>
+  <string id="33568" soundid="39621">Like the fountains that channel water throughout the land, I spread entertainment to the people.</string>
+  <string id="33569" soundid="39622">Good. I enjoy discussions with sensible people.</string>
+  <string id="33570" soundid="39623">Indeed. Of course, every match you face in the arena has you working for me, whether you realize it or not.</string>
+  <string id="33571" soundid="39624">Then you live in an amusing fantasy. Do say hello to the fox spirits and the twin dragons of heaven for me. When you have them over for tea, that is.</string>
+  <string id="33572" soundid="39625">There is the matter, however, of your friend, Whirlwind. I&apos;m sure you know that he was one of the fighters here and that he left the arena, but do you know why?</string>
+  <string id="33573" soundid="39626">He has good reason not to tell you about this part of his admittedly spotty past.</string>
+  <string id="33574" soundid="39627">Useful, but dangerous.</string>
+  <string id="33575" soundid="39628">How perceptive of you.</string>
+  <string id="33576" soundid="39629">Whirlwind&apos;s past is certainly a colorful one. Did he tell you that he was thrown out of the arena?</string>
+  <string id="33577" soundid="39630">We couldn&apos;t let him fight as he was, so he left. His brother, Raging Ox, wisely stayed here and went on to become champion.</string>
+  <string id="33578" soundid="39631">You could reach that point yourself, you know. Indeed, that&apos;s a distinct possibility.</string>
+  <string id="33579" soundid="39632">Hey! You can&apos;t...</string>
+  <string id="33580" soundid="39633">We&apos;re leaving, now. You and I have to talk. Alone. It&apos;s important.</string>
+  <string id="33581" soundid="142074">Ha! That got the blood moving. You&apos;re trying to bait me into a rumble, but it&apos;s not going to work. Years of being grumpy don&apos;t leave much room for proper anger any more.</string>
+  <string id="33582" soundid="142075">What did you want, anyway? And make it snappy! At my age I could die at the drop of a blossom.</string>
+  <string id="33584" soundid="142026"></string>
+  <string id="33587" soundid="105509">You&apos;d think the recent attack would have people buying supplies or weapons or something, but alas, business has not improved.</string>
+  <string id="33588" soundid="142495">Try Lin, she&apos;ll say anything to please you just to see your simpering little smile. Pathetic.</string>
+  <string id="33589" soundid="105511">Lieutenant, you are in charge while I go up to the Great Dam and check on the sentry golems. If anyone tries to enter these ruins, kill them.</string>
+  <string id="33590" soundid="105512">Of course, dread one.</string>
+  <string id="33592" soundid="154990">You have your orders! No one can enter the ruins. Kill the intruder!</string>
+  <string id="33594" soundid="154992">You&apos;ll want to talk to Spear Catches Leaf, he&apos;s Lord Yun&apos;s man. I&apos;m just the hired mercenary.</string>
+  <string id="33596">Speak with Zin Bu to enter his store. 
+
+Zin Bu the Magic Abacus is a celestial bureaucrat who seeks to shift over to sales. Check back often; his magical store occasionally restocks itself to help you on your journey. </string>
+  <string id="33599" soundid="154996">Thank you... thank you so much. I&apos;ll take you to them. Follow me.</string>
+  <string id="33601">I&apos;d like to repay you, but I appear to have spent most of it.</string>
+  <string id="33614">New Guy</string>
+  <string id="33620" soundid="105542">Idiot! He&apos;s obviously a spy! Kill him!</string>
+  <string id="33621" soundid="105543">Who are you? How did you get in here?</string>
+  <string id="33624" soundid="127797">I hear strange sounds coming from the ruins at night. They say it&apos;s ghosts, but I don&apos;t believe that!</string>
+  <string id="33625" soundid="39678">If you have even the tiniest bit of sense, Whirlwind, you&apos;ll realize that you should thank me.</string>
+  <string id="33626" soundid="39679">What... have you done to my brother?</string>
+  <string id="33627" soundid="39680">Your brother was a useful tool. After you cut him down while he defended me, I decided it would be too much bother to let him go. In the process, I saved you from charges of fratricide.</string>
+  <string id="33628" soundid="39681">And so the Ravager was born. The perfect, unquestioning enforcer of my will, and I owe it all to you, Whirlwind.</string>
+  <string id="33629" soundid="39682">I should kill you here and now, but first....</string>
+  <string id="33630" soundid="39683">I invoke the right of challenge! As an ex-champion, I will return and stake my claim upon this place. Tradition supports my right to this!</string>
+  <string id="33631" soundid="39684">But... the right of challenge hasn&apos;t been used in hundreds of years!</string>
+  <string id="33632" soundid="39685">Very well. You need not accept the precedents and traditions that make this Empire great, Qui.</string>
+  <string id="33633" soundid="39686">Instead, accept that my men will kill you if you dare contradict me again.</string>
+  <string id="33634" soundid="39687">So, stripling, what do you say? Are you prepared to suffer at my hands, or will you walk away and die the tenfold deaths of the coward?</string>
+  <string id="33635" soundid="39688">No! You are not the current champion, Serpent. My brother was, and now my friend is.</string>
+  <string id="33636" soundid="39689">Allow me to accept his challenge on your behalf, Master. I will not fail you, and I know my brother&apos;s spirit will be satisfied if I take this chance.</string>
+  <string id="33637" soundid="39690">Never! I will not allow a substitution of this sort!</string>
+  <string id="33638" soundid="39691">Are you certain, Master? I wish nothing more than to avenge my brother.</string>
+  <string id="33639" soundid="39692">Preposterous. This oaf can&apos;t fight for you.</string>
+  <string id="33640" soundid="39693">They do have the right, Serpent. You substituted the demon in place of one of your Guild men. You set the precedent yourself.</string>
+  <string id="33641" soundid="39694">Damn you all. Fine, I will fight the shaved bear. It will be a pleasure. Speak with Qui when you are ready. Until then, I will prepare.</string>
+  <string id="33642" soundid="39695">When you put it that way, I suppose it makes sense. You go and do what you do best.</string>
+  <string id="33643" soundid="39696">Deny me my vengeance. It&apos;s only my brother, after all.</string>
+  <string id="33644" soundid="39697">I look forward to squeezing the last breath from your throat. Speak with Qui when you are ready; I will be prepared.</string>
+  <string id="33645" soundid="39698">Unless you&apos;re smart enough to know when you are beaten. If so, take the wise man&apos;s path and simply walk away.</string>
+  <string id="33646" soundid="39699">I have every right, and Qui will ensure that you are not acclaimed until I am satisfied.</string>
+  <string id="33647" soundid="39700">I can... not fall like this. I....</string>
+  <string id="33648" soundid="39701">You have done nothing.... I still took your brother... from you.</string>
+  <string id="33649" soundid="39702">And I took him back and repaid the favor. Now hurry up and die, magician.</string>
+  <string id="33650" soundid="105625">The Serpent&apos;s going to be upset at this change. I&apos;m sure things are going to get very interesting around here.</string>
+  <string id="33651" soundid="108717">You&apos;re even and level headed, which means you won&apos;t watch your back. You&apos;ll never last.</string>
+  <string id="33652" soundid="105627">I thought someone smart enough to &quot;deal&quot; with Khana like you did would have had the sense to work with me. You missed your chance at some extra silver like a fool.</string>
+  <string id="33653" soundid="105628">Now my division&apos;s yours, but not for long, new meat. You&apos;ll be torn to shreds by the Sungs and all the other Gold round surprises.</string>
+  <string id="33654">What did you want to see me about?</string>
+  <string id="33656">I prefer to stand.</string>
+  <string id="33658">You asked me to come. I am at least worth your full attention.</string>
+  <string id="33664">If you&apos;re proposing I cheat or throw fights, I refuse.</string>
+  <string id="33667">I&apos;m always interested in rewarding opportunities.</string>
+  <string id="33669">I have no interest in working with you.</string>
+  <string id="33671">What if I think I&apos;m the one who should be directing the events around here?</string>
+  <string id="33673">I honestly don&apos;t know. He won&apos;t tell me.</string>
+  <string id="33675">I don&apos;t really care. He&apos;s useful; that&apos;s all that&apos;s important.</string>
+  <string id="33677">I expect the lout killed someone he shouldn&apos;t have. That seems his style.</string>
+  <string id="33679">We all have a past. I wouldn&apos;t hold his against him.</string>
+  <string id="33684" soundid="59879">The first change to the palace since the time of Sagacious Tien, in fact. That&apos;s a good reason to break with tradition, and one we all understood. </string>
+  <string id="33685">Student</string>
+  <string id="33691" soundid="127798">Tien&apos;s Landing has seen tough times, but we&apos;ve always pulled through. This town&apos;s spirit is strong.</string>
+  <string id="33694" soundid="105556">Consider it a perfectly laid trap, not a weakness. Your master was truly skilled, to mold such a trap into your very being. It is odd he never mentioned it to you.</string>
+  <string id="33696" soundid="105558">Sometimes the best masters dare not trust their students with the deepest mysteries. Certain lessons can only be learned if one discovers them for oneself.</string>
+  <string id="33698" soundid="105560">I look forward to crossing paths with you. You and I both rose quickly through the ranks. The true test will be in which of us falls and how we handle it.</string>
+  <string id="33700" soundid="105562">You are to face Hapless Han next, I hear. Do not underestimate him. His skills are not exceptional, but one cannot question his heart or his drive.</string>
+  <string id="33702" soundid="105564">The Guild does not operate so overtly in the rest of the City. I wonder if the organization condones such actions. But such musings are useless. Why have you told me this?</string>
+  <string id="33704" soundid="105566">A warrior knows that training is more valuable than silver.</string>
+  <string id="33707">You are skilled indeed.</string>
+  <string id="33709">I will discuss it with him.</string>
+  <string id="33712">My master has many questions to answer when I find him.</string>
+  <string id="33721" soundid="105629">And when you&apos;re beaten and tired and bloody, that&apos;s when I&apos;ll take my division back. Just wait and see.</string>
+  <string id="33722" soundid="105630">Come over here, we&apos;ve got something to discuss!</string>
+  <string id="33723" soundid="105631">You thought you could mess with Iron Soldier. Ha!</string>
+  <string id="33724" soundid="105632">You learned your lesson, didn&apos;t you? You can&apos;t beat me. Very few people can in this entire Empire. You&apos;re welcome to try again, but no deal this time.</string>
+  <string id="33728">You won&apos;t leave right away?</string>
+  <string id="33734">What tradition is this?</string>
+  <string id="33735">More cheap tricks? You&apos;re sinking to a new low.</string>
+  <string id="33742">There have been other substitutions here, Kai Lan. Mine won&apos;t be the first.</string>
+  <string id="33743">Calm down, Serpent, I will be facing you.</string>
+  <string id="33744">On second thought, you will fight for me.</string>
+  <string id="33747">I will be your agent in this.</string>
+  <string id="33749">Frankly, I don&apos;t think you can beat him. I&apos;m not leaving my championship in your hands.</string>
+  <string id="33752">You have no right to challenge me at all, Serpent.</string>
+  <string id="33753">Then Black Whirlwind will have his vengeance.</string>
+  <string id="33754">I will face you, then, when I am ready.</string>
+  <string id="33756">Bad play.</string>
+  <string id="33773">Artists can be touchy about their work, and doubly so when it is delivered incorrectly. Your incorrect &quot;revisions&quot; to his play prompted Incisive Chorus to refuse you your reward.</string>
+  <string id="33775">Zu</string>
+  <string id="33776">Find an Actor in the Golden Way</string>
+  <string id="33778">An actor named Phong in the rich area of town seeks a replacement actor. He should be near the large pagoda that overlooks the district.</string>
+  <string id="33782">Jade Golem</string>
+  <string id="33785">Copies of the original and your revised role as Lady Fourteen Flowers in hand, you have a moment to study up on your role in Incisive Chorus&apos; play.</string>
+  <string id="33802">No, not right now.</string>
+  <string id="33803">Tell me about my next fight.</string>
+  <string id="33806">No, I just want to get to the fight.</string>
+  <string id="33807">Yes, please explain the procedures here.</string>
+  <string id="33810" soundid="154017">It is unimportant. All that matters is that he was caught. We don&apos;t need to know any more than that. It is a glorious validation of all that we do to serve our masters.</string>
+  <string id="33812">Tell me what you know of Master Li.</string>
+  <string id="33814" soundid="39874">You killed him! You... you butchered him right in front of me!</string>
+  <string id="33815">Tell me about Gao.</string>
+  <string id="33818" soundid="39878">Well, he was a condemned man. I guess... I guess he just got what he deserved.</string>
+  <string id="33819" soundid="39879">Uh... if we get any more prisoners, I&apos;ll make sure you get first crack at them. Good day.</string>
+  <string id="33820" soundid="39880">Executioners don&apos;t make much. Most of them aren&apos;t in it for the money.</string>
+  <string id="33821">You did not earn the favor of the Inquisitor. Seek the favor of the Lotus Assassin Executioner.</string>
+  <string id="33822">Where did he learn this if Master Li will not teach it?</string>
+  <string id="33824">What do you know about Dawn Star?</string>
+  <string id="33825">I executed him for his crimes.</string>
+  <string id="33827">I want to ask about you.</string>
+  <string id="33828">What do you care? He was a criminal.</string>
+  <string id="33830">Thank you.</string>
+  <string id="33832">That&apos;s it? He almost wasn&apos;t worth killing.</string>
+  <string id="33835">I have no idea how to actually make muffins.
+</string>
+  <string id="33836">Bake Muffins</string>
+  <string id="33837" soundid="39918">I don&apos;t want to talk. Less talk, more wine!</string>
+  <string id="33838" soundid="39919">Leave me to my drinking!</string>
+  <string id="33839" soundid="39920">Pfah! My ship has been trapped in this mud-hole since the dam opened. I&apos;d always hoped the dam could still be closed, but now word comes that it&apos;s open forever. Why care?</string>
+  <string id="33842" soundid="39923">There is a way out. I&apos;m sure it&apos;s at the bottom of this bowl of wine!</string>
+  <string id="33843" soundid="39924">I hardly believe that! Hah! Now leave me to my wine.</string>
+  <string id="33844" soundid="39925">And don&apos;t bother me again! I&apos;ve got drinking to do!</string>
+  <string id="33845" soundid="39926">I am starting to realize the magnitude of what we have done. We killed a man!</string>
+  <string id="33846" soundid="39927">What... what do you mean?</string>
+  <string id="33847" soundid="39928">You did what? Tell me you are joking! You destroyed my life, my ship, my career... and now you&apos;ve destroyed me by making me kill a man!</string>
+  <string id="33850" soundid="39931">You destroyed my life. There is nothing left for me to do but return the favor.</string>
+  <string id="33851" soundid="39932">Don&apos;t worry, I won&apos;t tell them about your involvement in this.</string>
+  <string id="33852" soundid="39933">I did not do this alone! You played a big part in this. You convinced me that this was the only way!</string>
+  <string id="33853" soundid="39934">I take full responsibility for my own actions, and I am going to be punished. But we will both always know that you played some small part in this.</string>
+  <string id="33854" soundid="39935">Wait! What was that glint I saw in your eye? Was it amusement? What is so funny about this?</string>
+  <string id="33856" soundid="39937">Goodbye.</string>
+  <string id="33858" soundid="39939">You! Merchant! Give me some wine, curse you!</string>
+  <string id="33859" soundid="39940">My pleasure, captain.  Have a seat, and I&apos;ll bring you a bowl.</string>
+  <string id="33860" soundid="39941"></string>
+  <string id="33861">Duchess of Ulmsbottom&apos;s Rules of Engagement</string>
+  <string id="33862">Mind +3
+
+ A worn copy of The Duchess of Ulmsbottom&apos;s Rules of Engagement. A leather-bound book, its cover emblazoned with two silhouettes of musketeers aiming large blunderbusses at each other in an upright stance. While virtually incomprehensible, some of the diagrams provide excellent examples of the ways in which wars and battles should never be fought.</string>
+  <string id="33863" soundid="39944">Cap&apos;m! What are you doing here? Shouldn&apos;t you be... battening hatches or somesuch?</string>
+  <string id="33864" soundid="39945">No.</string>
+  <string id="33865" soundid="39946">Shouldn&apos;t you be swabbing... your deck?</string>
+  <string id="33866" soundid="39947">No.</string>
+  <string id="33867" soundid="39948">Shouldn&apos;t you be--</string>
+  <string id="33868" soundid="39949">No and no! There is no water, so there is no ship! We&apos;re never leaving.... Merchant! Where is that cursed wine!</string>
+  <string id="33869" soundid="39950">Yes, yes, here is the wine! Wine for the mighty captain!</string>
+  <string id="33870" soundid="39951"></string>
+  <string id="33871">Manual of Trepanation</string>
+  <string id="33872" soundid="39953">No water. No ship. No captain.</string>
+  <string id="33873">Spirit +3
+
+This manual outlines the step by step process for drilling a small hole in the skull that will, in theory, release pressure on the brain, allowing the mind to expand and work more efficiently. Since the treatment goes against all the science understood by the Jade Empire&apos;s physicians, you assume that this is a metaphor for deeper mysteries. Your reflection upon the myriad possibilities presented by such a strange procedure has brought you more in tune with your own spirit.</string>
+  <string id="33874" soundid="39955">Leave me alone. The ship is trapped, I&apos;m trapped, and wine is all I have.</string>
+  <string id="33875" soundid="39956">Does it make you feel good to say things like that?</string>
+  <string id="33876" soundid="39957">Do you have something to say, or are you truly just here to taunt me? If so, please go away.</string>
+  <string id="33877" soundid="39958">There is no way out. I will never leave this place. I feel as if I&apos;ve been betrayed, but I don&apos;t know how.</string>
+  <string id="33878" soundid="39959">The... the merchant? No... I don&apos;t think so. I can&apos;t kill him. I don&apos;t even know if he did anything.</string>
+  <string id="33880" soundid="39961">[Success] That&apos;s true.... You would have no reason to lie to me. If you say he did this, then he did this.  And so he must die. I thank you for setting me straight.</string>
+  <string id="33881">Fitness for the Upright Gentleman</string>
+  <string id="33882">Body +3
+
+A worn copy of Fitness for the Upright Gentleman, a manual of regimented conditioning. This small leather-bound book with the outline of a man in some strange fighting style on the cover contains radical exercises that offer alternate training methodologies that allow you to gain in strength.</string>
+  <string id="33885">[Intuition] Vengeance is all you have left.</string>
+  <string id="33893">It was that man right there: Captain Ing! He&apos;s guilty!</string>
+  <string id="33894">I did not see.</string>
+  <string id="33895">Is there a reward if I tell you?</string>
+  <string id="33896">Merchant Jiang attacked the Captain.</string>
+  <string id="33901">Coward.</string>
+  <string id="33902">Very well, I wish you the best.</string>
+  <string id="33903">Never mind. Keep on drinking.</string>
+  <string id="33904">Remember to roll over when you void your bladder.</string>
+  <string id="33905">Very well. I wish you the best.</string>
+  <string id="33906">I have nothing to say to you.</string>
+  <string id="33907">What seems to be the problem?</string>
+  <string id="33910">You cannot just give up! There must be a way out.</string>
+  <string id="33911">Actually, I&apos;m the one who broke the dam open.</string>
+  <string id="33912">Goodbye.</string>
+  <string id="33913">Goodbye.</string>
+  <string id="33914">What do you mean, &quot;we?&quot; You&apos;re the murderer!</string>
+  <string id="33915">I just came to tell you that you are awfully stupid.</string>
+  <string id="33916">I&apos;m the one who trapped you here, not Jiang.</string>
+  <string id="33918">That sounds about right.</string>
+  <string id="33919">An excellent summation. Have fun at the execution.</string>
+  <string id="33920">When you put it like that, it sounds awful!</string>
+  <string id="33922">Nothing, never mind.</string>
+  <string id="33923">I am sorry how things turned out. I&apos;ll let you be.</string>
+  <string id="33924">My involvement? You&apos;re the murderer!</string>
+  <string id="33925">I did more than that: I&apos;m the one who trapped you here.</string>
+  <string id="33926">You didn&apos;t have to listen. Take responsibility for yourself.</string>
+  <string id="33927">I had better go now.</string>
+  <string id="33928">Nothing, never mind.</string>
+  <string id="33929">I am grateful; goodbye.</string>
+  <string id="33947">The mighty Captain Ing has fallen apart.</string>
+  <string id="33948">Yes.</string>
+  <string id="33949">Sorry. Just keep drinking.</string>
+  <string id="33950">Don&apos;t give up. You&apos;ll find a way out of here!</string>
+  <string id="33951">Merchant Jiang did this to you. You should kill him.</string>
+  <string id="33953">[Charm] I heard him confess, and why would *I* lie?</string>
+  <string id="33954" soundid="40035">Qui should have told you that Kai Lan will only see you alone. Are you ready to go in now?</string>
+  <string id="33955" soundid="40036">Don&apos;t stare at me. I&apos;m not here for your amusement.</string>
+  <string id="33956" soundid="40037">Unless you have business with the Serpent, go away.</string>
+  <string id="33957" soundid="40038">Go on, don&apos;t bother me.</string>
+  <string id="33958" soundid="40039">You have no reason to be here, go on.</string>
+  <string id="33959" soundid="40040">I hate standing here, but I will be for a long time. Don&apos;t tempt my foul mood.</string>
+  <string id="33960">Buy Premade Mix</string>
+  <string id="33961">Goto the store and pick up a mix.</string>
+  <string id="33962">You have bought a pre made muffin Mix. Proceed to bake.</string>
+  <string id="33963">Purchase Ingredients</string>
+  <string id="33964">Goto the store and get everything you need.</string>
+  <string id="33965">You took the manly way! Get Mixing!</string>
+  <string id="33966">Put the flour in</string>
+  <string id="33967">Pour the right amount of flour in the bowl.</string>
+  <string id="33968">Congratulations, you&apos;ve made muffins!</string>
+  <string id="33969">Put the eggs in</string>
+  <string id="33970">Put the right amount of eggs in the bowl.</string>
+  <string id="33971">Congratulations, you&apos;ve made muffins!</string>
+  <string id="33972">Put everything else in the bowl</string>
+  <string id="33973">Put the right amount of everything else in the bowl.</string>
+  <string id="33974">Congratulations, you&apos;ve made muffins!</string>
+  <string id="33975">Cook it</string>
+  <string id="33976">Throw it in the oven.</string>
+  <string id="33977">Congratulations, you&apos;ve made muffins!</string>
+  <string id="33978" soundid="91795">This little man makes my eyeballs itch. I may have to kill him.</string>
+  <string id="33982" soundid="127421">They just bring themselves back up as fast as I can put them in. I&apos;ll give you a reward for any ghosts you take care of. Eh-heh, you can make good money that way.</string>
+  <string id="33983" soundid="127422">There are three main ghosts to deal with: Miss Chan, Merchant Bai, and Mister Ren. I&apos;ll give you a reward for each, of course. I know a bit about them, but not that much.</string>
+  <string id="33989" soundid="127423">I don&apos;t know what happened to it, but it doesn&apos;t look good. It just... collapsed! It&apos;s a bad omen, there&apos;s no doubt about that... and I know about bad omens! </string>
+  <string id="33990" soundid="127424">I&apos;m... I&apos;m not going to stay around these parts too much longer, I think. Too many strange things are happening for a man to stay healthy for long.</string>
+  <string id="33994" soundid="40075">Ah! A customer, yes? Indeed, indeed, indeed! A customer for Merchant Shipeng, who will surely soon be the richest merchant in the square!</string>
+  <string id="33995" soundid="40076">I am Merchant Shipeng. I work for Master Jiang. He&apos;s cutting me in for some of his business, yes? Ha-ha! He sells the wine, I sell everything else!</string>
+  <string id="33996" soundid="40077">I am Merchant Shipeng. Once, I worked for Merchant Jiang, but now he&apos;s dead. Very sad. But don&apos;t worry, I&apos;ve taken over his business. You want to buy something?</string>
+  <string id="33997" soundid="40078">Yes, yes, and yes! Ha ha! My skill and suavity as a merchant triumphs once more. Master Jiang will be pleased!</string>
+  <string id="33998" soundid="40079"></string>
+  <string id="33999" soundid="40080">Yes, yes and yes! Ha ha! My skill and suavity as a merchant triumphs once more!</string>
+  <string id="34000" soundid="40081">Oh no! Master Jiang will beat me. No! Come back!</string>
+  <string id="34001" soundid="40082">Oh no! Silver, walking away from me! Come back silver, come back!</string>
+  <string id="34002" soundid="40083">You return? It is because Merchant Shipeng is such a fine and wonderful and magnificent merchant! You wish to see my wares, yes?</string>
+  <string id="34003">Who are you?</string>
+  <string id="34004">Let me see your wares.</string>
+  <string id="34007">I&apos;m not interested. Goodbye.</string>
+  <string id="34008">Yes.</string>
+  <string id="34020">Lishun</string>
+  <string id="34025">Peasant</string>
+  <string id="34026" soundid="72458">For future reference, Doctor An carries a selection of potent ginseng. You&apos;ll thank me for that tidbit in twenty years when your, ah...foundation&apos;s a little shaky.</string>
+  <string id="34041">Control Menu</string>
+  <string id="34044" soundid="112211">Your method traps your opponents into hunting for a weakness they&apos;ll never find. You should speak with your master about this. For now, you are deadly enough.</string>
+  <string id="34060" soundid="71285">Suit yourself. I try not to worry over minor details. Now, drink?</string>
+  <string id="34064" soundid="71289">Well that&apos;s good, I guess. Heh, as long as I&apos;m not giving any refunds, of course, eh-heheh. Here&apos;s what I promised you.</string>
+  <string id="34065" soundid="71290">Business has been more lively lately, with you around, eh-heh. A little gravedigger humor there, see? Lively? Eh-heh, I&apos;m good.</string>
+  <string id="34066" soundid="71291">Eh-heh. Drop by anytime. If I ever see a spirit that needs to be put back down again, I&apos;ll seek you out.</string>
+  <string id="34067" soundid="71292">Hm... not at the moment, no. As for later, who knows? You never can tell with life... or death. Eh-heh.</string>
+  <string id="34068" soundid="72460">I&apos;m sure you can find anything you need around here. The Imperial City&apos;s as good as the trade hub of Phoenix Gate for selection.</string>
+  <string id="34069" soundid="71294">[Success] Uh... yeah... yeah. This doesn&apos;t have to get any more bloody than it has to be.</string>
+  <string id="34070" soundid="71295">Sure, here. Take this. Now just... just move on your way.</string>
+  <string id="34071" soundid="72461">It&apos;s a dull story, but people have this funny idea that there&apos;s some sort of magic in how I work with animals. </string>
+  <string id="34073" soundid="71296">[Failure] Ha! I&apos;ve given you what I promised. A deal&apos;s a deal! You haven&apos;t earned any more from me!</string>
+  <string id="34074" soundid="71297">What? No!</string>
+  <string id="34075">Gufu the Sweet</string>
+  <string id="34076">Imperial Captain Sen has tasked you with finding a confidence man on the run. Creative Yukong apparently bilked a sizable sum of silver out of a Lord Rento and is hiding somewhere in the Imperial City, possibly in disguise.</string>
+  <string id="34078">Creative Yukong&apos;s Bounty</string>
+  <string id="34080">Peasant</string>
+  <string id="34081">An old man approached you after you dealt with both of Captain Sen&apos;s bounties. He told you about another wanted criminal named Aishi the Mournful Blade.</string>
+  <string id="34083">Aishi the Mournful Blade</string>
+  <string id="34085">Old Wei</string>
+  <string id="34086">Inform Thespian Phong When You are Ready</string>
+  <string id="34095">There is a scroll stand nearby where you can look over the two scripts side by side. When you have your lines memorized, talk to First Degree Thespian Phong.</string>
+  <string id="34099">Peasant</string>
+  <string id="34113">Peasant</string>
+  <string id="34114">The Play is Over</string>
+  <string id="34118">Cook Teh</string>
+  <string id="34121">There&apos;s no way Incisive Chorus&apos; play would still be looking for a replacement after your time among the Lotus Assassins. They likely went ahead with a different replacement actor.</string>
+  <string id="34123">Dishwasher Wong</string>
+  <string id="34124">Player did not do well, hit all 6 &quot;goofy&quot; lines.</string>
+  <string id="34128">Fisherman</string>
+  <string id="34131">The unfortunate part about historical drama is that people tend to know how it should go ahead of the performance. Your completely fabricated lines were ill-received by nearly the entire audience.</string>
+  <string id="34136" soundid="72462">They claim I have the reach of three men, able to stop a herd of stampeding bull demons with just my eyes. Hence the name.</string>
+  <string id="34137" soundid="71299">If I ever see a spirit that needs to be put back down again, I&apos;ll seek you out.</string>
+  <string id="34138" soundid="72463">There&apos;s no magic to it; anyone who knows will tell you that herding animals is two-thirds watching the eyes. You don&apos;t have to reach far if you know where they&apos;re going.</string>
+  <string id="34140" soundid="72465">I told you it wasn&apos;t that interesting a story, didn&apos;t I?</string>
+  <string id="34141" soundid="72466">Suit yourself. I&apos;ll be around if you want to chat again.</string>
+  <string id="34143" soundid="72468">Thanks. You get to appreciate peace as you age a bit.</string>
+  <string id="34144">Sell to Store</string>
+  <string id="34145">Skip</string>
+  <string id="34146">Ghost</string>
+  <string id="34147" soundid="72472">I remember a time when a man could pause to enjoy a moment of peace out behind the arena without interruption.</string>
+  <string id="34149" soundid="72474">No help for times changing, I suppose. What can Three Reach Lao do for you?</string>
+  <string id="34150" soundid="72475">It&apos;s peaceful back here, isn&apos;t it? Away from the hustle.</string>
+  <string id="34151" soundid="72476">I suppose. What&apos;s on your mind?</string>
+  <string id="34158" soundid="72483">This massive edifice is the Imperial Arena, one of the great sites of this city. </string>
+  <string id="34160" soundid="71322">Oh, you again, eh? Well, me and old Tanner Fong here have been talking and well, one thing led to another.</string>
+  <string id="34161" soundid="71323">Fong here can stay and work for me for a bit while he tries to clear his name and prove he&apos;s not dead.</string>
+  <string id="34162" soundid="71324">I know a few people. They might be able to help.</string>
+  <string id="34163" soundid="71325">Yeah, yeah, sure. Now that you&apos;re working for me, you&apos;re gonna have to earn your keep. Now pick up that shovel!</string>
+  <string id="34164" soundid="71326">Uh... yeah, yeah, fine.</string>
+  <string id="34165" soundid="71327">Heh, best thing is, if he goes and keels over, his grave&apos;s already dug! Eh-heheh.</string>
+  <string id="34166" soundid="71328">What do you need?</string>
+  <string id="34167" soundid="71329">Eh? What is it you want to know?</string>
+  <string id="34168" soundid="71330">Never mention that name near me again. In fact, never mention that name within a mile of me! Just by saying his name, you could bring his wrath down on us!</string>
+  <string id="34169" soundid="127799">People think the Emperor&apos;s forgotten about us, but Sheng is proof we haven&apos;t been abandoned.</string>
+  <string id="34170" soundid="71332">Now, just ask something else, or leave me be.</string>
+  <string id="34171" soundid="71333">Shh! Don&apos;t talk about them. They have ears everywhere, even among the dead.</string>
+  <string id="34172" soundid="71334">The Emperor&apos;s secret assassins, they call them, as silent and mysterious as death... which is exactly what&apos;s in store for us if we keep talking about them!</string>
+  <string id="34173" soundid="71335">They say no one who&apos;s crossed them has ever lived to tell of it. And I&apos;m not going to test the truth of that rumor! Just... talk about something else.</string>
+  <string id="34174" soundid="71336">That big monstrosity? They started building it for the Emperor years ago, but after the Emperor freed us from the droughts, they stopped working on it.</string>
+  <string id="34175" soundid="71337">Workers started getting sick. Ghosts from the old tombs under it gave &apos;em a bit of trouble, too.</string>
+  <string id="34176" soundid="71338">Before long, no one would go near it, and it never really got finished. Don&apos;t know what the Emperor&apos;s gonna do when he gets old, but I suppose he knows what&apos;s best.</string>
+  <string id="34177" soundid="71339">Damn things won&apos;t stay dead! You know. You&apos;ve dealt with them.</string>
+  <string id="34178" soundid="71340">I put them down, then they get right back up! It&apos;s like they don&apos;t have nowhere else to go but *back in my damn house!*</string>
+  <string id="34191">Shanpan</string>
+  <string id="34196">Peasant Yijin</string>
+  <string id="34206">Girl</string>
+  <string id="34207">Door</string>
+  <string id="34208" soundid="108718">I&apos;ve heard that more times than you know. Iron Soldier always finds a way back. Always.</string>
+  <string id="34209" soundid="108719">You shut your mouth. Youth doesn&apos;t last, and you&apos;ll learn that hard lesson soon enough.</string>
+  <string id="34211">I&apos;ll figure it out as I go along. Skip to the fight.</string>
+  <string id="34218" soundid="108720">Do you actually need anything or are you just there to flap your gums?</string>
+  <string id="34271">Peasant Rijin</string>
+  <string id="34276">Sailor</string>
+  <string id="34286">Merchant Chiu</string>
+  <string id="34296">Dockworker</string>
+  <string id="34301">Urchin</string>
+  <string id="34306">Courtesan</string>
+  <string id="34311">Beggar</string>
+  <string id="34316">Courtesan</string>
+  <string id="34326">Sailor</string>
+  <string id="34331">Sailor</string>
+  <string id="34336">Sailor</string>
+  <string id="34425">You don&apos;t possess the Dragon Amulet.</string>
+  <string id="34534">Sailor</string>
+  <string id="34675">Militia Guard</string>
+  <string id="34680">Sailor</string>
+  <string id="34685">Merchant Cheung</string>
+  <string id="34690">Slave Woman</string>
+  <string id="34695">Guard</string>
+  <string id="34700">Hui the Brave</string>
+  <string id="34705">Patron</string>
+  <string id="34710">Patron</string>
+  <string id="34715">Sailor</string>
+  <string id="34725">Sailor</string>
+  <string id="34750">Tai Lu</string>
+  <string id="34760">Townsman</string>
+  <string id="34763" soundid="154745">Take good care, sir!</string>
+  <string id="34765">Unblockable: &lt;CUSTOM0&gt;</string>
+  <string id="34766">Resisted</string>
+  <string id="34768" soundid="71064"></string>
+  <string id="34770" soundid="71065"></string>
+  <string id="34772" soundid="127800">The Emperor won&apos;t allow those slaving pirates to keep attacking the villages. You&apos;ll see!</string>
+  <string id="34773" soundid="127801">I wish those sailors would just leave me alone, but I guess we&apos;re stuck with them until someone closes the dam.</string>
+  <string id="34774" soundid="127802">Now that those sailors are gone, it&apos;s safe for a girl to walk the streets again.</string>
+  <string id="34824" soundid="55179">Help! Help me please! I have to get out of here! I&apos;m trapped with these scary people, and I can&apos;t see any way out!</string>
+  <string id="34843" soundid="41641">You would try to walk with the gods? This is the arrogance we have been fighting. No!</string>
+  <string id="34844" soundid="41642">This can&apos;t be right. Not after everything we have done. I will not allow it.</string>
+  <string id="34845" soundid="41643">The decision has been made. I&apos;m sorry, but it is necessary.</string>
+  <string id="34846" soundid="41644">It must be done. It is the only way to truly secure the Empire.</string>
+  <string id="34847" soundid="41645">Struggle as best you can. Your world is in the balance.</string>
+  <string id="34848" soundid="41646"></string>
+  <string id="34850" soundid="41648"></string>
+  <string id="34853" soundid="41651">An interesting question. You would at least be no worse than those who have tried so far.</string>
+  <string id="34854" soundid="41652">It is tempting, I know, but care must be taken. Even the strong willed have misused this energy.</string>
+  <string id="34855" soundid="41653">Interesting. This power could be used to strengthen the Empire instead of one man.</string>
+  <string id="34856" soundid="41654">I help myself by showing you what has been done in the name of power. Mortals were corrupted beyond care for their fellows, or even for their own brothers.</string>
+  <string id="34857" soundid="41655">She... she wants you to be disgusted by Master Li. You can make sure this never happens again.</string>
+  <string id="34858" soundid="41656">Water flows from the wound that will not heal in the body that cannot die. Part of me functions as an aspect of our world, elemental in nature.</string>
+  <string id="34859" soundid="41657">It was never meant to flow free. It is not infinite. The Jade Empire is green, but somewhere another land goes thirsty. All things are linked.</string>
+  <string id="34860" soundid="41658">And someone else suffers our fate while we defy destiny.</string>
+  <string id="34872" soundid="126227">Is it... is it possible? Are you... are you the one for whom I have waited?</string>
+  <string id="34874" soundid="41672">Your Master awaits you, but he is not yet aware. You have time to alter things to your favor. You have time to set us all on the path to rebirth.</string>
+  <string id="34875" soundid="41673">Learn what has come before, and you will understand what must be done now. Follow into the depths, and see what was done in search of my power.</string>
+  <string id="34877">Food Stand</string>
+  <string id="34880">Support</string>
+  <string id="34881">Support</string>
+  <string id="34882">Support</string>
+  <string id="34887" soundid="41685"></string>
+  <string id="34888" soundid="41686">The tombs of the greatest emperors. Here the Empire was built, and here the heart of it is laid to rest. Now that heart is torn out, like another to come.</string>
+  <string id="34889" soundid="41687">It was gutted to allow the flow, to guide the water that pours from a crime against the heavens and the order of all things.</string>
+  <string id="34890" soundid="41688">What hope is there for the future when the past is cast so roughly aside?</string>
+  <string id="34891" soundid="41689">Emperor Sun would not accept that his Empire had to fade so that something new would bloom. He declared war as if the drought was an advancing army.</string>
+  <string id="34892" soundid="41690">He and the Glorious Strategist focused on me, the Water Dragon. I symbolized the fading they wanted to avoid, and the regrowth they desperately needed.</string>
+  <string id="34893" soundid="41691">I became the answer to everything. Press further, and you will see the source of the lush new Empire under the Brothers Sun. </string>
+  <string id="34894" soundid="41692">You must see it with your own eyes to comprehend what they have done.</string>
+  <string id="34895" soundid="144087">You have turtle eggs? Here? After just saying they are very rare?</string>
+  <string id="34896" soundid="41694">The living are the victims. If this is how the past is treated, what can you expect for the future? Nothing done will matter, because it will all be swept aside.</string>
+  <string id="34897" soundid="41695">Everything is someone or something&apos;s past. This is why mortals cannot wield the power of the gods. They cannot see the complexity of the world.</string>
+  <string id="34906">Bull Construct</string>
+  <string id="34909">Bull Construct</string>
+  <string id="34912">Elephant Construct</string>
+  <string id="34916">Why was this done? Where does this water flow from?</string>
+  <string id="34920" soundid="144088">Well, I was saving them for my coming anniversary. You buy early if you want them to be... ripe. It doesn&apos;t really matter, does it? </string>
+  <string id="34921">They have long since gone to the underworld. How would this hurt them?</string>
+  <string id="34923">Perhaps things are too complex and need simplification.</string>
+  <string id="34938">Let Dawn Star fend for herself. If she is strong, she&apos;ll survive.</string>
+  <string id="34939">You blame Master Li? Didn&apos;t Emperor Sun place you here?</string>
+  <string id="34942">What do you think I can do about this?</string>
+  <string id="34945">I will do what is necessary to restore the order of things.</string>
+  <string id="34947">How is he controlling that power?</string>
+  <string id="34949">Emperor Sun had your power for twenty years, and I destroyed him.</string>
+  <string id="34953">Then that is what I will do. There is no doubt in my mind.</string>
+  <string id="34958">If Li is using the amulet I no longer need, could I control the power too?</string>
+  <string id="34960">I will not tempt myself. I will destroy your body as you wish.</string>
+  <string id="34961">In Dirge, blood in the fountains suppressed your power without destroying it.</string>
+  <string id="34965">A human should decide human destiny, no matter the cost.</string>
+  <string id="34966">It is my decision alone whether I take this path or not!</string>
+  <string id="34969">I was merely exploring options. I will destroy the body.</string>
+  <string id="34970">Dawn Star will do.</string>
+  <string id="34974">I have a demon and the Black Whirlwind. They will ensure my will is obeyed!</string>
+  <string id="34979">Your spirit seems strong. Why can&apos;t you help yourself?</string>
+  <string id="34981">This water feeds the Empire? This was why the drought ended?</string>
+  <string id="34993" soundid="172553">I have no one inside me, except for the Guardian and... the Other. But some of these people, the ghosts inside them cause so much pain...</string>
+  <string id="35000" soundid="92097">Spirits know many things, but how to assault a fortress does not appear to be one of them.</string>
+  <string id="35001" soundid="92098">Follow her, and take someone with you, but whoever you leave behind should take another route. That way, they don&apos;t get behind you, and we&apos;ll all get equal fighting.</string>
+  <string id="35002" soundid="92099">You don&apos;t know the palace. You will wander aimlessly.</string>
+  <string id="35003" soundid="92100">I always wander aimlessly, and I always find my way. Besides, we&apos;ve been here before.</string>
+  <string id="35004" soundid="92101">We&apos;ll be lucky to see him again.</string>
+  <string id="35005" soundid="92102">You&apos;re lucky to see me now, Princess. I&apos;m not known for leaving my company alive.</string>
+  <string id="35006" soundid="92103">Fighting in the heart of the palace... I never thought I would visit, and now I&apos;m storming its walls for the second time!</string>
+  <string id="35007" soundid="92104">It is not a task I wanted, but we have no choice.</string>
+  <string id="35008" soundid="132381">Minister Sheng wishes you a fond farewell. Be sure you experience the full wonders of the Imperial City while you&apos;re here.</string>
+  <string id="35013">Elephant Construct</string>
+  <string id="35028" soundid="132382">Back again? While Minister Sheng appreciates the sight of a familiar face, I&apos;m afraid I don&apos;t have much time to talk. I must prepare my report for Judge Fang.</string>
+  <string id="35029" soundid="132383">And by &quot;prepare my report,&quot; I actually mean &quot;keep watch over the honor gift I&apos;m going to present to him.&quot; It&apos;s far too valuable to leave in the care of these rent-a-soldiers!</string>
+  <string id="35030" soundid="132384">Please excuse me. Judge Sheng really doesn&apos;t have the time to chat. I must make preparations for my transfer back to the Imperial City.</string>
+  <string id="35031" soundid="132385">Have you heard the news? Judge Fang is gone, and his replacement is none other than... me! Minister Sheng finally gets his just reward!</string>
+  <string id="35032" soundid="132386">Or should I say Judge Sheng! At last, my triumphant return to the Imperial City! So many things to prepare, so many things to do.</string>
+  <string id="35033" soundid="132387">Yes, Minister--I mean, Judge--Sheng has earned it! After the suffering of my great exile, the Imperial City welcomes me back to its bosom.</string>
+  <string id="35034" soundid="132388">You&apos;d think that would bother me, wouldn&apos;t you? But Minister--I mean, Judge--Sheng doesn&apos;t care, as long as I&apos;m back in the Imperial City.</string>
+  <string id="35035" soundid="132389">Please, Minister Sheng is in no mood to speak. Reports have come in that Fang is dead, and I live in terror at the thought of who his replacement might be.</string>
+  <string id="35036" soundid="132390">What if the new head of the Ministry of Harmony hates me even more than Fang? It&apos;s possible, you know... Minister Sheng is not well liked.</string>
+  <string id="35038" soundid="132391">It could be Judge Fong. That would be bad. Or Judge Feng. That would be worse. Or maybe even... Judge Fyung!</string>
+  <string id="35041" soundid="132392">Alas, Sheng is not so delusional as to believe in that outcome. Now, if you don&apos;t mind, I would prefer to ponder my fate without your whimsical interruptions.</string>
+  <string id="35044" soundid="127011">You&apos;re back. Have you considered my offer? I&apos;m willing to pay you a large reward if you close the dam.</string>
+  <string id="35045" soundid="127012">I wanted you to close the dam so I could take my ship and my men and leave this place. I&apos;m willing to pay you a substantial reward. Have you... reconsidered my offer?</string>
+  <string id="35046" soundid="92115">Such disrespect. I never imagined my father would allow this to happen.</string>
+  <string id="35047" soundid="92116">Such disrespect. This was done after Master Li ran from the Emperor, but he must have known it would be needed.</string>
+  <string id="35048" soundid="92117">To show such disrespect... Where would they take the Empire from here?</string>
+  <string id="35049" soundid="92118">Room had to be made. The old is cast aside.</string>
+  <string id="35050" soundid="92119">Bah! Everyone knows corpses spoil water. It&apos;s nothing new.</string>
+  <string id="35051" soundid="92120">The Jade Empire was built on tradition. I do not know this new land.</string>
+  <string id="35052" soundid="132393">A statement rolled in the readily apparent and dipped in the blatantly obvious. If you don&apos;t mind, I would prefer to ponder my fate without your oh-so-helpful observations.</string>
+  <string id="35053" soundid="132394">Have you... have you dealt with Judge Fang? Not that Minister Sheng wants to know anything about it, of course.</string>
+  <string id="35054" soundid="92121">Chai Ka: A land is defined by the strength of its traditions. When those are gone, how do the people recognize it?</string>
+  <string id="35055" soundid="92122">Ya Zhen: Useless decaying flesh. Mortals lose their appeal once the soul is no longer present to toy with.</string>
+  <string id="35057" soundid="92123">What... have they done to this creature?</string>
+  <string id="35058" soundid="92124">Such a brutal display. Now I truly know the depths to which my father went.</string>
+  <string id="35059" soundid="92125">I have never seen such a sight. I never imagined....</string>
+  <string id="35061" soundid="92126">Now *that* would have been something to fight.</string>
+  <string id="35062" soundid="92127">Chai Ka: A horror beyond imagining, even beyond the realms of man.</string>
+  <string id="35065" soundid="92128">Ya Zhen: An epic cruelty. I have never seen such a thing. Genius.</string>
+  <string id="35082" soundid="132397">Of course. Say no more. The less Minister Sheng knows about this, the better. But... please hurry. </string>
+  <string id="35083" soundid="132398">If you take too long, the Lotus Assassins might become nervous. I&apos;m afraid to think what they might do to me to calm their fears!</string>
+  <string id="35084" soundid="132399">Judge Fang is probably over in the arena, watching the fights. Not that Minister Sheng said anything about that, of course!</string>
+  <string id="35085" soundid="132400">But you... we had a... you can&apos;t... guards! Guards! Minister Sheng needs help!</string>
+  <string id="35086">Fox Spirit</string>
+  <string id="35087" soundid="92129">I... have seen enough. Time to go, yes? Please?</string>
+  <string id="35088" soundid="92130">No!</string>
+  <string id="35090" soundid="92131">This is... amazing. For such a creature to be mishandled so... the arrogance of the family Sun knows no bounds.</string>
+  <string id="35091" soundid="92132">I have never seen such a crime against the proper order of things.</string>
+  <string id="35093" soundid="92133">Such a clumsy means to power. They had to know this act would be punished.</string>
+  <string id="35094" soundid="92134">Every freedom I cherish is violated by this.</string>
+  <string id="35095" soundid="92135">There can be no doubt that this calls for vengeance.</string>
+  <string id="35096" soundid="92136">As was commanded, the beast was cut open to sustain the Empire. For the good of all, the greatest evil.</string>
+  <string id="35097" soundid="92137">Chai Ka: It is... the saddest violation of a gentle creature. When the makers fall... what then?</string>
+  <string id="35098" soundid="92138">Ya Zhen: I marvel at the mind that came up with this. To cast his gaze so far above his station to his own makers is... admirable.</string>
+  <string id="35099" soundid="92139">I&apos;m sure the battle against the beast was epic, but stringing up the fallen is not the warrior&apos;s way.</string>
+  <string id="35100" soundid="132404">I can&apos;t leave the wonders of the Imperial City behind again. Not like this. I refuse to go back to Tien&apos;s Landing!</string>
+  <string id="35101" soundid="92140">My eyes were not meant to see this.</string>
+  <string id="35102" soundid="92141">There is no other reasonable response to such an abomination.</string>
+  <string id="35103" soundid="132405">I will stay right here until Judge Fang returns to hear my report! Surely he can&apos;t hold a grudge forever... can he?</string>
+  <string id="35104" soundid="132406">Minister Sheng is so pleased to be back in the Imperial City that he even forgives you for not closing the Great Dam back in Tien&apos;s Landing.</string>
+  <string id="35105" soundid="92142">Such power wasted. No one involved deserved it.</string>
+  <string id="35123" soundid="132407">However, I&apos;m afraid I don&apos;t have time to speak with you right now. I have to prepare my report for Judge Fang... by which I mean to watch over this honor gift.</string>
+  <string id="35124" soundid="92143">Our work is undone, but we were doomed from the beginning.</string>
+  <string id="35125" soundid="132408">Yes, a valuable offering for the mighty Judge Fang. Without it, he might turn me away before I can even make my report, condemning me to the horrors of Tien&apos;s Landing forever!</string>
+  <string id="35143" soundid="132409">But with this gift, he is certain to appreciate the depth of my admiration and respect. So much so, that he might give me a new posting right here in the Imperial City!</string>
+  <string id="35144" soundid="132410">Understandably, with so much riding on this gift, I am loathe to leave it in the care of these Imperial soldiers appointed to watch over me during my visit.</string>
+  <string id="35145" soundid="92144">Chai Ka: Death and renewal. It is the only acceptable outcome.</string>
+  <string id="35146">Triggers toggle Combat and Explore modes.</string>
+  <string id="35157">Dawn Star</string>
+  <string id="35162">Sagacious Zu</string>
+  <string id="35174">Thanks, but I&apos;ll pass.</string>
+  <string id="35175">I&apos;d rather stick a flaming sword in my eye.</string>
+  <string id="35176">How dare you talk like that to me, peasant!</string>
+  <string id="35177">I don&apos;t know any eligible women.</string>
+  <string id="35179">What are you doing in Tien&apos;s Landing?</string>
+  <string id="35180">I don&apos;t talk with peasants!</string>
+  <string id="35181">This town isn&apos;t crowded; it&apos;s practically deserted!</string>
+  <string id="35182">Goodbye.</string>
+  <string id="35184">I know a woman who is looking for a husband.</string>
+  <string id="35185">Uh... sure.</string>
+  <string id="35187">I don&apos;t know. We&apos;d have to ask her.</string>
+  <string id="35188">Forget it. She&apos;s all wrong for you.</string>
+  <string id="35189">I could help you, if the price is right.</string>
+  <string id="35191">I&apos;m too busy for this nonsense.</string>
+  <string id="35192">I should be going now.</string>
+  <string id="35195" soundid="126706">Can&apos;t say I&apos;m surprised; I&apos;m not the kind of wife most men are looking for. If you want to give up that&apos;s fine. I won&apos;t hold it against you. </string>
+  <string id="35196" soundid="126707">But if you happen to find any eligible bachelors, bring them by so I can meet them. Remember: Find me a husband and I&apos;ll make it worth your while.</string>
+  <string id="35197">I don&apos;t think I can help you.</string>
+  <string id="35200">Yes</string>
+  <string id="35201">No</string>
+  <string id="35203" soundid="126714">You are well informed about our little town, stranger. It&apos;s true I&apos;ve thought about marriage. Sometimes I&apos;ve even thought a good woman could help me run my business better.</string>
+  <string id="35204" soundid="126715">Why do you bring this up? Do you know of a suitable young woman who would be willing to marry a simple craftsman like myself?</string>
+  <string id="35205" soundid="126716">Ai Ling? The gang leader? She&apos;s beautiful, to be sure... but I&apos;ve heard her beauty is only surpassed by her savage brutality! Why would I want to marry her?</string>
+  <string id="35206" soundid="126717">[Success] She is? Well, I suppose the rumors about her criminal activities are greatly exaggerated. And she is an attractive woman. </string>
+  <string id="35207">Lotus Inquisitor Recruiter</string>
+  <string id="35208">Martial Style
+This style can complete a Harmonic Combo. 
+
+Many in the Jade Empire have heard of Legendary Strike, but few have actually seen it in action. Fewer still have mastered this martial style, but those who have are to be feared; their blows rain down too fast to block, and their kicks can quickly put an opponent out for good.</string>
+  <string id="35209">Support Style
+Does direct damage in Chi Strike mode
+This style&apos;s Power Attack can initiate a Harmonic Combo.
+
+This esoteric style has a sinister reputation, but many more peaceful masters prefer it for its ability to render an opponent helpless without killing him. More unscrupulous masters take advantage of this style&apos;s paralyzing blows to weaken foes for the killing blow. It is designed around its magical palm strikes, which can stop a man in his tracks with a single hit.</string>
+  <string id="35239" soundid="117947">It could be worse, I guess. At least we don&apos;t have to worry about the pirates anymore, thanks to you.</string>
+  <string id="35378" soundid="42217">Make no trouble here in Tien&apos;s Landing. We&apos;ve had enough.</string>
+  <string id="35379" soundid="42218">Every day I hear the sound of the cocks crowing, the peasants singing... and the minister wailing.</string>
+  <string id="35380" soundid="42219">The Minister isn&apos;t a bad sort, if you can learn to ignore the sobbing.</string>
+  <string id="35382" soundid="42221">I work for the Ministry of Harmony. So leave me alone.</string>
+  <string id="35384">Why did you leave Phoenix gate?</string>
+  <string id="35387">How long have you taught here?</string>
+  <string id="35389">Arena Tavern</string>
+  <string id="35390">Princess Sun Lian/Silk Fox will take you to the palace where Master Li is secured, but only after she has information to prove to her father that Death&apos;s Hand is a traitor to the Empire.</string>
+  <string id="35391">I want to go back to my previous questions.</string>
+  <string id="35392">Are there students available to spar with?</string>
+  <string id="35393">I will spar with a single student.</string>
+  <string id="35395">I need some practice against multiple opponents.</string>
+  <string id="35396">Two will be enough for this bout.</string>
+  <string id="35398">Three will be about right.</string>
+  <string id="35400">Four. I will see how I manage against all four.</string>
+  <string id="35401" soundid="72485">You look like you could handle yourself in a pinch. Maybe you should join up! Look for a fellow named Qui the Promoter if you want to fight. </string>
+  <string id="35402" soundid="72486">When you&apos;re new to the city, everything. When you&apos;ve been here a while, nothing.</string>
+  <string id="35404" soundid="42243">Please. I am an old man with nothing left but my memories of a better time. Do not do this to me.</string>
+  <string id="35406">Too bad you&apos;re such a victim, or you could take it back.</string>
+  <string id="35407">Foolish peasants.</string>
+  <string id="35412">Lotus Apprentice</string>
+  <string id="35417">Lotus Apprentice</string>
+  <string id="35422" soundid="42293">Look at all these people! And I&apos;m the only server in the place! If Dutong doesn&apos;t start running things better, I&apos;m going to quit!</string>
+  <string id="35424" soundid="42295">Those sailors are the worst! They&apos;re rude and crude, and they don&apos;t keep their hands to themselves!</string>
+  <string id="35425" soundid="42296">Things are so much better now that those sailors are gone! Who told them it was okay to pinch me, anyway?</string>
+  <string id="35427" soundid="42298">Things are so much better now! Only Old Mother knows how to run this place right!</string>
+  <string id="35428" soundid="42299">I am so glad that Old Mother is back in charge. She deserves this teahouse, and honestly, this teahouse needs her!</string>
+  <string id="35429" soundid="42300">Everything is right again. Thank you for putting Old Mother Kwan back in charge.</string>
+  <string id="35432" soundid="42303">I swear, if one more person complains about how long it takes to get their order, I&apos;m going to quit!</string>
+  <string id="35501">You abandoned the children? You sicken me!</string>
+  <string id="35502">What are you talking about?</string>
+  <string id="35504">Goodbye.</string>
+  <string id="35514">Gao&apos;s Mercenary</string>
+  <string id="35539">Seamstress Lan</string>
+  <string id="35605" soundid="42485">I hate to put words in other people&apos;s mouths, but it&apos;s obvious that Gao does not favor you. Master Li has been a mediator of sorts, but Gao responds poorly to authority.</string>
+  <string id="35607" soundid="42487">I respect your skill but, as I said, I don&apos;t know any of the students very well. Most everyone seems to respect you.</string>
+  <string id="35608" soundid="42488">He is one man and guides his students well. My last school had two masters who feuded all the time. It made learning very difficult.</string>
+  <string id="35611" soundid="42491">You must be making up stories. Is this a joke you play on new students? I&apos;m from the Imperial City. I know what happened to the Emperor&apos;s brothers.</string>
+  <string id="35612" soundid="42492">The Emperor lost both of his brothers, Sun Li the Glorious Strategist and Sun Kin the Hand of Heaven, when he cured the land of drought. It was a great sacrifice to make.</string>
+  <string id="35613" soundid="42493">I still think you are making fun of me. Nothing I heard in the Imperial City about the Emperor&apos;s brothers would suggest that it&apos;s true.</string>
+  <string id="35614" soundid="42494">It&apos;s funny, but I still want to look over my shoulder. I have to remember that we are a long way from the ears of the Lotus Assassins.</string>
+  <string id="35615" soundid="42495">There&apos;s already enough darkness without making up stories about shadows, in my opinion. Try Lin; she seems very interested in the ghosts.</string>
+  <string id="35617" soundid="42497">I honestly didn&apos;t pay much attention during history lessons at my previous school. You could always ask in the town. Old Ming loves talking about the past.</string>
+  <string id="35620" soundid="42500">I&apos;m honored that you should ask. What do you want to know?</string>
+  <string id="35621" soundid="42501">The school I attended in the Imperial City was becoming mired in politics, so my mother sent me out to the country instead. &quot;Politics is dangerous,&quot; she always said.</string>
+  <string id="35623" soundid="42503">Oh, I don&apos;t know. It just seems like the city is changing. Strange people. Strange machines. These are interesting times. I think she just wanted to know that I&apos;d be safe.</string>
+  <string id="35624" soundid="42504">That won&apos;t be for a long time, but I&apos;ll probably return to the Imperial City. Perhaps I&apos;ll join the Imperial Guard. It&apos;s hard to think that far ahead.</string>
+  <string id="35626" soundid="142029"></string>
+  <string id="35627" soundid="42507">Again? I didn&apos;t think my life was that interesting.</string>
+  <string id="35628" soundid="142030"></string>
+  <string id="35629" soundid="142031"></string>
+  <string id="35630" soundid="42510">Yes. Goodbye.</string>
+  <string id="35631" soundid="42511">Goodbye. I hope you find Dawn Star.</string>
+  <string id="35632" soundid="42512">I don&apos;t waste Master Li&apos;s time. I just feel very new to the school. If time is so valuable here, then I won&apos;t waste any more of yours.</string>
+  <string id="35633" soundid="42513">I will just have to work twice as hard to catch up to your level of skill. Even then it will take a long time to be your match. How long have you studied with Master Li?</string>
+  <string id="35635" soundid="42515">Even a kind statement would be harsh put so bluntly. I don&apos;t need to suffer this. Goodbye.</string>
+  <string id="35636" soundid="42516">I will learn what I can to the best of my ability. If you have nothing constructive to add to that, I see no reason to speak with you.</string>
+  <string id="35637" soundid="142032"></string>
+  <string id="35638" soundid="142033"></string>
+  <string id="35639" soundid="142034"></string>
+  <string id="35640" soundid="142035"></string>
+  <string id="35648" soundid="142076">I hear one of your ilk has either gone missing or run off. That&apos;s never good news, since there&apos;s nothing more exciting than this town for miles.</string>
+  <string id="35649" soundid="42529">I&apos;m not sure I know anything that will help.</string>
+  <string id="35650" soundid="42530">With the exception of Gao, everyone is here. Come to think of it, he gathered his things awfully quickly after he was expelled.</string>
+  <string id="35652" soundid="42532">Again, all I can think is that Gao left awfully quickly. Beyond that, everyone else is accounted for, except Dawn Star.</string>
+  <string id="35655" soundid="42535">By foot there is only one path, and it leads down to the swamps. I have never gone that far.</string>
+  <string id="35656" soundid="42536">I&apos;ll answer what I can.</string>
+  <string id="35657" soundid="42537">I don&apos;t think so. Perhaps she is at her garden? I do not know her well, but I see her there often. Ask Gao, if he is in a mood to speak. I saw him heading that way.</string>
+  <string id="35659">Dirge - Temple Courtyard</string>
+  <string id="35660" soundid="42540">I&apos;m sorry, but I haven&apos;t seen her since you last asked.</string>
+  <string id="35662" soundid="42542">I don&apos;t know anyone else who displays the skill you do. Perhaps Gao, but he lacks discipline. That is why he still wears the robes of a junior student, despite his ability.</string>
+  <string id="35663" soundid="42543">Dawn Star would be next, with few able to match her delicate moves. Beyond that, the only other person I know well is Smiling Mountain, the sparring master.</string>
+  <string id="35664" soundid="83680">You learned in the cave how single gems are viewed as trinkets and used by self-professed healers and would-be sorcerers, but you can unlock their full potential.</string>
+  <string id="35666" soundid="42546">I know she is sensitive to things the rest of us can&apos;t see. Sometimes I feel sorry for her. It obviously makes her feel &quot;different,&quot; and that&apos;s not right.</string>
+  <string id="35667" soundid="42547">I think she was given a gift. Like responsibility, it may not always be pleasant, but it&apos;s something she should be proud of. It shouldn&apos;t isolate her.</string>
+  <string id="35668">No style selected</string>
+  <string id="35670" soundid="42550">As I said, I sometimes feel sorry for her. She&apos;s such a caring person that she shouldn&apos;t have to feel different from others.</string>
+  <string id="35671" soundid="42551">I&apos;ve heard about and seen your skill, but I haven&apos;t been here long enough to know much more. Most of the students seem to appreciate your abilities.</string>
+  <string id="35672" soundid="142077">Unless she can run like a wolf, you&apos;d better hope she&apos;s hiding. There&apos;s not much close to town but the swamp and endless fields.</string>
+  <string id="35673" soundid="142078">Since my wife died, gossip stopped moving around this town as fast as it once did, but I&apos;ve still managed to hear that you&apos;re going into the cavern beneath the school.</string>
+  <string id="35675">Gao&apos;s Mercenary</string>
+  <string id="35676">Master Li told me he was the Emperor&apos;s brother.</string>
+  <string id="35677">Tell me about the Emperor&apos;s brothers.</string>
+  <string id="35678">What do people from the capital think of the Empire?</string>
+  <string id="35679">Do you know anything about rumors of ghosts?</string>
+  <string id="35681">What can you tell me about the history of the Empire?</string>
+  <string id="35684">You&apos;re fairly new here. Tell me some more about yourself.</string>
+  <string id="35685">What brought you to this school?</string>
+  <string id="35688">What will you do when you are done training here?</string>
+  <string id="35690" soundid="142079">Listen well, girl. That cave&apos;s no place for delicacy. Be sure you&apos;re at your best before you face your master&apos;s test in there.</string>
+  <string id="35691">Take care, I&apos;ll talk to you later.</string>
+  <string id="35692" soundid="142080">Mark me, boy. All the rumors about that cave say it&apos;s a place unfit for life. Be at your best before trying your master&apos;s test.</string>
+  <string id="35693" soundid="142081">There were students under other masters who never came back from that hole in the ground.</string>
+  <string id="35694">Forgive me. I spoke out of turn. You did not deserve that.</string>
+  <string id="35695">I don&apos;t wish to argue, but I am correct.</string>
+  <string id="35696">It will be easier if you just accept that you will never be my match.</string>
+  <string id="35697" soundid="142082">Showed those cursed bandits a thing or two, didn&apos;t you? Ha! Brought a smile to this old face.</string>
+  <string id="35698" soundid="142083">Eh? What now?</string>
+  <string id="35699" soundid="142084">Merchant Fen Do should have some, but don&apos;t let him talk you into clippings of bearded tongue grass. That won&apos;t do at all.</string>
+  <string id="35701" soundid="142085">Red silk grass will actually bind the wound and make it so she can get back to her practices. That&apos;s why you want it.</string>
+  <string id="35702">I want to ask about Dawn Star&apos;s disappearance.</string>
+  <string id="35703">Are any other students missing?</string>
+  <string id="35706" soundid="105421">I hear you won your last match. Everyone&apos;s been talking about it.</string>
+  <string id="35707">How many paths out of the village are there?</string>
+  <string id="35708">Let&apos;s go back to my other questions.</string>
+  <string id="35709">Have you seen Dawn Star?</string>
+  <string id="35711" soundid="105422">Sorry to hear your last match wasn&apos;t that successful. Better luck next time.</string>
+  <string id="35712">How well do you know the others at this school?</string>
+  <string id="35716">What do you think of Dawn Star?</string>
+  <string id="35718">Why do you say that?</string>
+  <string id="35719" soundid="145407">I am not interested in money! This... this girl. Her life energy is so vibrant, yet so frail. She is too young to have such a cruel fate.</string>
+  <string id="35720" soundid="145408">You! I... I must thank you for what you have done for my daughter, she... she has recovered... in a way.</string>
+  <string id="35721">Have you heard anything special about me?</string>
+  <string id="35723">Who doesn&apos;t?</string>
+  <string id="35725">Since you&apos;re new, I&apos;m interested to hear your thoughts on Master Li.</string>
+  <string id="35734">Ruins Key</string>
+  <string id="35742">Filter - All Completed Quests</string>
+  <string id="35838">Fine, give me some advice.</string>
+  <string id="35845">Ruin Gate</string>
+  <string id="35846" soundid="114695">As I told you before, my part in this is done. It was an honor to serve Sun Li, but it&apos;s a relief to know my mission is complete and my life is once again my own.</string>
+  <string id="35849" soundid="114698">The full extent of what the Glorious Strategist knows is beyond my mind to comprehend; he is without peer. All I know is that I had instructions to wait for you.</string>
+  <string id="35850" soundid="177526">[Inside this coffin is the body of Zeng Sai, the Tree that Defies the Fire. Even now, you can feel hatred coming from the warlord&apos;s spirit.]</string>
+  <string id="35851" soundid="114700">Now the Lotus Assassins have drained the lake and exposed the ruins of old Tien&apos;s Landing. It seems they are searching for this piece of the Spirit Monk amulet too.</string>
+  <string id="35852" soundid="114701">It is coming on fifteen years now. As I said, I learned the location of the amulet after the monk died in old Tien&apos;s. It has been difficult, serving and waiting in silence.</string>
+  <string id="35853" soundid="114702">My assignment is to give you information to help you acquire the amulet. I will gladly answer whatever questions I can.</string>
+  <string id="35854" soundid="114703">You have gems, but not the amulet piece? The Lotus Assassins must have taken it before you got there.</string>
+  <string id="35855" soundid="114704">Sun Li warned me that others might come, but all is not lost. The Lotus Assassins have a piece of the amulet, but so do you. Victory is far from decided.</string>
+  <string id="35856" soundid="114705">Whatever the outcome may be, my part in these events is over. Now that you have been to the ruins, I may finally take my leave of this town.</string>
+  <string id="35857" soundid="114706">I have served Sun Li for many years, but there comes a time when all service must end. My final task was to direct you to the ruins; now I am no longer bound.</string>
+  <string id="35858" soundid="114707">I have nothing to tell you that would serve any purpose. My final service to your Master was to direct you to the ruins, and that task is done.</string>
+  <string id="35859" soundid="114708"></string>
+  <string id="35860" soundid="114709"></string>
+  <string id="35861" soundid="177527"></string>
+  <string id="35862">Rat Demon</string>
+  <string id="35863" soundid="177528"></string>
+  <string id="35864" soundid="114713">I will give you what guidance and information I can, but that is all I will do.</string>
+  <string id="35866">Restless Spirit</string>
+  <string id="35868">Are you saying Li knew he&apos;d be kidnapped?</string>
+  <string id="35869">[Take the body and return to the Soul Extractor.]</string>
+  <string id="35871">I should go to the ruins and try to find this amulet piece.</string>
+  <string id="35872">How long have you been waiting for me?</string>
+  <string id="35873">I&apos;d like some wine.</string>
+  <string id="35875">I want to ask you some questions.</string>
+  <string id="35876">I&apos;ve been to the ruins. I found these gems.</string>
+  <string id="35878">The Lotus Assassins already took the amulet from the ruins.</string>
+  <string id="35880">Where are you going?</string>
+  <string id="35882">Wait! I have some questions before you go.</string>
+  <string id="35889">[Leave the body alone.]</string>
+  <string id="35892">I want to ask you something else.</string>
+  <string id="35894" soundid="177531"></string>
+  <string id="35895" soundid="140469">I do not fully understand how it functions, but I am not meant to. I obey, and that is enough.</string>
+  <string id="35899">What are the stages of drunkenness again?</string>
+  <string id="35902">You can make him sober again?</string>
+  <string id="35916">Give Master Dutong some peasants&apos; wine.</string>
+  <string id="35917">Give Master Dutong the Imperial seasoned spirits.</string>
+  <string id="35918">Give Master Dutong the restorative.</string>
+  <string id="35921" soundid="115770"></string>
+  <string id="35922">Let&apos;s send Dutong some drinks.</string>
+  <string id="35923">Give me some advice.</string>
+  <string id="35924">What does that mean?</string>
+  <string id="35925">I should be going now.</string>
+  <string id="35926">Goodbye.</string>
+  <string id="35927" soundid="42991">Hello, young one. My name is Kwan, but everyone calls me Old Mother Kwan. I&apos;d like you to call me that too, okay?</string>
+  <string id="35928" soundid="42992">Welcome to my teahouse--oh, that&apos;s not right. No, not anymore. Sorry about the confusion, dearie. What I meant to say was, &quot;Welcome to Master Dutong&apos;s teahouse.&quot;</string>
+  <string id="35930" soundid="42994">Hello again, my child. It&apos;s always nice to see you young folk visiting Old Mother Kwan&apos;s teahouse. Oh... I mean, Master Dutong&apos;s teahouse.</string>
+  <string id="35931" soundid="42995">Sorry about that, dearie. Sometimes my old mind forgets that the teahouse isn&apos;t mine anymore.</string>
+  <string id="35932" soundid="42996">Yes, yes. I owned the teahouse for many, many years. At least, I thought I did. But then Master Dutong came to town with that Imperial Writ. Oh my, wasn&apos;t that a shock!</string>
+  <string id="35933" soundid="42997">Turns out his family owns this land. They have for hundreds of years. The land is his, along with everything on it. So now he owns my teahouse, too.</string>
+  <string id="35934" soundid="42998">He was nice enough to let me stay on here as a helper. I steep the tea, Yanwan takes the orders, and Master Dutong... well, he mostly just drinks his wine.</string>
+  <string id="35935" soundid="42999">Oh, I steep the tea and help clean the tables when Yanwan gets too busy. Pretty much what I used to do back when I owned the place.</string>
+  <string id="35939" soundid="43003">No one knew! This was just an empty patch of rock for hundreds of years. Who would have thought the Empire had deeded it to anyone? But Master Dutong came along with his writ.</string>
+  <string id="35941" soundid="43005">Now why would I do such a thing? I can&apos;t even imagine anyone being so horrible they&apos;d forge an Imperial Writ. No, I&apos;m sure the land belongs to Master Dutong.</string>
+  <string id="35943" soundid="43007">That is very nice of you, my child, but what could you do? I would love to have my teahouse back, but it belongs to Master Dutong now. You can&apos;t argue with an Imperial Writ.</string>
+  <string id="35946" soundid="142325">Eh, who are you? An acolyte not even in robes, yet? Go sweep up after the golems. You don&apos;t have the authority to order anything from me.</string>
+  <string id="35948">Tomb</string>
+  <string id="35949" soundid="43013">Be sure to have some tea before you go! I have a special blend that combines... oh, I forgot; Master Dutong spilled wine all over it. I&apos;m sorry, never mind.</string>
+  <string id="35955" soundid="143107">M-master? Are you taking us to the Lotus Assassins?</string>
+  <string id="35956" soundid="113908">I trust you and your ability, but we didn&apos;t talk much and... well, it doesn&apos;t matter now. Keep your focus where you need it. I will say no more.</string>
+  <string id="35957" soundid="43021">You&apos;ve given me back the only thing I ever cared about... and you&apos;ve done a service for this town, too. I&apos;m going to turn this place back into a respectable, quality teahouse!</string>
+  <string id="35958" soundid="43022">I don&apos;t have much; the only reward I can offer is my humble thanks. That, and a promise that you will always be welcome here at Old Mother Kwan&apos;s.</string>
+  <string id="35962" soundid="43026">A... a forgery? Are you certain?</string>
+  <string id="35966" soundid="113909">I&apos;m not sure what I want to say. I&apos;m sorry we didn&apos;t come to know each other better. It has been so long since we last spoke alone.</string>
+  <string id="35967" soundid="113910">I just want... to wish you well and leave it at that. You need to focus on getting the evidence against Death&apos;s Hand so we can rescue Master Li.</string>
+  <string id="35969" soundid="43033">That&apos;s sweet of you. But there&apos;s nothing I could tell you, short of how to steep a nice tea. Don&apos;t waste your time gabbing with Old Mother Kwan.</string>
+  <string id="35972">What do you do here?</string>
+  <string id="35976">You didn&apos;t know he owned the land when you built the place?</string>
+  <string id="35978">Did you check the writ to make sure it was real?</string>
+  <string id="35979" soundid="115771">That was lucky. I&apos;ll be ready for you next time.</string>
+  <string id="35980">I&apos;m going to speak to Dutong about this.</string>
+  <string id="35982" soundid="107520">I may be drunk, but that doesn&apos;t mean I *am* a drunk! Because I&apos;m not. Well, just a little bit. But I&apos;m brave too! I&apos;m going to go close the Great Dam and save the town.</string>
+  <string id="35985" soundid="143108">What? Thank you... thank you so much. I knew someone would stop them, someone kind and honest.</string>
+  <string id="35987" soundid="140298">Be careful, fool! One distraction and I could have been crushed!</string>
+  <string id="35989">I should go now.</string>
+  <string id="35996">It was nothing. I was glad to help.</string>
+  <string id="35998">Just remember that you owe me.</string>
+  <string id="36000">Dutong&apos;s writ was a forgery.</string>
+  <string id="36001">Dutong confessed. The teahouse is yours again.</string>
+  <string id="36008">You used to own this teahouse?</string>
+  <string id="36090" soundid="43224">If you want tea, have a seat. The serving girl will be by directly... if I don&apos;t fire her first, the useless wench! I should have replaced her the day I took over this teahouse!</string>
+  <string id="36091" soundid="43225">I am Three Sheets Dutong, proud owner of this quaint little teahouse. I recently acquired it from Old Mother Kwan, the elderly lady steeping tea over there in the corner.</string>
+  <string id="36092" soundid="43226">Oh, certainly. The Imperial Writ is four hundred years old, and I just carry it around with me all the time and show it to complete strangers. Please!</string>
+  <string id="36093" soundid="43227">The writ is locked safely away, as I told Mother Kwan. I&apos;m not about to bring it out on your request! Now, if you will just leave me to my drinking...</string>
+  <string id="36094" soundid="43228">No, not the writ. Let&apos;s not talk about that. It&apos;s my shecret shame. Just the thought of that writ brings tearsh to my eyes! It tearsh at my poor, miserable soul!</string>
+  <string id="36095" soundid="43229">Oh, I&apos;m a deshpicable pershon! A bad, bad man. The writ... it&apos;sh a fake! A forgery. I made it all up! </string>
+  <string id="36098" soundid="43232">What a truly horrible thing to say to me! Especially when I&apos;m sober! The very notion that I, Three Sheets Dutong, could do such a thing is... well, it is unthinkable!</string>
+  <string id="36103" soundid="115774">Not bad, but not good enough. Keep practicing, and maybe you will get good enough to give me a real challenge.</string>
+  <string id="36105" soundid="91849">It must be something in the way you carry yourself. Everywhere we go people ask you to do dangerous things. Remind me not go anywhere with you.</string>
+  <string id="36111" soundid="43245"></string>
+  <string id="36112" soundid="43246">Gak! Acchhkkugth! I hate that restorative potion! Ugh! That stuff tastes like vomit baked in a glaze of goat hair and garnished with a sprinkling of horse dung.</string>
+  <string id="36113" soundid="43247">And now I have the strangest memory... as if I... oh no. Did I... did I say anything to you, stranger? Anything about, oh, I don&apos;t know... an Imperial Writ?</string>
+  <string id="36114" soundid="43248">What? No! I never said any such thing!</string>
+  <string id="36115" soundid="43249">Ah, I see what you&apos;re after! Oh yes, Three Sheets Dutong was not born yesterday--or the day before that! Indeed, we are speaking the language of commerce.</string>
+  <string id="36116" soundid="43250">I will give you a great deal of silver to keep this little secret from getting out. Lots of silver for both of you, if you keep quiet about this. </string>
+  <string id="36117" soundid="43251">Here you go. Yes, yes, take it. And now I consider this matter done with. Now, please go away. I have a pounding headache.</string>
+  <string id="36142" soundid="43276">I don&apos;t think we have anything to say to each other. If people see us speaking together they might get suspicious about our... business. </string>
+  <string id="36145" soundid="43279">Why do you persist in troubling me? All I want is to be left alone with a steady stream of wine flowing my way. Is that too much to ask in my own teahouse?</string>
+  <string id="36148">You own this teahouse?</string>
+  <string id="36149">Can I see the writ granting you ownership of this place?</string>
+  <string id="36153">Yes. You told me it was a fake.</string>
+  <string id="36156">You disgust me, Dutong. We won&apos;t sell Mother Kwan out like this!</string>
+  <string id="36157">Give us the silver, Dutong, and we won&apos;t say anything.</string>
+  <string id="36164">Nope, not a thing.</string>
+  <string id="36176">[Intuition] Maybe you&apos;ll feel better if you tell me about it.</string>
+  <string id="36179">I think you conned Old Mother Kwan.</string>
+  <string id="36188" soundid="114827">People change. Some for the better, some not.</string>
+  <string id="36189">Goodbye.</string>
+  <string id="36190" soundid="114828">I suppose they do. Especially if what we learned from Jia is true.</string>
+  <string id="36191" soundid="114829">I don&apos;t wish to delay collecting on the Princess&apos;... generous offer, but please speak with me before you go to the Necropolis. This troubles me.</string>
+  <string id="36192" soundid="114830">I suppose it is wise to secure the recommendation of both, but please speak to me before you enter the fortress. This troubles me.</string>
+  <string id="36194" soundid="43385">The Emperor is a wise and powerful man. How else could he have solved the drought so many years ago? I wasn&apos;t born then, but I&apos;ve heard the stories.</string>
+  <string id="36195" soundid="43386">It&apos;s true that he hasn&apos;t been seen much recently, but I don&apos;t think it&apos;s anything to worry about. It&apos;s not like the Empire is falling apart in his absence.</string>
+  <string id="36196" soundid="43387">Maybe he&apos;s just taking a rest from all the hard work he&apos;s done. Nobody deserves a rest more than the Emperor.</string>
+  <string id="36197" soundid="43388">I think they are just rumors. I haven&apos;t seen any ghosts at all, angry or otherwise. If the ghosts are angry about something, why aren&apos;t they here right now?</string>
+  <string id="36198" soundid="43389">Come to think of it, I don&apos;t know any one person who&apos;s even *seen* a ghost.</string>
+  <string id="36199" soundid="43390">I prefer to spend my time and energy on things that are real. Designing a new prototype flying machine, now, that&apos;s important!</string>
+  <string id="36200" soundid="43391">Sure. What would you like to know?</string>
+  <string id="36201" soundid="43392">All right, then, goodbye.</string>
+  <string id="36203" soundid="43394">I apologize. The masters always remind me not to get ahead of myself. What is it you would like to know?</string>
+  <string id="36204" soundid="43395">Sure thing! I&apos;ve got some terrific stuff.</string>
+  <string id="36207" soundid="43398">Hello again. I was just finishing up some calculations for my new prototype, but I have a few minutes if you needed something.</string>
+  <string id="36208" soundid="43399">Good to see you. I was hoping we might meet again. I want to talk to someone about flyers.</string>
+  <string id="36211" soundid="43402">If I had known you were fighting in the arena, I would have placed all my money on you! Then I wouldn&apos;t have to beg for funding for my prototype flyer!</string>
+  <string id="36212" soundid="43403">Oh well. I suppose I should be grateful that I got to meet the arena champion. What can I do for you today?</string>
+  <string id="36213" soundid="43404">Hey, someone said you&apos;re dealing with the Assassins now. I&apos;d be careful if I were you. They can be a nasty group.</string>
+  <string id="36214" soundid="43405">They don&apos;t bother us much, but I still wouldn&apos;t want to work with them.</string>
+  <string id="36215" soundid="43406">There&apos;s something strange going on at the Lotus Assassin fortress. I saw smoke rising earlier.</string>
+  <string id="36216" soundid="43407">I wouldn&apos;t want to be the person responsible for that, but just between you and me, I know a lot of people are glad to see it happen.</string>
+  <string id="36219" soundid="43410">That Outlander had some very interesting inventions, but I&apos;m still glad to see that he&apos;s stopped insulting our people.</string>
+  <string id="36220" soundid="43411">You&apos;ve made quite a few friends by getting rid of him... including me. Is there anything I can help you with?</string>
+  <string id="36225">Could I ask you a few questions?</string>
+  <string id="36228">Tell me about the Imperial City.</string>
+  <string id="36230">Just tell me about the important places.</string>
+  <string id="36234">Tell me about the city services.</string>
+  <string id="36235">Tell me more about the tavern.</string>
+  <string id="36237">Spirit Font</string>
+  <string id="36239">What can you tell me about the arena?</string>
+  <string id="36241">I&apos;d like to go back to my other questions about the city.</string>
+  <string id="36242">Let&apos;s go back to my first questions.</string>
+  <string id="36243">What can you tell me about Death&apos;s Hand?</string>
+  <string id="36248">Have you heard any interesting rumors lately?</string>
+  <string id="36254">What else can you tell me about the Emperor?</string>
+  <string id="36257">So, you don&apos;t believe the ghosts are angry?</string>
+  <string id="36260">May we go back to my first questions?</string>
+  <string id="36261">I must be going. Good fortune to you.</string>
+  <string id="36263">Slow down. I need to ask you something.</string>
+  <string id="36265">Focus Shrine</string>
+  <string id="36274" soundid="135477">Want and desire have nothing to do with it. A greater power commands me. You are the one I was summoned for, so I must obey.</string>
+  <string id="36275" soundid="116169">Dutong was smart to run off like that. If we ever catch him, he&apos;ll pay for what he did to Mother Kwan!</string>
+  <string id="36276" soundid="116170">Dutong claims he&apos;s going to turn this teahouse into a tavern. Can&apos;t see the difference myself.</string>
+  <string id="36277" soundid="116171">If it wasn&apos;t for the pirates, I&apos;d have left long ago. But I don&apos;t want to get caught and sold into slavery!</string>
+  <string id="36278" soundid="116172">Now that the pirates are gone, I&apos;m thinking of leaving Tien&apos;s Landing. Not sure where I&apos;ll go, though.</string>
+  <string id="36280" soundid="116174">They say the ruins are haunted. I wonder if it&apos;s true.</string>
+  <string id="36281" soundid="116175">I wonder if Mother Kwan is looking to hire another waitress. I bet she&apos;d pay me a decent wage.</string>
+  <string id="36282" soundid="116176">I asked Dutong for a job, but he&apos;s too cheap to pay for more than one waitress.</string>
+  <string id="36283" soundid="116177">With the dam closed, the economy here&apos;s picking up. Maybe I can finally get a decent job!</string>
+  <string id="36284" soundid="116178">I thought those sailors might have a job for me, but they&apos;ll only pay a girl for one thing, and I&apos;m not interested!</string>
+  <string id="36285" soundid="116179">Captain Ing says we can&apos;t come to the teahouse, but I don&apos;t listen to him anymore!</string>
+  <string id="36286" soundid="116180">You bringin&apos; me a drink? No? Then go away.</string>
+  <string id="36287" soundid="116181">Look at these townsfolk glarin&apos; at us! It ain&apos;t our fault we&apos;re stuck here!</string>
+  <string id="36288" soundid="116182">That waitress is a fine looking wench, ain&apos;t she? Doesn&apos;t like sailors much, though.</string>
+  <string id="36289" soundid="116183">Stuck in this backwater town, and the place doesn&apos;t even have a decent tavern.</string>
+  <string id="36290" soundid="116184">Ing better figure out a way to get our ship back on the water quick... or I&apos;m going to snap!</string>
+  <string id="36291" soundid="116185">You&apos;re a pretty looking thing. You&apos;d be prettier if you were bringin&apos; me a drink, though.</string>
+  <string id="36292" soundid="116186">You&apos;re no villager. You stuck here, too? Nothing worse than bein&apos; trapped in a dead-end village like this.</string>
+  <string id="36311" soundid="44405">Um... well. I have no idea where you&apos;d find them. Honestly, I wouldn&apos;t want to know either. Could we talk about something else?</string>
+  <string id="36312" soundid="44406">I... just don&apos;t want to say something I shouldn&apos;t. If you really want to know, go ask someone else. I&apos;m not talking about it anymore.</string>
+  <string id="36313">Can you tell me where to find the Inquisitor Recruiter?</string>
+  <string id="36314">Let&apos;s go back to my first questions.</string>
+  <string id="36315">What&apos;s the matter? Why can&apos;t you tell me?</string>
+  <string id="36318">Long the Lout</string>
+  <string id="36331">Fawning Lacky</string>
+  <string id="36354">Spear Catches Leaf</string>
+  <string id="36392">Dirge - Inner Courtyard</string>
+  <string id="36523" soundid="43714">That... that scoundrel! No wonder he left here so fast! Cheating an old woman out of her hard-earned living... the very nerve!</string>
+  <string id="36524" soundid="43715">People, listen to me: Master Dutong has left. For good. And, thanks to this brave young man here, the teahouse is mine again!</string>
+  <string id="36528">Arena</string>
+  <string id="36548">Tiger Shen</string>
+  <string id="36549" soundid="43742">Oh, I&apos;m Scholar Zenyu. I&apos;m one of the newer scholar elites. I was actually born in the poor quarter, but my uncle brought me here when I was only ten.</string>
+  <string id="36550" soundid="43743">He knew I would never have a chance at a real life unless I had some proper schooling. I&apos;ve lived here with him ever since.</string>
+  <string id="36551" soundid="43744">And of course, there are several shops and merchants with all manner of supplies available. All of that can be found in the Market District.</string>
+  <string id="36552" soundid="43745">If you&apos;re interested in fighting, you should speak with Qui the Promoter. You can find him in the Heart of the Empire Tavern most of the time.</string>
+  <string id="36553">Who are you? What is it you do here?</string>
+  <string id="36558" soundid="43872">I saw what happened with Dutong. I&apos;m surprised a student of Sun Li would cheat an old woman. Not that I much care; you have more important tasks before you.</string>
+  <string id="36559" soundid="43873">I suppose you have done a just thing here. But remember: Sun Li needs you, and he is in terrible danger. You have important tasks before you.</string>
+  <string id="36588" soundid="43902">Ah, so you are the one who will debate the Outlander. I am the fifth of your five judges.</string>
+  <string id="36589" soundid="43903">A great victory in the debate. A win in combat would be a fine way to finish.</string>
+  <string id="36590" soundid="43904">Your performance in the debate was not up to the challenge. I hope you fare better in combat.</string>
+  <string id="36599">Bridge Control</string>
+  <string id="36602" soundid="57436">Gao! That spoiled little noisy cricket! He hit me without cause!</string>
+  <string id="36610">Three Reach Lao</string>
+  <string id="36613" soundid="43938">Another distraction, another delay? Very well, but hurry up about it. I&apos;ve a continent to educate and I don&apos;t have all day.</string>
+  <string id="36614" soundid="43939"></string>
+  <string id="36617" soundid="43942">Well, what shall be my first point of contention? I know! The most basic of concerns for a culture, the currency of its economy.</string>
+  <string id="36618" soundid="43943">What manner of society would use the silver coin as the basis of trade? Gold is clearly superior, which you admit by using it for important statuary.</string>
+  <string id="36619" soundid="43944">Your understanding of what determines value is flawed. Your rebuttal?</string>
+  <string id="36620" soundid="43945"></string>
+  <string id="36621" soundid="43946">What! My monocle must be fogged. I can&apos;t see anyone in my favor.</string>
+  <string id="36622" soundid="43947">It appears they have reached a consensus against you, Sir Roderick.</string>
+  <string id="36623" soundid="43948">Hmm. Clearly these people are incapable of fairly comparing one of their own to an outsider. This is a farce!</string>
+  <string id="36624" soundid="43949">Well, it would seem that a majority of your fellows have decided your arguments were more persuasive. I expected no less.</string>
+  <string id="36625" soundid="43950">Well, that is all there is to it! You have failed to convince a majority of your own fellows that I am wrong!</string>
+  <string id="36626" soundid="43951">We are done, and I have thoroughly trounced you! You and your nearsighted fellows could not defeat a single one of my points!</string>
+  <string id="36627" soundid="43952">This will be the final topic. If you don&apos;t have a majority at the end of this round, you will have to admit that I have outdone you.</string>
+  <string id="36628" soundid="43953">A simple criticism: your ridiculous clothes. Not a decently puffed pair of trousers to be seen! I ask you, what have you done on the pantaloon front?</string>
+  <string id="36629" soundid="43954">And why do you remain so clean when any sane man knows the only way to keep devils of the dark at bay is to be brash and to carry the air of the earth.</string>
+  <string id="36630" soundid="43955">Bathing is bad for the humors, as well. Do you people know nothing of maintaining your bile?</string>
+  <string id="36631" soundid="43956">Hah! All agree with me! Your downfall is assured! On to the next topic!</string>
+  <string id="36632" soundid="43957">Well, a majority on your side, but the debate is not over yet.</string>
+  <string id="36633" soundid="43958">I call attention to the arrogance of your Empire. You simply assume that all lands outside your borders are the domain of barbarians and monsters.</string>
+  <string id="36634" soundid="43959">How can you truly know they are uncivilized until you&apos;ve proven it by conquest, crushed them beneath your heel?</string>
+  <string id="36635" soundid="43960">You sit here thinking while far off lands yearn for direction. Not unlike what I am attempting with you.</string>
+  <string id="36636" soundid="43961">Shall I draw attention to your foolish reliance on personal combat? You&apos;ve got strange dragon powder arms, but you waste them on spectacle and flying chariots.</string>
+  <string id="36637" soundid="43962">Any decently civilized people would have developed a proper array of personal sidearms by now, like old Mirabelle here.</string>
+  <string id="36638" soundid="43963">I challenge your foolish beliefs and the irrational behaviors they produce. Dragons, spirits, and even talk of unresting dead. Bah!</string>
+  <string id="36639" soundid="43964">Just look at the collective foolishness that you call a floating palace! The constant superstitious yammering of your peasants even has *me* seeing it!</string>
+  <string id="36640" soundid="43965">And how the bloody hell would you get a moat up there? Ridiculous, I say!</string>
+  <string id="36641" soundid="43966">I say that you don&apos;t seem to understand the relationship between the ruling class and the peasantry. Your commoners are far too happy to be productive.</string>
+  <string id="36642" soundid="43967">A proper spiral of misery shows that they are doing a decent day&apos;s work. Your peasants only suffer because of foolish superstitions about the dead walking around.</string>
+  <string id="36643" soundid="43968">Well, you are clearly in the minority, but I can spare no quarter. To the next topic.</string>
+  <string id="36644" soundid="43969"></string>
+  <string id="36645" soundid="43970"></string>
+  <string id="36646" soundid="43971"></string>
+  <string id="36647" soundid="43972"></string>
+  <string id="36650">I shall endeavor to enlighten you.</string>
+  <string id="36653">I&apos;ll expose you for the fool you are.</string>
+  <string id="36655">I&apos;m not ready. Wait for a moment.</string>
+  <string id="36661">[Sympathetic] Please understand that true value transcends currency.</string>
+  <string id="36668">[Sympathetic] We prefer social considerations over scaring spirits.</string>
+  <string id="36669">[Mocking] Devils, friends, family; I wager you keep them all away.</string>
+  <string id="36670">[Dismissive] An attack about clothes? Hardly worthy of debate.</string>
+  <string id="36671">[Factual] Why fear any spirit scared off by simple odors?</string>
+  <string id="36672">[Raging] Your odor is a choice? Sickening fool!</string>
+  <string id="36677">[Sympathetic] We do not wish to impose ourselves on others.</string>
+  <string id="36678">[Mocking] We know Outsiders are uncivilized. Look at you.</string>
+  <string id="36679">[Dismissive] Your attempt is failing. How does this strengthen your argument?</string>
+  <string id="36680">[Factual] Such expansion must be controlled. The conquered are volatile.</string>
+  <string id="36681">[Raging] We don&apos;t want to earn the same hatred we feel for you!</string>
+  <string id="36683">[Sympathetic] We don&apos;t want such destruction unleashed on our land.</string>
+  <string id="36684">[Mocking] You are obviously hiding a lack of ability elsewhere.</string>
+  <string id="36685">[Dismissive] Simple toys. We have no use for them.</string>
+  <string id="36686">[Factual] At close range the advantage you claim to have disappears.</string>
+  <string id="36687">[Raging] A coward&apos;s trinket! We would feed it to you!</string>
+  <string id="36690">[Sympathetic] We apologize, but only you govern your own eyes.</string>
+  <string id="36691">[Mocking] You are debating your own eyes!</string>
+  <string id="36692">[Dismissive] See what you want. We know what is real.</string>
+  <string id="36693">[Factual] Overwhelming evidence supports our local beliefs.</string>
+  <string id="36694">[Raging] Show us a wonder of your own or be silent!</string>
+  <string id="36696">[Sympathetic] Perhaps you don&apos;t understand the plight of the poor.</string>
+  <string id="36697">[Mocking] Newborns know more of our people than you.</string>
+  <string id="36698">[Dismissive] This topic is as irrelevant as the peasants you speak of.</string>
+  <string id="36699">[Factual] We don&apos;t feel misery is so useful a tool.</string>
+  <string id="36700">[Raging] Whip your own servants? You understand nothing!</string>
+  <string id="36702">[Mocking] Your stance betrays a worship of gold. Laughable!</string>
+  <string id="36704">[Dismissive] Bah! You have no understanding of us.</string>
+  <string id="36706">[Factual] Scarcity proves gold should be reserved for higher purposes.</string>
+  <string id="36708">[Raging] Ignorant fool! You are the poor man here!</string>
+  <string id="36737" soundid="118992">Sir Roderick Ponce Von Fontlebottom the Magnificent Bastard will do no such thing. He means to educate you all.</string>
+  <string id="36739" soundid="44073">Try not to dig a hole you can&apos;t get out of. If you can&apos;t get everyone to agree with you, just focus on getting as many as you can.</string>
+  <string id="36740" soundid="44074">Yes, make certain you are ready. The Outlander will be a challenging opponent.</string>
+  <string id="36741" soundid="44075">A triumph all around. This Outlander cannot ignore how complete your victory was.</string>
+  <string id="36742">What kind of arguments do you favor?</string>
+  <string id="36744">What strategy can you offer?</string>
+</tlk>
