@@ -1,0 +1,1 @@
+.\xoreos-tools-0.0.6-win64\xml2tlk.exe --jade .\dialog.xml .\dialog.tlk
